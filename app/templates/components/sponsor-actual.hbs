@@ -1,0 +1,15 @@
+{{#each content as |item|}}
+<div class="col l4 m6 s12">
+<img src={{item.sponsorImage}} alt="">
+{{!-- 
+{{#md-card title=item.cardTitle titleClass="black-text" image=item.sponsorImage}}
+  {{#md-card-content}}
+      {{item.sponsorContent}}
+  {{/md-card-content}}
+  {{#md-card-action}}
+    <a href={{item.sponsorUrl}} target="_blank">Visit FlickFlyer</a>
+  {{/md-card-action}}
+{{/md-card}} --}}
+</div>
+{{/each}}
+

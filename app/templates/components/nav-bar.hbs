@@ -1,0 +1,46 @@
+<nav>
+  <div class="nav-wrapper green">
+    <div class="container">
+
+      {{#link-to 'index' class="brand-logo"}}
+        <img src="img/venture-hacked-favicon.png" class="logo-styling z-depth-2" alt="Venture Hacked Logo">
+      {{/link-to}}
+
+      <a href="#" data-activates="mobile-demo" class="button-collapse">
+        <i class="mdi-navigation-menu"></i>
+      </a>
+      <ul class="right hide-on-med-and-down">
+        <li><a href="http://twitter.com/venturehacked" target="_blank">{{fa-icon "twitter fa-inverse"}}</a></li>
+        <li><a href="https://www.facebook.com/pages/Venture-Hacked/1610746269173897?fref=ts" target="_blank">{{fa-icon "facebook fa-inverse"}}</a></li>
+        {{#link-to 'articles' tagName='li'}}
+          <a>Articles</a>
+        {{/link-to}}
+        {{#link-to 'events' tagName='li'}}
+          <a>Events</a>
+        {{/link-to}}
+        {{#link-to 'investors' tagName='li'}}
+          <a>Investors</a>
+        {{/link-to}}
+        {{#link-to 'sponsors' tagName='li'}}
+          <a>Sponsors</a>
+        {{/link-to}}
+      </ul>
+      <ul class="side-nav" id="mobile-demo">
+        <li><a href="http://twitter.com/venturehacked" target="_blank">Twitter</a></li>
+        <li><a href="https://www.facebook.com/pages/Venture-Hacked/1610746269173897?fref=ts" target="_blank">Facebook</a></li>
+        {{#link-to 'articles' tagName='li'}}
+          <a>Articles</a>
+        {{/link-to}}
+        {{#link-to 'events' tagName='li'}}
+          <a>Events</a>
+        {{/link-to}}
+        {{#link-to 'investors' tagName='li'}}
+          <a>Investors</a>
+        {{/link-to}}
+        {{#link-to 'sponsors' tagName='li'}}
+          <a>Sponsors</a>
+        {{/link-to}}
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,13 @@
+
+	{{!-- <div class={{if article.colClass article.colClass "col s12 m6 l4"}}> --}}
+	<div class="col s12 m6 l6">
+		{{#link-to 'article' article.id}}
+		{{#md-card title=article.cardTitle titleClass="black-text" image=article.image}}
+  			{{#md-card-content}}
+  			{{article.cardContent}}
+  			{{/md-card-content}}
+		{{/md-card}}		
+		{{/link-to}}
+	</div>
+	
+	{{!-- </div> --}}

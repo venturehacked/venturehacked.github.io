@@ -1,0 +1,80 @@
+@import 'materialize';
+
+/* FIXME: Workaround for https://github.com/Dogfalo/materialize/issues/1079 */
+@each $mdi-icon-name, $mdi-icon-value in $mdi-list-icons {
+  .#{$mdi-prefix}#{$mdi-icon-name}:before {
+    content: "\""+ $mdi-icon-value +"\"";
+  }
+}
+.container {
+  padding: 0 1.5rem;
+  margin: 0 auto;
+  max-width: 1280px;
+  width: 100%;
+}
+
+@media only screen and (min-width : 601px) {
+  .container {
+    width: 600px; 
+  }
+}
+
+@media only screen and (min-width : 1013px) {
+  .container {
+    width: 960px;
+  } 
+  .row .sponsor-card {
+    height: 575px;
+  }
+}
+
+@media only screen and (min-width : 1280px) {
+  .container {
+    width: 1280px;
+  } 
+
+}
+
+
+$logo_size: 80px;
+
+.logo-styling {
+  height: $logo_size;
+  width: $logo_size;
+  border-radius: $logo_size/2;
+  margin: 10px;
+}	
+
+$sponsor_logo: 400px;
+.sponsor-logo img {
+	width: $sponsor_logo;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.sponsor-images img{
+	height: 350px;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.article-content-text{
+  text-align: right;
+}
+.article-card-height .col{
+  height: 650px;
+}
+.article-content{
+  font-size: 15px;
+}
+
+main {
+  margin-top: 60px;
+}
+
+
+
