@@ -43,5 +43,6 @@ after_success:
 # Push the new commit
 - /bin/bash lib/try-generate-pages.sh
 
+
 script:
   - npm test
