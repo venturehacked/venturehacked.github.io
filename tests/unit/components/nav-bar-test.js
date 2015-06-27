@@ -2,7 +2,7 @@ import { moduleForComponent, test } from 'ember-qunit';
 
 moduleForComponent('nav-bar', 'Unit | Component | nav bar', {
   // Specify the other units that are required for this test
-  // needs: ['component:foo', 'helper:bar'],
+  needs: ['helper:fa-icon'],
   unit: true
 });
 
