@@ -5,7 +5,7 @@ module.exports = function(environment) {
     modulePrefix: 'venture-hacked-site',
     environment: environment,
     baseURL: '/',
-    locationType: 'auto',
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build
@@ -43,7 +43,7 @@ module.exports = function(environment) {
   }
 
   if (environment === 'production') {
-
+    ENV.locationType = 'hash';
   }
 
   return ENV;
