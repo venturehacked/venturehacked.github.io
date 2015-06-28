@@ -11,6 +11,8 @@ cache:
 branches:
   only:
     - main
+  except:
+    - master
 
 before_install:
   - mkdir travis-phantomjs
