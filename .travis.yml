@@ -45,6 +45,9 @@ after_success:
 # Push the new commit
 - /bin/bash lib/try-generate-pages.sh 2>&1 >/dev/null
 
-
+notifications:
+  email:
+    recipients:
+      - tracy@venturehacked.com
 script:
   - npm test
