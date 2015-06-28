@@ -3,18 +3,25 @@
 <div class="container">
 	<div class="row">
 		<div class="col s12">
-			{{link-to "< Articles" "articles"}}
+			<h5>{{link-to "< Articles" "articles"}}</h5>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col s12">
-				<h1>{{content.cardTitle}}</h1>
+				<h3 class="green-text text-darken-4">{{content.cardTitle}}</h3>
+				<h5 class="green-text">{{content.cardContent}}</h5>
 		</div>
 	</div>
-
-	<h1>insert main image here</h1>
 	<div class="row">
-		<div class="col s12 article-content">
+		<div class="col s12 text-center">
+			<img src="{{content.image}}" alt="image">
+		</div>
+		<div class="col s12 font-large margin-top">
+			<b>By {{content.author}}</b>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col s12 article-content margin-article">
 				{{partial content.bodyPartial}}
 		</div>
 	</div>

@@ -61,6 +61,9 @@ $sponsor_logo: 400px;
 .text-right{
   text-align: right;
 }
+.text-center{
+  text-align: center;
+}
 
 .article-content-text{
   text-align: right;
@@ -69,12 +72,22 @@ $sponsor_logo: 400px;
   height: 650px;
 }
 .article-content{
-  font-size: 15px;
+  font-size: 16px;
+  li {
+    margin-left: 15px;
+    line-height: 40px;
+  }
 }
 
 main {
   margin-top: 60px;
 }
-
-
-
+.font-large{
+  font-size: 1.2em;
+}
+.margin-top{
+  margin-top: 50px;
+}
+.margin-article h4{
+  margin-top: 50px;
+}
