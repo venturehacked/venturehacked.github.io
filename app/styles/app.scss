@@ -141,3 +141,32 @@ main {
     height: 615px;
   }
 }
+
+.eventbrite-container {
+  width: 100%;
+  text-align: left;
+}
+
+
+
+@media #{$medium-only} {
+  .eventbrite-container {
+    height: 930px;
+  }
+}
+@media #{$large-and-up} {
+  .eventbrite-container {
+    height: 650px;
+  }
+}
+
+@media #{$small-and-down} {
+  .eventbrite-container {
+    width: 120%;
+    height: 910px;
+    margin-left: -10%;
+    margin-right: -10%;
+  }
+}
+
+
