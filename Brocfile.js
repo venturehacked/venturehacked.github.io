@@ -17,4 +17,6 @@ var app = new EmberApp();
 // please specify an object with the list of modules as keys
 // along with the exports of each module as its value.
 
+app.import('bower_components/add-to-homescreen/src/addtohomescreen.js');
+app.import('bower_components/add-to-homescreen/style/addtohomescreen.css');
 module.exports = app.toTree();
