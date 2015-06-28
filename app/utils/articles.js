@@ -135,7 +135,7 @@ export default [{
 		author: 'Tracy Lee'
 	},{
 		cardTitle:"Your Startup's Exit Strategy is Overrated",
-		image:"img/articles/exit-sign.jpg",
+		image:"img/articles/exit-sign.JPG",
 		cardContent: "An Interview with Peter Brack, Mucker Capital",
 		bodyPartial: 'articles/peter-brack',
 		author: 'Tracy Lee'
