@@ -29,7 +29,7 @@ export default [{
 		bodyPartial: 'articles/rafat-alvi',
 		author: 'Tracy Lee'
 	},{
-		cardTitle:"7 Myths About Startup Sales Debunked by This Expert",
+		cardTitle:"7 Myths About Startup Sales",
 		image:"img/articles/truth.jpg",
 		cardContent: "An Interview with Hendrik van der Meer, Vilynx",
 		bodyPartial: 'articles/hendrik-van-der-meer',

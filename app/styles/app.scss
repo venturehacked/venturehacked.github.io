@@ -6,36 +6,26 @@
     content: "\""+ $mdi-icon-value +"\"";
   }
 }
+
+
 .container {
   padding: 0 1.5rem;
   margin: 0 auto;
   max-width: 1280px;
-  width: 100%;
+  width: 90%;
 }
 
-@media only screen and (min-width : 601px) {
+@media #{$medium-and-up} {
   .container {
-    width: 600px; 
+    width: $small-screen;
   }
 }
 
-@media only screen and (min-width : 1013px) {
+@media #{$large-and-up} {
   .container {
-    width: 960px;
-  } 
-  .row .sponsor-card {
-    height: 575px;
+    width: $medium-screen;
   }
 }
-
-@media only screen and (min-width : 1280px) {
-  .container {
-    width: 1280px;
-  } 
-
-}
-
-
 $logo_size: 80px;
 
 .logo-styling {
@@ -68,8 +58,31 @@ $sponsor_logo: 400px;
 .article-content-text{
   text-align: right;
 }
-.article-card-height .col{
-  height: 650px;
+.article-card-height .card{
+    position: relative;
+    .card-title {
+      line-height: 34px;
+    }
+    .card-content { 
+      margin-bottom: 35px;
+      p {
+        position: absolute;
+        bottom: 10px;
+        right: 10px;
+        left: 10px;
+
+      }
+    }
+  }
+@media #{$large-and-up} {
+  .article-card-height .card{
+    height: 470px;
+  }
+}
+@media #{$medium-only} {
+  .article-card-height .card{
+    height: 370px;
+  }
 }
 .article-content{
   font-size: 16px;
@@ -93,4 +106,38 @@ main {
 }
 .margin-article h4{
   margin-top: 50px;
+}
+
+@media #{$large-and-up} {
+  .investor-content {
+     &.investor-card-height .card {
+      height: 400px;
+    }
+  }
+}
+@media #{$medium-only} {
+  .investor-content {
+     &.investor-card-height .card {
+      height: 440px;
+    }
+  }
+}
+
+.investor-content {
+     &.investor-card-height .col {
+      .card-title {
+        font-size: 1.2rem;
+      }
+    }
+  }
+@media #{$large-and-up} {  
+  .event-content-card-height .card-panel{
+    height: 340px;
+  }
+}
+
+@media #{$large-and-up} {
+  .card-height-615-lg .card-panel {
+    height: 615px;
+  }
 }

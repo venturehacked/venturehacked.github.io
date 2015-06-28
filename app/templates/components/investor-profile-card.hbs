@@ -1,0 +1,16 @@
+
+<div class="col s12 m6 l3">
+	{{#md-card class="z-depth-2" title=investor.cardTitle image=investor.image activator=true}}
+  	{{#md-card-content}}
+    <div>
+    	{{investor.title}}
+    </div>
+    <div>
+    	{{investor.cardContent}}
+    </div>
+  	{{/md-card-content}}
+  	{{#md-card-reveal}}
+	{{investor.revealContent}}
+  	{{/md-card-reveal}}
+	{{/md-card}}
+</div>

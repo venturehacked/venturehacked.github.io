@@ -1,1 +1,100 @@
-{{outlet}}
+<div class="container">
+	<div class="row">
+		<div class="col s12 green-text text-darken-4">
+			<h2>Events</h2>
+		</div>
+	</div>
+	{{!-- video --}}
+	<div class="row">
+		<div class="col s12 text-center">
+			<h3 class="green-text text-darken-3">Speed Investing &amp; Lessons Learned</h3>
+			<h5 class="green-text">Wednesday, July 22, 2015 7pm-930pm</h5>
+			<h5 class="green-text">@ Perkins Coie HQ (3150 Porter Drive, Palo Alto)</h5>
+		</div>
+		<div class="col s12 text-center">
+			<div>
+				<p>
+					This event is open to technology entrepreneurs actively seeking funding and investors (angel and institutional) looking for great opportunities. Sorry, no refunds.
+				</p>
+				<p class="text-center red-text">
+					<i>Note – You must register for this event or be denied entry. If you register and you are not a qualified investor or entrepreneur, you will not be allowed entry.</i>
+				</p>
+			</div>
+			<div class="margin-top video-container">
+				<iframe src="https://player.vimeo.com/video/128109370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/128109370">View on Vimeo</a></p>
+			</div>
+		</div>
+	</div>
+	{{!-- end video --}}
+	{{!-- content cards --}}
+<div class="row event-content-card-height">	
+	<div class="col s12 m12 l4">
+		{{#md-card-panel class="green" bodyClass="white-text"}}
+		<h5>Investor Panel</h5>
+		<p>
+			Hear from a seasoned investor panel lessons learned from seeing startups succeed and fail. 
+		</p>
+		<p>
+			Understand how the landscape of investment is changing and what investors are currently looking for.
+		</p>
+		{{/md-card-panel}}
+	</div>
+	<div class="col s12 m12 l4">
+		{{#md-card-panel class="green" bodyClass="white-text"}}
+		<h5>Speed Investing &amp; Mentoring</h5>
+		<p>
+			Participate in rotating 3-minute sessions. 
+		</p>
+		<p>
+			Investors and mentors will get to effectively meet entrepreneurs with great ideas while entrepreneurs will get real time feedback from investors and mentors.
+		</p>
+		<p>
+			<i>*Must register for "Guaranteed Spot" ticket</i>
+		</p>
+		{{/md-card-panel}}
+	</div>
+	<div class="col s12 m12 l4">
+		{{#md-card-panel class="green" bodyClass="white-text"}}
+		<h5>Format</h5>
+		<p>
+			<ul>
+				<li>645-715 Registration &amp; Welcome</li>
+				<li>715-730 Startup Panel</li>
+				<li>730-800 Investor Panel</li>
+				<li>800-900 Speed Investing &amp; Mentoring</li>
+				<li>900-930 Networking</li>
+			</ul>
+		</p>
+		{{/md-card-panel}}
+	</div>
+</div>
+	{{!-- end content cards --}}
+	{{!-- eventbrite --}}
+	<div class="video-container" style="width: 100%; text-align: left;">
+		<iframe src="//eventbrite.com/tickets-external?eid=16826664005&amp;ref=etckt" width="100%" height="600" frameborder="0" marginwidth="5" marginheight="5" scrolling="auto"></iframe>
+		
+		<div style="font-family: Helvetica, Arial; font-size: 10px; padding: 5px 0 5px; margin: 2px; width: 100%; text-align: left;">
+			<a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.com/r/etckt" target="_blank">Online event registration</a>
+			<span style="color: #ddd;"> for </span>
+			<a style="color: #ddd; text-decoration: none;" href="https://www.eventbrite.com/e/venture-hacked-speed-investing-mentoring-tickets-16826664005?ref=etckt" target="_blank">Venture Hacked - Speed Investing &amp; Mentoring</a>
+			<span style="color: #ddd;">powered by</span>
+			<a style="color: #ddd; text-decoration: none;" href="http://www.eventbrite.com?ref=etckt" target="_blank">Eventbrite</a>
+		</div>
+	</div>
+	{{!-- end eventbrite --}}
+	<div class="row">
+		<div class="col s12">
+			
+		</div>
+	</div>
+	{{!-- investors --}}
+	<div class="row">
+		<div class="col s12 green-text text-darken-4">
+			<h3>Featured Investors &amp; Mentors</h3>
+			<p>To view previously featured investors, visit the {{#link-to "investors"}}investors page{{/link-to}}.</p>
+		</div>
+		{{#each content as |investor|}}
+		{{investor-profile-card investor=investor}}
+		{{/each}}
+	</div>
+</div>
