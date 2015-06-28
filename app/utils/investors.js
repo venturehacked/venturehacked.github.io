@@ -196,4 +196,4 @@ export default [{
 	cardContent: 'Fenox Venture Capital',
 	revealContent: "John leads venture due diligence at Fenox Venture Capital.",
 	current: true
-}]
+}];

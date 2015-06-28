@@ -3,6 +3,7 @@ import { moduleForComponent, test } from 'ember-qunit';
 moduleForComponent('investor-profile-card', 'Unit | Component | investor profile card', {
   // Specify the other units that are required for this test
   // needs: ['component:foo', 'helper:bar'],
+  needs: ['component:md-card', 'component:md-card-content', 'component:md-card-reveal'],
   unit: true
 });
 
