@@ -6,7 +6,9 @@
     content: "\""+ $mdi-icon-value +"\"";
   }
 }
-
+body {
+  -webkit-overflow-scrolling: touch;
+}
 
 .container {
   padding: 0 1.5rem;

@@ -141,8 +141,8 @@ export default [{
 		author: 'Tracy Lee'
 	}].map(article => {
 		article.id = article.cardTitle.classify().dasherize();
-		if (article.id.length > 40) {
-			article.id = article.id.substring(0, 40);
-		}
+		// if (article.id.length > 40) {
+		// 	article.id = article.id.substring(0, 40);
+		// }
 		return article;
 	});
