@@ -162,6 +162,13 @@ export default [{
 	revealContent: 'Rafat Alvi is the Founder of FunnelBeam. Before that he was Head of Cloud at Zenprise ( acquired by Citrix ), Founder at HisBlackBox ( acquired MensScience ) and Co-Founder at Eduify ( Kno ). Rafat also worked at eBay and Sun Microsystems in the past. He has served as an advisor to a number of startups and is co-author of several US Patents. He holds a B.S from Ohio Wesleyan University and M.S. from Ohio State University.',
 	current: false
 }, {
+	cardTitle: 'Steve Austin',
+	title: 'Advisor',
+	image: 'img/investors/steve-austin.jpg',
+	cardContent: '',
+	revealContent: "20 years experience in Silicon Valley high-tech from from start-ups to large companies. Focus on driving revenue & competitive advantages in biz dev opportunities – domestic and international – for mobile applications, energy and technology. Steve is an advisor to several start-ups, instructor at Founders Space, mentor at Santa Clara University, Frugal Innovation Lab, and is a frequent guest speaker on Go-To-Market strategies at local startup events.",
+	current: true
+},{
 	cardTitle: 'Jim Jensen',
 	title: 'Partner',
 	image: 'img/investors/jim-jensen.png',
