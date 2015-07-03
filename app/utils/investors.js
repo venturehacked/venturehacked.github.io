@@ -201,6 +201,6 @@ export default [{
 	title: 'Analyst',
 	image: 'img/investors/john-lim.jpg',
 	cardContent: 'Fenox Venture Capital',
-	revealContent: "John leads venture due diligence at Fenox Venture Capital.",
+	revealContent: "John leads Fenox Venture Capital's due diligence operations. Fenox is a Silicon Valley VC with a global footprint. With 8 funds raised and more than 50 investments made in 4 years, Fenox has grown at a breakneck pace. Prior to joining Fenox, John has experience in leading financial analysis and fundraising at a startup, as well as startup business development initiatives at a consulate general's trade and investment division.",
 	current: true
 }];
