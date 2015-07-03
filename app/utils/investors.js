@@ -13,6 +13,13 @@ export default [{
 	revealContent: "Lo joined Comcast Ventures in 2014, and is responsible for the Comcast Ventures Catalyst Fund, which is focused on investing in early stage technology startups led by minority entrepreneurs. His investment focus is on consumer technologies including vertical ecommerce, marketplaces and on demand services.",
 	current: true
 },{
+	cardTitle: 'Bucky Moore',
+	title: 'Investor',
+	image: 'img/investors/bucky-moore.jpg',
+	cardContent: 'Costanoa Venture Capital',
+	revealContent: "Bucky joins Costanoa after 4+ years investing and working in and around technology companies. Prior to joining Costanoa, Bucky was an investor at Battery Ventures, where he focused on early stage investments in enterprise software and infrastructure. During his time at Battery, he invested in companies such as Veradocs and Lightcyber. Earlier in his career, Bucky was a member of the corporate development team at Cisco, where he led M&A and venture investment activity within the data center and cloud infrastructure segments. During his time at Cisco, he led investments in companies including Platfora, Embrane, 6Wind, Nantero, Whiptail, and Insieme Networks.",
+	current: true
+},{
 	cardTitle: 'Manny Fernandez',
 	title: 'Investor',
 	image: 'img/investors/manny-fernandez.jpg',
