@@ -1,4 +1,16 @@
 export default [{
+		cardTitle:"Comcast Ventures: Leading Innovation",
+		image:"img/articles/lightbulb.jpg",
+		cardContent:"An Interview with Lo Toney, Comcast Ventures",
+		bodyPartial: 'articles/lo-toney',
+		author: 'Tracy Lee'
+	}, {
+		cardTitle:"International Startup Acceleration in Silicon Valley",
+		image:"img/articles/international-flag.jpg",
+		cardContent:"An Interview with Marco Marinucci, MTS Fund",
+		bodyPartial: 'articles/marco-marinucci',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle:"How Smart Startups Think About Growth",
 		image:"img/articles/startup-growth.jpg",
 		cardContent:"An Interview with Josh Breinlinger, Sigma West VC",
