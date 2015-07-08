@@ -1,4 +1,10 @@
 export default [{
+		cardTitle:"How Early-Stage Startups Should Be Spending Their Time",
+		image:"img/articles/time.jpg",
+		cardContent:"An Interview with Sara Thomas, Maven Ventures",
+		bodyPartial: 'articles/sara-thomas',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle:"Comcast Ventures: Leading Innovation",
 		image:"img/articles/lightbulb.jpg",
 		cardContent:"An Interview with Lo Toney, Comcast Ventures",
