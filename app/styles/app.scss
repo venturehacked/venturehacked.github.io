@@ -153,22 +153,46 @@ main {
 
 @media #{$medium-only} {
   .eventbrite-container {
-    height: 930px;
+    height: 550px;
   }
 }
 @media #{$large-and-up} {
   .eventbrite-container {
-    height: 650px;
+    height: 300px;
   }
 }
 
 @media #{$small-and-down} {
   .eventbrite-container {
     width: 120%;
-    height: 910px;
+    height: 700px;
     margin-left: -10%;
     margin-right: -10%;
   }
 }
 
+// moderator logo-styling
 
+@media only screen and (min-width : 601px) {
+  .bio-image-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-right: 20px;
+    min-height: 300px;
+    max-height: 500px;
+    height: 100%;
+    float: left;
+  }
+  
+  .bio-content{
+    margin-left: 286px;
+    min-height: 286px;
+  }
+  .bio-card{
+    position: relative;
+    overflow: hidden;
+  }
+}
+
+// end moderator logo-sytling

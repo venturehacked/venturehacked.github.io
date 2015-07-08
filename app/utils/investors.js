@@ -170,10 +170,10 @@ export default [{
 	current: false
 }, {
 	cardTitle: 'Steve Austin',
-	title: 'Advisor',
+	title: 'Advisor & Pitch Coach',
 	image: 'img/investors/steve-austin.jpg',
 	cardContent: '',
-	revealContent: "20 years experience in Silicon Valley high-tech from from start-ups to large companies. Focus on driving revenue & competitive advantages in biz dev opportunities – domestic and international – for mobile applications, energy and technology. Steve is an advisor to several start-ups, instructor at Founders Space, mentor at Santa Clara University, Frugal Innovation Lab, and is a frequent guest speaker on Go-To-Market strategies at local startup events.",
+	revealContent: "20 years experience in Silicon Valley high-tech from from start-ups to large companies. Focus on driving revenue & competitive advantages in biz dev opportunities – domestic and international – for mobile applications, energy and technology. Steve is an advisor to several start-ups, instructor at Founders Space, and is a frequent guest speaker on Go-To-Market strategies at local startup events.",
 	current: true
 },{
 	cardTitle: 'Jim Jensen',
