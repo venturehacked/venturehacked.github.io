@@ -16,6 +16,12 @@ body {
   max-width: 1280px;
   width: 90%;
 }
+@media #{$small-and-down} {
+  .container {
+    max-width: 340px;
+    min-width: 300px;
+  }
+}
 
 @media #{$medium-and-up} {
   .container {
@@ -165,7 +171,7 @@ main {
 @media #{$small-and-down} {
   .eventbrite-container {
     width: 120%;
-    height: 700px;
+    height: 540px;
     margin-left: -10%;
     margin-right: -10%;
   }
@@ -173,24 +179,42 @@ main {
 
 // moderator logo-styling
 
-@media only screen and (min-width : 601px) {
+@media #{$small-and-down} {
   .bio-image-container {
-    position: absolute;
-    left: 0;
-    top: 0;
-    margin-right: 20px;
-    min-height: 300px;
-    max-height: 500px;
-    height: 100%;
-    float: left;
-  }
-  
-  .bio-content{
-    margin-left: 286px;
-    min-height: 286px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-top: -20px;
+    overflow: hidden;
+    max-height: 350px;
+    img {
+      width: 100%;
+    }
   }
   .bio-card{
-    position: relative;
+    // position: relative;
+    // overflow: hidden;
+  }
+}
+
+
+@media #{$medium-and-up} {
+  .bio-image-container {
+    margin-left: -20px;
+    margin-top: -20px;
+    overflow: hidden;
+    width: 286px;
+    float: left;
+    overflow: visible;
+    height: 350px;
+    img {
+      width: 100%;
+    }
+  }
+  .bio-content{
+    margin-left: 296px;
+    // overflow: hidden;
+  }
+  .bio-card {
     overflow: hidden;
   }
 }
