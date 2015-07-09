@@ -19,7 +19,6 @@ body {
 @media #{$small-and-down} {
   .container {
     max-width: 340px;
-    min-width: 300px;
   }
 }
 
@@ -159,19 +158,22 @@ main {
 
 @media #{$medium-only} {
   .eventbrite-container {
-    height: 550px;
+    height: 570px;
   }
 }
 @media #{$large-and-up} {
   .eventbrite-container {
-    height: 300px;
+    height: 460px;
+    &.video-container {
+      padding-bottom: 0;
+    }
   }
 }
 
 @media #{$small-and-down} {
   .eventbrite-container {
     width: 120%;
-    height: 540px;
+    height: 600px;
     margin-left: -10%;
     margin-right: -10%;
   }
