@@ -12,7 +12,15 @@ module.exports = function(environment) {
         // e.g. 'with-controller': true
       }
     },
-
+    contentSecurityPolicy: {
+      'default-src': "'unsafe-inline' https://player.vimeo.com",
+      'script-src': "'self' 'unsafe-eval' 'unsafe-inline'",
+      'style-src': "'self' 'unsafe-inline'",
+      'connect-src': "'self' ",
+      'img-src': "'self' data:",
+      'media-src': "'self'",
+      'frame-src': 'http://eventbrite.com http://www.eventbrite.com https://player.vimeo.com'
+    },
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created

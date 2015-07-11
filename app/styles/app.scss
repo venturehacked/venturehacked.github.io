@@ -193,11 +193,8 @@ main {
     }
   }
   .bio-card{
-    // position: relative;
-    // overflow: hidden;
   }
 }
-
 
 @media #{$medium-and-up} {
   .bio-image-container {
@@ -222,3 +219,34 @@ main {
 }
 
 // end moderator logo-sytling
+
+// event page background
+// .background-image {
+//   background-image: url ('img/album/venture-hacked140.jpg');
+
+.events-page-background {
+  background-image: url("/img/background-vh.jpg");
+  background-size: cover;
+}
+// end event page background
+
+.background-white {
+  background: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
