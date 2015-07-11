@@ -1,7 +1,6 @@
-<div class="container">
+<div class="container background-white">
 	<div class="row">
 		<div class="col s12 green-text text-darken-4">
-			<h2>Events</h2>
 		</div>
 	</div>
 	{{!-- video --}}
@@ -12,15 +11,8 @@
 			<h5 class="green-text">@ Perkins Coie HQ (3150 Porter Drive, Palo Alto)</h5>
 		</div>
 		<div class="col s12 text-center">
-			<div>
-				<p>
-					This event is open to technology entrepreneurs actively seeking funding and investors (angel and institutional) looking for great opportunities. Sorry, no refunds.
-				</p>
-				<p class="text-center red-text">
-					<i>Note – You must register for this event or be denied entry. If you register and you are not a qualified investor or entrepreneur, you will not be allowed entry.</i>
-				</p>
-			</div>
-			<div class="margin-top video-container">
+			
+			<div class="video-container">
 				<iframe src="https://player.vimeo.com/video/128109370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/128109370">View on Vimeo</a></p>
 			</div>
 		</div>
@@ -47,9 +39,6 @@
 			</p>
 			<p>
 				Investors and mentors will get to effectively meet entrepreneurs with great ideas while entrepreneurs will get real time feedback from investors and mentors.
-			</p>
-			<p>
-				<i>*Must register for "Guaranteed Spot" ticket</i>
 			</p>
 			{{/md-card-panel}}
 		</div>
@@ -82,8 +71,34 @@
 		</div>
 	</div>
 	{{!-- end eventbrite --}}
-	{{!-- moderator --}}
+	{{!-- moderator and keynote --}}
 	<div class="row">
+		<div class="col s12 m6 l6">
+			{{#md-card title="Keynote Speaker" image="img/jeremy-edberg-280x200.jpg" activator=true}}
+			{{#md-card-content}}
+			<p>Jeremy Edberg</p>
+			{{/md-card-content}}
+			{{#md-card-reveal}}
+			<p>Jeremy is an angel investor and advisor for various incubators and startups. He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world.</p>
+			<p>Before that he ran ops for reddit,which more than five billion pageviews a month at the time. Jeremy also tech-edited the highly acclaimed AWS for Dummies. His expertise is in distributed computing, availability, rapid scaling, and cloud computing.</p>
+			{{/md-card-reveal}}
+			{{/md-card}}
+		</div>
+		<div class="col s12 m6 l6">
+			{{#md-card title="Panel Moderator" image="img/alastair-goldfisher-280x200.jpg" activator=true}}
+			{{#md-card-content}}
+			<p>Alastair Goldfisher</p>
+			{{/md-card-content}}
+			{{#md-card-reveal}}
+			<p>Alastair Goldfisher is Venture Capital Editor of VCJ and peHUB, two Buyouts Insider publications. Alastair primarily reports on the venture capital industry, which includes fundraising, investments, sector trends, venture-backed M&amp;A, personnel news and other VC-related topics from startup to exit. </p>
+			<p>Alastair has worked as a business journalist since 1994. Prior to joining the staff of VCJ in 2003, he was the founding editor of California CEO and before that he was a reporter with the San Jose Business Journal.</p>
+			{{/md-card-reveal}}
+			{{/md-card}}
+		</div>
+	</div>
+	{{!-- end moderator and keynote --}}
+	{{!-- moderator --}}
+	{{!-- <div class="row">
 		<div class="col s12 green-text text-darken-4">
 			<h3>Featured Panel Moderator</h3>
 			<div class="card-panel z-depth-1 bio-card">
@@ -95,7 +110,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> --}}
 	{{!-- investors --}}
 	<div class="row">
 		<div class="col s12 green-text text-darken-4">
