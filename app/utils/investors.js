@@ -210,4 +210,23 @@ export default [{
 	cardContent: 'Fenox Venture Capital',
 	revealContent: "John leads Fenox Venture Capital's due diligence operations. Fenox is a Silicon Valley VC with a global footprint. With 8 funds raised and more than 50 investments made in 4 years, Fenox has grown at a breakneck pace. Prior to joining Fenox, John has experience in leading financial analysis and fundraising at a startup, as well as startup business development initiatives at a consulate general's trade and investment division.",
 	current: true
+},{
+	cardTitle: 'Kristen Bergman',
+	title: 'Mentor',
+	image: 'img/investors/kristen-bergman.jpg',
+	cardContent: '',
+	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
+	current: true
 }];
+
+
+
+
+
+
+
+
+
+
+
+

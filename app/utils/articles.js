@@ -1,4 +1,10 @@
 export default [{
+		cardTitle:"Intel Capital - Representing the Underrepresented",
+		image:"img/articles/marlon-speaking.jpg",
+		cardContent:"An Interview with Marlon Nichols, Intel Capital",
+		bodyPartial: 'articles/marlon-nichols',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle:"How Early-Stage Startups Should Be Spending Their Time",
 		image:"img/articles/time.jpg",
 		cardContent:"An Interview with Sara Thomas, Maven Ventures",
