@@ -13,6 +13,13 @@ export default [{
 	revealContent: "Lo joined Comcast Ventures in 2014, and is responsible for the Comcast Ventures Catalyst Fund, which is focused on investing in early stage technology startups led by minority entrepreneurs. His investment focus is on consumer technologies including vertical ecommerce, marketplaces and on demand services.",
 	current: true
 },{
+	cardTitle: 'Andrea Zurek',
+	title: 'Founding Partner',
+	image: 'img/investors/andrea-zurek.jpg',
+	cardContent: 'XG Ventures',
+	revealContent: "Andrea Zurek, founding partner of XG Ventures, has been named one of the top 25 tech angels by Businessweek.  She has also been named one of 25 Influential Business Women in SF/Silicon Valley and profiled in the Top 40 Under 40 in the Silicon Valley Business Journal.  She was recently honored at the Women 2.0 \"Innovation Unleashed\" as one of five \"Catalyst\" Honorees. This recognition goes to five early stage investors who are creating impact in technology through their leadership and investment priorities. Since 2008, XG Ventures has invested in over 80 companies with 17 exits, including such companies as Facebook, Box, Disney Interactive and Twitter.  Andrea worked at Google for over 7 years as one of the first ad sales executives.  She has her BA/MBA from Santa Clara University.  She is a Board member of JUMA, the ASTIA Women Entrepreneurs Network and sits on the Board of Regents for Santa Clara University School of Business.  She has a passion for automobiles, kite surfing and running half marathons.",
+	current: true
+}, {
 	cardTitle: 'Bucky Moore',
 	title: 'Investor',
 	image: 'img/investors/bucky-moore.jpg',
@@ -97,6 +104,13 @@ export default [{
 	cardContent: 'Mucker Capital',
 	revealContent: "Peter Brack is an entrepreneur and investor with a 20 year track record of building businesses. Mr. Brack was co-founder and CEO of two companies, both of which went public on the Hong Kong Stock Exchange. He is an active member of the internet and digital media communities in Los Angeles, New York, and in China. Mr. Brack serves on several internet and mobile-related boards and advisory boards, and is an early stage venture and private equity investor.",
 	current: false
+}, {
+	cardTitle: 'Asif Giga',
+	title: 'Investor',
+	image: 'img/investors/asif-giga.jpg',
+	cardContent: 'Singtel Innov8',
+	revealContent: "Asif is currently supporting the fund's North American investment activities. Prior to joining Singtel Innov8, Asif started his own startup while at Wharton receiving funding from the Wharton Innovation Fund. Before Wharton he spent time at Data Collective Venture Capital which focuses on early stage deals around Big Data & Analytics. Asif spent time with Accenture in their Management Consulting practice building his operating experience with clients such as eBay, Microsoft and Cisco. He also spent time in Ernst & Young's Advisory Service practice. Asif received a BS in Business Administration from the University of Southern California, MMS from Duke University and his MBA from the Wharton School, University of Pennsylvania where he was a recipient of The Meckler Family Fellowship.",
+	current: true
 }, {
 	cardTitle: 'Rob Majteles',
 	title: 'Founder',
