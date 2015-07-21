@@ -41,10 +41,10 @@ export default [{
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
 	current: true
 }, {
-	cardTitle: 'Shuly Ghalili',
+	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
 	image: 'img/investors/shuly-ghalili.jpeg',
-	cardContent: 'Upwest Labs',
+	cardContent: 'UpWest Labs',
 	revealContent: "Shuly Galili is an investor and the Co-founder of UpWest Labs a Silicon Valley based fund investing in seed stage Israeli entrepreneurs looking grow their companies in the US. UpWest Labs (invested in over 50 companies) currently has the largest community of entrepreneurs innovating between Tel Aviv and San Francisco in domains such as Enterprise, Saas, Cyber Security, Commerce, Analytics and Data. Shuly spent the past decade building Silicon Valley’s gateway to Israel as the co-founder and Executive Director of The California Israel Chamber of Commerce.",
 	current: true
 }, {
