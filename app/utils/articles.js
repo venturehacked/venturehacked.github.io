@@ -1,5 +1,5 @@
 export default [{
-		cardTitle:"What Type of Startup Fundraising is Best? A Legal Perspective",
+		cardTitle:"What Type of Startup Fundraising is Best - A Legal Perspective",
 		image:"img/articles/cash-money.jpg",
 		cardContent:"An Interview with Jim Jensen, Perkins Coie",
 		bodyPartial: 'articles/jim-jensen',
