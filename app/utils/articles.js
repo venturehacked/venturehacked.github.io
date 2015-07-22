@@ -1,4 +1,10 @@
 export default [{
+		cardTitle:"What Type of Startup Fundraising is Best? A Legal Perspective",
+		image:"img/articles/cash-money.jpg",
+		cardContent:"An Interview with Jim Jensen, Perkins Coie",
+		bodyPartial: 'articles/jim-jensen',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle:"Intel Capital - Representing the Underrepresented",
 		image:"img/articles/marlon-speaking.jpg",
 		cardContent:"An Interview with Marlon Nichols, Intel Capital",
