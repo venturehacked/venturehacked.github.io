@@ -1,4 +1,19 @@
+function range(start, end) {
+	const arr = [];
+	for (let i = start; i <= end; i++) {
+		arr.push(i);
+	}
+	return arr;
+}
+
 export default [{
+		cardTitle: 'Venture Hacked Event Photos',
+		image:"img/album-7-22/venturehacked-16.jpg",
+		cardContent: "Curious about what a Venture Hacked Event looks like?",
+		bodyPartial: 'articles/event-photos-20150722',
+		author: 'Venture Hacked',
+		images: range(1,46).map(i => `img/album-7-22/venturehacked-${i}.jpg`)
+	},{
 		cardTitle:"What Type of Startup Fundraising is Best - A Legal Perspective",
 		image:"img/articles/cash-money.jpg",
 		cardContent:"An Interview with Jim Jensen, Perkins Coie",
