@@ -1,12 +1,15 @@
 /* global require, module */
 
-var EmberApp = require('ember-cli/lib/broccoli/ember-app');
+var EmberApp = require('ember-cli/lib/broccoli/ember-app'),
+	isProduction = EmberApp.env() === 'production';
 
-var app = new EmberApp({
+var options = isProduction ? {
 	fingerprint: {
 		exclude: 'img/album-7-22'
 	}
-});
+} : {};
+
+var app = new EmberApp(options);
 
 // Use `app.import` to add additional libraries to the generated
 // output files.
