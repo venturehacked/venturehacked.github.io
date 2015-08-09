@@ -7,6 +7,12 @@ function range(start, end) {
 }
 
 export default [{
+		cardTitle: 'Six Legal Mistakes Startups Make',
+		image:"img/articles/mistakes.jpg",
+		cardContent: "An Interview with Daphne Higgs, Perkins Coie",
+		bodyPartial: 'articles/daphne-higgs',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle: 'Venture Hacked Event Photos',
 		image:"img/album-7-22/venturehacked-16.jpg",
 		cardContent: "Curious about what a Venture Hacked Event looks like?",
