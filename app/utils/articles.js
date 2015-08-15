@@ -13,7 +13,7 @@ export default [{
 		bodyPartial: 'articles/deekron-krikorian',
 		author: 'Tracy Lee'
 	}, {
-		cardTitle: "Venture Capitalism & Social Responsiblity - Meet Fenox Capital",
+		cardTitle: "Venture Capitalism & Social Responsibility - Meet Fenox Capital",
 		image:"img/articles/developing-nations.jpg",
 		cardContent: "An Interview with Pierre Berlan, Fenox Capital",
 		bodyPartial: 'articles/pierre-berlan',
