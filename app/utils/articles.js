@@ -7,6 +7,18 @@ function range(start, end) {
 }
 
 export default [{
+		cardTitle: 'How Every Experience In Your Life Helps Prepare You For Startup',
+		image:"img/articles/desert-experience.jpg",
+		cardContent: "An Interview with Deekron Krikorian, Motion Traxx",
+		bodyPartial: 'articles/deekron-krikorian',
+		author: 'Tracy Lee'
+	}, {
+		cardTitle: "Venture Capitalism & Social Responsiblity - Meet Fenox Capital",
+		image:"img/articles/developing-nations.jpg",
+		cardContent: "An Interview with Pierre Berlan, Fenox Capital",
+		bodyPartial: 'articles/pierre-berlan',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle: 'Six Legal Mistakes Startups Make',
 		image:"img/articles/mistakes.jpg",
 		cardContent: "An Interview with Daphne Higgs, Perkins Coie",
