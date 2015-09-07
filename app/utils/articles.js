@@ -7,6 +7,18 @@ function range(start, end) {
 }
 
 export default [{
+		cardTitle: 'Meet Ramneek Gupta of Citi Ventures',
+		image:"img/articles/grow-money.jpg",
+		cardContent: "An Interview with Ramneek Gupta, Citi Ventures",
+		bodyPartial: 'articles/ramneek-gupta',
+		author: 'Tracy Lee'
+	}, {
+		cardTitle: 'Five Minutes of Startup Advice From an External Perspective',
+		image:"img/articles/magnifying-glass.jpg",
+		cardContent: "An Interview with Jules Walker, KPMG",
+		bodyPartial: 'articles/jules-walker',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle: 'How Every Experience In Your Life Helps Prepare You For Startup',
 		image:"img/articles/desert-experience.jpg",
 		cardContent: "An Interview with Deekron Krikorian, Motion Traxx",
