@@ -6,6 +6,13 @@ export default [{
 	revealContent: "Tom Kalinske is the Chairman of Global Education Learning and former CEO of LeapFrog, Knowledge Universe, Sega, Matchbox, and Mattel. He has worked with brands such as Barbie, Hot Wheels, See N' Say, Masters of the Universe, Matchbox, Sega Genesis, Sonic the Hedgehog, LeapFrog, and more. Tom is also on the board of Cambium Learning (NASDAQ: ABCD) a company that has curriculum for children with special learning needs and which also helps turn-around troubled schools and is currently interested in using on-line technology, combined with great education pedagogy, creating fun experiences so children are engaged and thus learn enjoyably and faster.",
 	current: true
 }, {
+	cardTitle: 'Winter Mead',
+	title: 'Investor',
+	image: 'img/investors/winter-mead.png',
+	cardContent: 'Sapphire Ventures',
+	revealContent: "Winter focuses on Sapphire Ventures’ fund investments in the United States and internationally. Before joining Sapphire Ventures in 2014, he worked at Hall Capital Partners, an SEC-registered investment advisor. As a member of the firm’s private equity group, Winter covered buyout, growth, distressed, credit, venture capital and other private equity strategies. Prior to Hall, Winter founded Mead and Mead, an international food distribution and logistics business. He also spent a number of years working for several early-stage technology companies in the San Francisco Bay Area, including Coincident TV, an Emmy-nominated digital media start-up.",
+	current: true
+}, {
 	cardTitle: 'Sanjit Dang',
 	title: 'Investor',
 	image: 'img/investors/sanjit-dang.jpg',
@@ -18,7 +25,7 @@ export default [{
 	image: 'img/investors/placeholder.jpg',
 	cardContent: 'Intel Capital',
 	revealContent: "Ekta Dang works at Intel Capital on Enterprise/Consumer SW investments. She is actively looking for startups in the IOT/Cybersecurity/Big Data space. Ekta has 10 years of Senior Leadership experience at Intel with broad range of expertise including Corp Strategy, Business Development, IOT Product Management, ISV Management, IP Deal-making, Marketing, and Supply-Chain and has led several Partnerships/Alliances. She has executed >30 deals ranging from $5M to $1Billion. Ekta also has a strong technical background and a PhD in Physics.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Jeremy Edberg',
 	title: 'Angel Investor',
@@ -159,7 +166,7 @@ export default [{
 	image: 'img/investors/jules-walker.jpg',
 	cardContent: 'KPMG Venture Capital Practice',
 	revealContent: 'Jules Walker leads the business development efforts for KPMG’s Emerging Technology practice in the Bay area and beyond, focusing on creating and expanding relationships with hot start-ups and pre-IPO companies. He has spent his 20+ year professional career in financial services working for companies such as Bank of America, Robert Half and Textron Financial.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Tyler Peterson',
 	title: 'Vice President',
@@ -181,14 +188,14 @@ export default [{
 	cardContent: 'DeNa',
 	revealContent: 'Miki is in charge of startup investment in US market at DeNA. Miki focuses on investments in consumer tech including mobile game tech, ecommerce, market place and on-line community. After having been at the forefront of the Internet industry in Japan last one and half decades, he relocated himself to San Francisco 2.5 years ago.'+
 	'Prior to DeNA, Miki has held multiple leadership positions including a board of director at Digital Garage, CEO at Open Network Lab, CTO/COO at Kakaku.com and practice manager at Netscape.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Eric Nagel',
 	title: 'Angel Investor',
 	image: 'img/investors/eric-nagel.jpg',
 	cardContent: '',
 	revealContent: 'Eric has over 37 years of experience in engineering, marketing and sales in the semiconductor industry. For the last 10 years, prior to his recent retirement, he was a consultant as a technology analyst to some of the biggest names on Wall Street . Eric has invested in, as well as worked at multiple startups in the semiconductor, solar, tech IP, wine and food industries.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Lin Tam',
 	title: 'Co-Founder',
