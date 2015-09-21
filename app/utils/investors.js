@@ -67,14 +67,14 @@ export default [{
 	image: 'img/investors/manny-fernandez.jpg',
 	cardContent: 'DreamFunded',
 	revealContent: "Manny Fernandez is an angel investor and serial entrepreneur. Manny is San Francisco’s 2014 Angel Investor of the Year. He is the founder SF Angels Group and co-founder/ CEO of DreamFunded.com, an equity crowdfunding platform with over 4,000 global accredited investors. Follow this thought leader on Twitter @MannyFernandez.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Murray Newlands',
 	title: 'Investor',
 	image: 'img/investors/murray-newlands.jpg',
 	cardContent: 'Network of Things Fund',
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
@@ -116,7 +116,7 @@ export default [{
 	image: 'img/investors/salil-pradhan.jpg',
 	cardContent: 'Draper Nexus Ventures',
 	revealContent: "Salil is a Venture Partner and early stage investor with Draper Nexus Ventures. An advisor to corporate LPs on product strategy, partnerships with startups, and M&A, his current focus in on seed/early stage startups in verticals including retail, healthcare and agriculture with an emphasis on IoT (Internet of things).",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Will Bunker',
 	title: 'Partner',
@@ -131,7 +131,7 @@ export default [{
 	cardContent: 'Mind the Seed Fund',
 	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' + 
 	'Marcos 20+ years professional experience spans from artificial intelligence research to startups in VoIP, Ecommerce, Elearning and Ticketing.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Peter Brack',
 	title: 'Entrepreneur in Residence',
@@ -251,7 +251,7 @@ export default [{
 	image: 'img/investors/adam-boyden.png',
 	cardContent: 'RPM Ventures',
 	revealContent: "Adam Boyden is a five-time entrepreneur who has provided leadership for venture capital backed companies that have disrupted multi-billion dollar industries and generated more than $2 billion in exit value.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'John Lim',
 	title: 'Analyst',

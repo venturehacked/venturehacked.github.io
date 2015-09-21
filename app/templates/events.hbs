@@ -143,7 +143,8 @@
 			</div>
 		</div>
 	</div> --}}
-	{{!-- investors --}}
+
+{{!-- investors --}}
 	<div class="row">
 		<div class="col s12 green-text text-darken-4">
 			<h3>Featured Investors &amp; Mentors</h3>
@@ -153,4 +154,47 @@
 		{{investor-profile-card investor=investor}}
 		{{/each}}
 	</div>
+{{!-- end investors --}}
+
+{{!-- extended panel --}}
+	<div class="row">
+		<div class="col s12 green-text text-darken-4">
+			<h3>Extended Panel Speakers</h3>
+			<p>Startups not participating in speed investing will get the opportunity for this extended panel in a "fireside chat" format with experienced founders and other influencers in the venture and startup space.</p>
+		</div>
+		<div class="col s12 m6 l6">
+			{{#md-card title="Jeremy Edberg" image="img/investors/jeremy-edberg-2.jpg" activator=true}}
+			{{#md-card-content}}
+			<p>Angel Investor &amp; Startup Founder</p>
+			{{/md-card-content}}
+			{{#md-card-reveal}}
+			<p>
+				Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative. 
+			</p>
+			<p>
+				He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.
+			</p>
+			{{/md-card-reveal}}
+			{{/md-card}}
+		</div>
+		<div class="col s12 m6 l6">
+			{{#md-card title="Daniel Chen" image="img/investors/daniel-chen.jpg" activator=true}}
+			{{#md-card-content}}
+			<p>Startup Founder &amp; CEO</p>
+			{{/md-card-content}}
+			{{#md-card-reveal}}
+			<p>
+				Daniel’s career is rooted in technology, with experience at KPMG, Trapeze Software, and eBay. At Levanto, Daniel leads product management, marketing, and finance. 
+			</p>
+			<p>
+				Daniel is a Certified Public Accountant (CPA), a Chartered Accountant (CA), a Chartered Professional Accountant (CA/CPA), an investment adviser representative (series 65), holds a BBA from the University of Toronto, and an MBA in entrepreneurship from Wharton, University of Pennsylvania.
+			</p>
+			{{/md-card-reveal}}
+			{{/md-card}}
+		</div>
+	</div>
+{{!-- end extended panel --}}
+
 </div>
+
+
