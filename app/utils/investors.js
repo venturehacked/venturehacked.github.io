@@ -18,7 +18,7 @@ export default [{
 	image: 'img/investors/placeholder.jpg',
 	cardContent: 'Intel Capital',
 	revealContent: "Ekta Dang works at Intel Capital on Enterprise/Consumer SW investments. She is actively looking for startups in the IOT/Cybersecurity/Big Data space. Ekta has 10 years of Senior Leadership experience at Intel with broad range of expertise including Corp Strategy, Business Development, IOT Product Management, ISV Management, IP Deal-making, Marketing, and Supply-Chain and has led several Partnerships/Alliances. She has executed >30 deals ranging from $5M to $1Billion. Ekta also has a strong technical background and a PhD in Physics.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Jeremy Edberg',
 	title: 'Angel Investor',
@@ -60,7 +60,7 @@ export default [{
 	image: 'img/investors/manny-fernandez.jpg',
 	cardContent: 'DreamFunded',
 	revealContent: "Manny Fernandez is an angel investor and serial entrepreneur. Manny is San Francisco’s 2014 Angel Investor of the Year. He is the founder SF Angels Group and co-founder/ CEO of DreamFunded.com, an equity crowdfunding platform with over 4,000 global accredited investors. Follow this thought leader on Twitter @MannyFernandez.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Murray Newlands',
 	title: 'Investor',
@@ -109,7 +109,7 @@ export default [{
 	image: 'img/investors/salil-pradhan.jpg',
 	cardContent: 'Draper Nexus Ventures',
 	revealContent: "Salil is a Venture Partner and early stage investor with Draper Nexus Ventures. An advisor to corporate LPs on product strategy, partnerships with startups, and M&A, his current focus in on seed/early stage startups in verticals including retail, healthcare and agriculture with an emphasis on IoT (Internet of things).",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Will Bunker',
 	title: 'Partner',
@@ -124,7 +124,7 @@ export default [{
 	cardContent: 'Mind the Seed Fund',
 	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' + 
 	'Marcos 20+ years professional experience spans from artificial intelligence research to startups in VoIP, Ecommerce, Elearning and Ticketing.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Peter Brack',
 	title: 'Entrepreneur in Residence',
@@ -244,7 +244,7 @@ export default [{
 	image: 'img/investors/adam-boyden.png',
 	cardContent: 'RPM Ventures',
 	revealContent: "Adam Boyden is a five-time entrepreneur who has provided leadership for venture capital backed companies that have disrupted multi-billion dollar industries and generated more than $2 billion in exit value.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'John Lim',
 	title: 'Analyst',
