@@ -6,6 +6,13 @@ export default [{
 	revealContent: "Tom Kalinske is the Chairman of Global Education Learning and former CEO of LeapFrog, Knowledge Universe, Sega, Matchbox, and Mattel. He has worked with brands such as Barbie, Hot Wheels, See N' Say, Masters of the Universe, Matchbox, Sega Genesis, Sonic the Hedgehog, LeapFrog, and more. Tom is also on the board of Cambium Learning (NASDAQ: ABCD) a company that has curriculum for children with special learning needs and which also helps turn-around troubled schools and is currently interested in using on-line technology, combined with great education pedagogy, creating fun experiences so children are engaged and thus learn enjoyably and faster.",
 	current: true
 }, {
+	cardTitle: 'Tony Huang',
+	title: 'Investor',
+	image: 'img/investors/tony-huang.jpg',
+	cardContent: 'WI Harper',
+	revealContent: "Tony is a 20-year veteran of Silicon Valley and Asia’s venture capital industry with extensive experience inventure lending, direct investment, venture fund investment, and corporate development, with emphasis on US and Asia cross-border transactions. Tony currently serves as a Venture Partner with WI Harper Group. The firm has cumulative asset under management of $800 million and has invested in over 300 companies to date. WI Harper is currently investing out of its eighth fund, focusing on early and expansion stage companies in the TMT, cleantech, and healthcare sectors.",
+	current: true
+}, {
 	cardTitle: 'Winter Mead',
 	title: 'Investor',
 	image: 'img/investors/winter-mead.png',
@@ -124,6 +131,13 @@ export default [{
 	cardContent: 'Silicon Valley Growth Syndicate',
 	revealContent: "Silicon Valley Growth Syndicate fills a gap in the private equity market between the seed capital/incubator stage and an institutional venture round. Their focus areas are companies creating solutions to real problems for businesses and consumers, including eCommerce, SaaS, mobile and social applications.",
 	current: false
+}, {
+	cardTitle: 'Saif Akhtar',
+	title: 'Startup Accelerator',
+	image: 'img/investors/saif-akhtar.jpg',
+	cardContent: 'Spartups - Uptrend',
+	revealContent: "Saif Akhtar is a 4x entrepreneur in ad-tech and SoLoMo, providing leadership for early stage startups and turning his love for helping others into a startup accelerator. Contact him if you're just starting out!." ,
+	current: true
 }, {
 	cardTitle: 'Marco Marinucci',
 	title: 'Managing Partner',
