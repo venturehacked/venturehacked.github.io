@@ -109,7 +109,7 @@ export default [{
 	image: 'img/investors/john-rampton.png',
 	cardContent: '',
 	revealContent: "Best known as an Entrepreneur and Connector. John was recently named #3 on Top 50 Online Influencers in the World by Entrepreneur Magazine as well as a blogging expert by Forbes. Awarded Top 10 Most Influential PPC Experts in the World for the past 3 years. He currently advises several companies in the bay area.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Sara Thomas',
 	title: 'Investor',
