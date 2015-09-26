@@ -258,7 +258,7 @@ export default [{
 	image: 'img/investors/george-arabian.jpg',
 	cardContent: 'Steelhead VC',
 	revealContent: "We do seed-stage investments and work with founders, joint venture partners, thought leaders and executive teams who are making a positive difference in their communities & the future of our world. Our portfolio includes 25 visionary companies whose ideas will impact their marketplace and communities. We are activist investors who catalyze growth through access to our networks, added value through our expertise, & a focus on revenue acceleration.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Adam Boyden',
 	title: 'Investor',
