@@ -3,7 +3,7 @@ import Ember from 'ember';
 export default Ember.Route.extend({
 	model() {
 		return [{
-		scardTitle: "Wingman",
+		cardTitle: "Wingman",
 		sponsorImage: "img/wingman-logo.jpg",
 		sponsorUrl: "http://wingman.events",
 		sponsorContent: "Add Sponsor Content Here"
