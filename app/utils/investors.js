@@ -1,4 +1,18 @@
 export default [{
+	cardTitle: 'John Occhipinti',
+	title: 'Investor',
+	image: 'img/investors/john-o.jpg',
+	cardContent: 'Relay Ventures',
+	revealContent: "John is a Partner at Relay Ventures, an early stage venture fund exclusively focused on mobile software.  John has over 20 years of experience in enterprise software technology, marketing, and sales. Previously he was Managing Director of Woodside Fund where he focused on ventures in cloud computing, online advertising technology and software.  John presently sits on the boards of Appcelerator, PubNub, Rally, Mojio, and FLUC. John has an MBA from the University of California, Berkeley, Walter A. Haas School of Business, and a BA from the University of California Berkeley.",
+	current: true
+}, {
+	cardTitle: 'S. Alexander Jacobson',
+	title: 'Investor',
+	image: 'img/investors/alexander-jacobson.jpg',
+	cardContent: '137 Ventures',
+	revealContent: "Alex has over twenty years of experience as an entrepreneur and investor. In addition to being a co-founder and managing partner of 137 Ventures, he is the chairman of PriorBio, a start-up focused on cell therapies. Previously, he was an entrepreneur-in-residence at Founders Fund, where he played a principal role in Microsoft’s acquisition of Powerset and led the diligence processes for investments in SpaceX and Prior Knowledge [acquired by Salesforce]. From the 2003 to 2007, he served as the chief architect for HappStack, today’s leading open-source Haskell application server. He also is an angel investor with early investments in Tagged, hi5, Transparensee Systems and 1729, a massive open online course provider. Earlier in his career, Alex founded Shop.com, a shopping and comparison website, which became an Idealab company that he eventually sold to Altura Ventures. In 1994, he started Virtual Office, one of the first companies to register commercially valuable domain names. A year later, Alex founded Interband, an advertising management and measurement company, which sold to Winstar Communications. He also worked as a researcher at the National Eye Institute and as a software developer for the Department of Cognitive Neuroscience at New York Presbyterian Hospital.",
+	current: true
+}, {
 	cardTitle: 'Tom Kalinske',
 	title: 'Investor',
 	image: 'img/investors/tom-kalinske.jpg',
@@ -159,7 +173,7 @@ export default [{
 	image: 'img/investors/asif-giga.jpg',
 	cardContent: 'Singtel Innov8',
 	revealContent: "Asif is currently supporting the fund's North American investment activities. Prior to joining Singtel Innov8, Asif started his own startup while at Wharton receiving funding from the Wharton Innovation Fund. Before Wharton he spent time at Data Collective Venture Capital which focuses on early stage deals around Big Data & Analytics. Asif spent time with Accenture in their Management Consulting practice building his operating experience with clients such as eBay, Microsoft and Cisco. He also spent time in Ernst & Young's Advisory Service practice. Asif received a BS in Business Administration from the University of Southern California, MMS from Duke University and his MBA from the Wharton School, University of Pennsylvania where he was a recipient of The Meckler Family Fellowship.",
-	current: false
+	current: true
 }, {
 	cardTitle: 'Rob Majteles',
 	title: 'Founder',
