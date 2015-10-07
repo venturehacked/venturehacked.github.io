@@ -208,7 +208,7 @@ export default [{
 	image: 'img/investors/pierre-berlan.jpg',
 	cardContent: 'Fenox Venture Capital',
 	revealContent: 'Pierre leads Fenox’s US team operations and is the first point of contact for worldwide deal sourcing activities. Fenox Venture Capital is a Silicon Valley venture capital firm with a global footprint. With 8 funds raised and 50 investments made in four years, Fenox has grown at a breakneck pace. Pierre is fluent in French and holds a double degree from the University of California, Santa Barbara in Economics and Political Science.',
-	current: false
+	current: true
 }, {
 	cardTitle: 'Miki Yasuda',
 	title: 'Partner, Strategic Investment',
