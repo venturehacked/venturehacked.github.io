@@ -1,4 +1,11 @@
 export default [{
+	cardTitle: 'David Wood',
+	title: 'Partner',
+	image: 'img/investors/david-wood.jpg',
+	cardContent: 'Perkins Coie',
+	revealContent: "David Wood is a partner in the Palo Alto office and a member of the firm's Emerging Companies & Venture Capital practice. David's practice includes capital formation, mergers and acquisitions and business transactions, including joint ventures and technology transfer transactions. David has represented companies in transactions across a wide array of industries, including, among others, software, computer hardware, digital media, cleantech and Internet services.",
+	current: true
+}, {
 	cardTitle: 'John Occhipinti',
 	title: 'Investor',
 	image: 'img/investors/john-o.jpg',
@@ -95,7 +102,7 @@ export default [{
 	image: 'img/investors/murray-newlands.jpg',
 	cardContent: 'Network of Things Fund',
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
@@ -151,7 +158,7 @@ export default [{
 	image: 'img/investors/saif-akhtar.jpg',
 	cardContent: 'Spartups - Uptrend',
 	revealContent: "Saif Akhtar is a 4x entrepreneur in ad-tech and SoLoMo, providing leadership for early stage startups and turning his love for helping others into a startup accelerator. Contact him if you're just starting out!." ,
-	current: true
+	current: false
 }, {
 	cardTitle: 'Marco Marinucci',
 	title: 'Managing Partner',
@@ -173,7 +180,7 @@ export default [{
 	image: 'img/investors/asif-giga.jpg',
 	cardContent: 'Singtel Innov8',
 	revealContent: "Asif is currently supporting the fund's North American investment activities. Prior to joining Singtel Innov8, Asif started his own startup while at Wharton receiving funding from the Wharton Innovation Fund. Before Wharton he spent time at Data Collective Venture Capital which focuses on early stage deals around Big Data & Analytics. Asif spent time with Accenture in their Management Consulting practice building his operating experience with clients such as eBay, Microsoft and Cisco. He also spent time in Ernst & Young's Advisory Service practice. Asif received a BS in Business Administration from the University of Southern California, MMS from Duke University and his MBA from the Wharton School, University of Pennsylvania where he was a recipient of The Meckler Family Fellowship.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Rob Majteles',
 	title: 'Founder',
