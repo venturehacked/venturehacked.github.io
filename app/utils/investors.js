@@ -1,4 +1,11 @@
 export default [{
+	cardTitle: 'Henri Swan',
+	title: 'Founder',
+	image: 'img/investors/henri-swan.jpeg',
+	cardContent: 'One Traction',
+	revealContent: "David is founder of One Traction, an accelerator in the Silicon Valley. David founded several startups from bootstrapping to successful exit, in enterprise, consumers, mobile and Big Data space and has held roles such as VP Products/Engineering, CTO and CEO, creating and executing product road-map from MVP to public beta, system architect, developed and integrated overall web and mobile technologies, designed patents, acquired and converted thousands of earlier adopters into paid customers, along developing strategic partnership with + 100 Fortune 500 companies.",
+	current: true
+}, {
 	cardTitle: 'David Wood',
 	title: 'Partner',
 	image: 'img/investors/david-wood.jpg',
