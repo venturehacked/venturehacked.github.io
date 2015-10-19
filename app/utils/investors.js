@@ -1,4 +1,11 @@
 export default [{
+	cardTitle: 'Peter Tatischev',
+	title: 'Investor',
+	image: 'img/investors/peter-tatischev.jpg',
+	cardContent: 'One Traction',
+	revealContent: "Founder of Ecamb - co-founder as a service and SCOOP. Focusing on webdev and business development for startups. Cambridge Judge Business School grad.",
+	current: true
+}, {
 	cardTitle: 'Henri Swan',
 	title: 'Founder',
 	image: 'img/investors/henri-swan.jpeg',
