@@ -5,8 +5,24 @@ function range(start, end) {
 	}
 	return arr;
 }
+function numberPad(number, width, padChar) {
+	padChar = padChar || '0'; // Set the character to fill in
+	number = number + ''; // Convert to string
+
+	// Ternary operator!
+	return number.length >= width ?
+			number 
+			: new Array(width - number.length + 1).join(padChar) + number;
+}
 
 export default [{
+		cardTitle: 'Venture Hacked Event Photos 10-21',
+		image:"img/articles/10-21.jpg",
+		cardContent: "Curious about what a Venture Hacked Event looks like?",
+		bodyPartial: 'articles/event-photos-20151021',
+		author: 'Venture Hacked',
+		images: range(1,118).map(i => `img/album-10-21/venturehacked-${numberPad(i,3)}.jpg`)
+	}, {
 		cardTitle: 'Meet Ramneek Gupta of Citi Ventures',
 		image:"img/articles/grow-money.jpg",
 		cardContent: "An Interview with Ramneek Gupta, Citi Ventures",
@@ -37,7 +53,7 @@ export default [{
 		bodyPartial: 'articles/daphne-higgs',
 		author: 'Tracy Lee'
 	}, {
-		cardTitle: 'Venture Hacked Event Photos',
+		cardTitle: 'Venture Hacked Event Photos 7-22',
 		image:"img/album-7-22/venturehacked-16.jpg",
 		cardContent: "Curious about what a Venture Hacked Event looks like?",
 		bodyPartial: 'articles/event-photos-20150722',
