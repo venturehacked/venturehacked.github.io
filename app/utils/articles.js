@@ -16,6 +16,12 @@ function numberPad(number, width, padChar) {
 }
 
 export default [{
+		cardTitle: 'Intel Capital and $500 Million in Startup Investments',
+		image:"img/articles/technology-gripping.jpg",
+		cardContent: "Intel Capital announces portfolio companies at Global Summit",
+		bodyPartial: 'articles/intel-capital-500',
+		author: 'Tracy Lee'
+	},{
 		cardTitle: 'Venture Hacked Event Photos 10-21',
 		image:"img/articles/10-21.jpg",
 		cardContent: "Curious about what a Venture Hacked Event looks like?",
