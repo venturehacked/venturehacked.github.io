@@ -16,6 +16,12 @@ function numberPad(number, width, padChar) {
 }
 
 export default [{
+		cardTitle: 'How Corporate Venture Arms Provide Value To Startups',
+		image:"img/articles/value.jpg",
+		cardContent: "Highlights of Intel's value-add from companies at Global Summit",
+		bodyPartial: 'articles/corporate-venture-arm-value',
+		author: 'Tracy Lee'
+	}, {
 		cardTitle: 'Intel Capital and $500 Million in Startup Investments',
 		image:"img/articles/technology-gripping.jpg",
 		cardContent: "Intel Capital announces portfolio companies at Global Summit",
