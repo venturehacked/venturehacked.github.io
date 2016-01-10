@@ -8,9 +8,10 @@ var Router = Ember.Router.extend(googlePageview,{
 
 Router.map(function() {
   this.route('articles');
-  this.route('article', {path:'article/:id'});
+  this.route('article', { path:'article/:id' });
   this.route('sponsors');
   this.route('events');
+  this.route('event', { path:'event/:id' });
   this.route('investors');
 });
 
