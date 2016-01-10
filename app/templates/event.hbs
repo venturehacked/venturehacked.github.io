@@ -1,0 +1,85 @@
+<div class="container">
+  <div class="row">
+    <div class="col s12">
+      <h5>{{link-to "< Events" "events"}}</h5>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col s12 green-text text-darken-4">
+      <h3>{{model.title}}</h3>
+    </div>
+    <div class="col s12 green-text">
+      <h5>{{model.date}} in {{model.location}}</h5>
+    </div>
+    <div class="col s12">
+      {{#md-card image=model.image}}
+        {{#md-card-content}}
+          {{!-- content cards --}}
+          <div class="row event-content-card-height">
+            <div class="col s12 m12 l4">
+              {{#md-card-panel class="green" bodyClass="white-text"}}
+              <h5>Investor Panel</h5>
+              <p>
+                Hear from a seasoned investor panel lessons learned from seeing startups succeed and fail.
+              </p>
+              <p>
+                Understand how the landscape of investment is changing and what investors are currently looking for.
+              </p>
+              {{/md-card-panel}}
+            </div>
+            <div class="col s12 m12 l4">
+              {{#md-card-panel class="green" bodyClass="white-text"}}
+              <h5>Speed Investing &amp; Mentoring</h5>
+              <p>
+                Participate in rotating 3-minute sessions.
+              </p>
+              <p>
+                Investors and mentors will get to effectively meet entrepreneurs with great ideas while entrepreneurs will get real time feedback from investors and mentors.
+              </p>
+              {{/md-card-panel}}
+            </div>
+            <div class="col s12 m12 l4">
+              {{#md-card-panel class="green" bodyClass="white-text"}}
+              <h5>Format</h5>
+              <p>
+                <ul>
+                  <li>645-715 Registration &amp; Welcome</li>
+                  <li>715-730 Startup Panel</li>
+                  <li>730-800 Investor Panel</li>
+                  <li>800-900 Speed Investing &amp; Mentoring</li>
+                  <li>900-930 Networking</li>
+                </ul>
+              </p>
+              {{/md-card-panel}}
+            </div>
+          </div>
+          {{!-- end content cards --}}
+        {{/md-card-content}}
+      {{/md-card}}
+    </div>
+  </div>
+
+<!-- custom event content -->
+  <div class="row">
+    <div class="col s12">
+      Featured investors &amp; mentors are listed on the
+      {{#link-to "investors"}}investors page{{/link-to}}.
+    </div>
+    <div class="col s12">
+      {{model.eventContent}}
+    </div>
+  </div>
+<!-- end custom event content -->
+
+<!-- eventbrite -->
+  <div class="row">
+    <div class="col s12">
+      <div style="width:100%; text-align:left;">
+        <iframe src="{{model.eventbriteLink}}" frameborder="0" height="600" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
+        </iframe>
+      </div>
+    </div>
+  </div>
+<!-- end eventbrite -->
+
+</div>

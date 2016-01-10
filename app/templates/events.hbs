@@ -7,14 +7,13 @@
 	<div class="row">
 		<div class="col s12 text-center">
 			<h3 class="green-text text-darken-3">Speed Investing &amp; Lessons Learned</h3>
-			<h5 class="green-text">Join our mailing list on <a href="http://www.meetup.com/venturehacked/">meetup</a>.</h5>
-			<h5 class="green-text">Wednesday, October 21, 2015 7pm-930pm</h5>
-			<h5 class="green-text">@ Perkins Coie HQ (3150 Porter Drive, Palo Alto)</h5>
+			<h5 class="green-text">Join our <a href="http://www.meetup.com/venturehacked/">Silicon Valley</a> or Triangle mailing list on meetup.</h5>
 		</div>
 		<div class="col s12 text-center">
-			
+
 			<div class="video-container">
-				<iframe src="https://player.vimeo.com/video/128109370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/128109370">View on Vimeo</a></p>
+				<iframe src="https://player.vimeo.com/video/128109370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<p><a href="https://vimeo.com/128109370">View on Vimeo</a></p>
 			</div>
 		</div>
 	</div>
@@ -22,215 +21,36 @@
 	{{!-- sponsor --}}
 	<div class="row">
 		<div class="col s12 text-center">
-		<img class="responsive-img" src="img/perkins-coie-logo.JPG" alt="Perkins Coie">
-		<p>Need to set up your company to prepare for fundraising? Email {{perkins-coie-contact}}. Reference Venture Hacked for a free consult.</p>
-	</div>
+			<img class="responsive-img" src="img/perkins-coie-logo.JPG" alt="Perkins Coie">
+			<p>Need to set up your company to prepare for fundraising? Email {{perkins-coie-contact}}. Reference Venture Hacked for a free consult.</p>
+		</div>
 	</div>
 	{{!-- end sponsor --}}
-	{{!-- content cards --}}
-	<div class="row event-content-card-height">
-		<div class="col s12 m12 l4">
-			{{#md-card-panel class="green" bodyClass="white-text"}}
-			<h5>Investor Panel</h5>
-			<p>
-				Hear from a seasoned investor panel lessons learned from seeing startups succeed and fail.
-			</p>
-			<p>
-				Understand how the landscape of investment is changing and what investors are currently looking for.
-			</p>
-			{{/md-card-panel}}
-		</div>
-		<div class="col s12 m12 l4">
-			{{#md-card-panel class="green" bodyClass="white-text"}}
-			<h5>Speed Investing &amp; Mentoring</h5>
-			<p>
-				Participate in rotating 3-minute sessions.
-			</p>
-			<p>
-				Investors and mentors will get to effectively meet entrepreneurs with great ideas while entrepreneurs will get real time feedback from investors and mentors.
-			</p>
-			{{/md-card-panel}}
-		</div>
-		<div class="col s12 m12 l4">
-			{{#md-card-panel class="green" bodyClass="white-text"}}
-			<h5>Format</h5>
-			<p>
-				<ul>
-					<li>645-715 Registration &amp; Welcome</li>
-					<li>715-730 Startup Panel</li>
-					<li>730-800 Investor Panel</li>
-					<li>800-900 Speed Investing &amp; Mentoring</li>
-					<li>900-930 Networking</li>
-				</ul>
-			</p>
-			{{/md-card-panel}}
-		</div>
-	</div>
-	{{!-- end content cards --}}
-	{{!-- eventbrite --}}
-	<div class="video-container eventbrite-container">
-		<div style="width:100%; text-align:left;" >
-			<iframe  src="//eventbrite.com/tickets-external?eid=18160479483&ref=etckt" frameborder="0" height="431" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true">
-			</iframe>
-				<div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" >
-				<a class="powered-by-eb" style="color: #dddddd; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Powered by Eventbrite</a>
-				</div>
-			</div>
-	</div>
-	{{!-- end eventbrite --}}
 
-{{!-- moderator and keynote --}}
+	{{!-- events --}}
 	<div class="row">
-		<div class="col s12">
-			{{#md-card title="Keynote Speaker" image="img/articles/tom-kalinske-bio.png" activator=true}}
-			{{#md-card-content}}
-			<p>Tom Kalinske, Investor &amp; Former CEO of Sega, Mattel, Matchbox, Leapfrog, Knowledge Universe</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				Tom Kalinske is the Chairman of Global Education Learning and former CEO of LeapFrog, Knowledge Universe, Sega, Matchbox, and Mattel. He has worked with brands such as Barbie, Hot Wheels, See N' Say, Masters of the Universe, Matchbox, Sega Genesis, Sonic the Hedgehog, LeapFrog, and more. 
-			</p>
-			<p>
-				Tom is also on the board of Cambium Learning (NASDAQ: ABCD) a company that has curriculum for children with special learning needs and which also helps turn-around troubled schools and is currently interested in using on-line technology, combined with great education pedagogy, creating fun experiences so children are engaged and thus learn enjoyably and faster.
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
+		<div class="col s12 green-text text-darken-4">
+			<h3>Upcoming Events</h3>
+			{{#each model as |event|}}
+				{{#md-card title=event.date titleClass="green-text" image=event.image}}
+					{{#md-card-content}}
+						{{link-to "Registration & Details" "event" event}}
+					{{/md-card-content}}
+				{{/md-card}}
+			{{/each}}
 		</div>
 	</div>
-{{!-- end moderator and keynote --}}
 
-	{{!-- moderator and keynote --}}
-{{!-- 	<div class="row">
-		<div class="col s12 m6 l6">
-			{{#md-card title="Keynote Speaker" image="img/jeremy-edberg.jpg" activator=true}}
-			{{#md-card-content}}
-			<p>Jeremy Edberg, Angel Investor</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.  
-			</p>
-			<p>
-				Jeremy also tech-edited the highly acclaimed AWS for Dummies.  Jeremy's expertise is in distributed computing, availability, rapid scaling, and cloud computing.  He holds a Cognitive Science degree from UC Berkeley. 
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-		<div class="col s12 m6 l6">
-			{{#md-card title="Panel Moderator" image="img/alastair-goldfisher-280x200.jpg" activator=true}}
-			{{#md-card-content}}
-			<p>Alastair Goldfisher, VCJ &amp; peHUB</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>Alastair Goldfisher is Venture Capital Editor of VCJ and peHUB, two Buyouts Insider publications. Alastair primarily reports on the venture capital industry, which includes fundraising, investments, sector trends, venture-backed M&amp;A, personnel news and other VC-related topics from startup to exit. </p>
-			<p>Alastair has worked as a business journalist since 1994. Prior to joining the staff of VCJ in 2003, he was the founding editor of California CEO and before that he was a reporter with the San Jose Business Journal.</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-	</div> --}}
-	{{!-- end moderator and keynote --}}
-	{{!-- moderator --}}
-	{{!-- <div class="row">
-		<div class="col s12 green-text text-darken-4">
-			<h3>Featured Panel Moderator</h3>
-			<div class="card-panel z-depth-1 bio-card">
-				<div class="bio-image-container">
-					<img src="img/alastair-286x500.jpg" alt="Alastair Image">
-				</div>
-				<div class="bio-content">
-					<p>Alastair Goldfisher is Venture Capital Editor of VCJ and peHUB, two Buyouts Insider publications. Alastair primarily reports on the venture capital industry, which includes fundraising, investments, sector trends, venture-backed M&amp;A, personnel news and other VC-related topics from startup to exit. Alastair has worked as a business journalist since 1994. Prior to joining the staff of VCJ in 2003, he was the founding editor of California CEO and before that he was a reporter with the San Jose Business Journal.</p>
-				</div>
-			</div>
-		</div>
-	</div> --}}
-
-{{!-- investors --}}
+	{{!-- investors --}}
 	<div class="row">
 		<div class="col s12 green-text text-darken-4">
 			<h3>Featured Investors &amp; Mentors</h3>
-			<p>To view previously featured investors, visit the {{#link-to "investors"}}investors page{{/link-to}}.</p>
+			<p>To view previously featured investors, visit the
+				{{#link-to "investors"}}investors page{{/link-to}}.</p>
 		</div>
-		{{#each content as |investor|}}
-		{{investor-profile-card investor=investor}}
+		{{#each investors as |investor|}}
+			{{investor-profile-card investor=investor}}
 		{{/each}}
 	</div>
-{{!-- end investors --}}
-
-{{!-- extended panel --}}
-	<div class="row">
-		<div class="col s12 green-text text-darken-4">
-			<h3>Extended Panel Speakers</h3>
-			<p>Startups not participating in speed investing will get the opportunity for this extended panel in a "fireside chat" format with experienced founders and other influencers in the venture and startup space.</p>
-		</div>
-		<div class="col s12 m6 l3">
-			{{#md-card title="Jim Jensen" image="img/investors/jim-jensen.png" activator=true}}
-			{{#md-card-content}}
-			<p>Partner, Venture Capital Practice</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				James Jensen, a partner in the firm's Emerging Companies &amp; Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. 
-			</p>
-			<p>
-				He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs.
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-		<div class="col s12 m6 l3">
-			{{#md-card title="Jeremy Edberg" image="img/investors/jeremy-edberg-2.jpg" activator=true}}
-			{{#md-card-content}}
-			<p>Angel Investor &amp; Startup Founder</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative. 
-			</p>
-			<p>
-				He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-		<div class="col s12 m6 l3">
-			{{#md-card title="Daniel Chen" image="img/investors/daniel-chen.jpg" activator=true}}
-			{{#md-card-content}}
-			<p>Startup Founder &amp; CEO</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				Daniel’s career is rooted in technology, with experience at KPMG, Trapeze Software, and eBay. At Levanto, Daniel leads product management, marketing, and finance. 
-			</p>
-			<p>
-				Daniel is a Certified Public Accountant (CPA), a Chartered Accountant (CA), a Chartered Professional Accountant (CA/CPA), an investment adviser representative (series 65), holds a BBA from the University of Toronto, and an MBA in entrepreneurship from Wharton, University of Pennsylvania.
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-		<div class="col s12 m6 l3">
-			{{#md-card title="Cherian Thomas" image="img/investors/cherian-thomas.jpeg" activator=true}}
-			{{#md-card-content}}
-			<p>Startup Founder &amp; CEO</p>
-			{{/md-card-content}}
-			{{#md-card-reveal}}
-			<p>
-				An ex-Zynga alumini, Cherian runs Cucumbertown – a platform dedicated focussed on food blogging. Think about it as Tumblr for Food Blogs. Cucumbertown, hosts food blogs and makes it into a livelihood for the blogger. 
-			</p>
-			<p>
-				Cucumbertown raised capital from Naval Ravikant, 500Startups, Google Product Managers and later rounds from Ludlow Ventures and India based Helion Ventures. 
-			</p>
-			<p>
-				They are group of 4 founders who all worked remotely. In June of 2015, Cucumbertown was acquired by Cookpad, a 3 billion dollar enterprise out of Japan and one of the largest recipe networks.
-			</p>
-			<p>
-				Cucumbertown, now operates as an independent subsidiary under Cookpad.
-			</p>
-			{{/md-card-reveal}}
-			{{/md-card}}
-		</div>
-	</div>
-{{!-- end extended panel --}}
-
+	{{!-- end investors --}}
 </div>
-
-
