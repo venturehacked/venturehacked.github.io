@@ -35,7 +35,7 @@ after_success:
 - git branch $GH_DEST_BRANCH deploy/$GH_DEST_BRANCH
 - git config user.name $GIT_NAME
 - git config user.email $GIT_EMAIL
-- /bin/bash lib/try-generate-pages.sh 2>&1 >/dev/null
+- ./lib/try-generate-pages.sh
 
 notifications:
   email:
