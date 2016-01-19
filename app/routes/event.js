@@ -1,8 +1,10 @@
 import Ember from 'ember';
-import events from 'venture-hacked-site/utils/events';
+import refinedEvents from 'venture-hacked-site/utils/refinedEvents';
+import investors from 'venture-hacked-site/utils/investors';
 
 export default Ember.Route.extend({
 	model: function(params) {
-		return events.findBy('id', params.id);
+		const event = refinedEvents.findBy('id', params.id);
+		return refined;
 	}
 });

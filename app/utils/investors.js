@@ -4,7 +4,8 @@ export default [{
 	image: 'img/investors/chris-haroun.jpg',
 	cardContent: 'Artis Ventures',
 	revealContent: "Chris Haroun is a Partner at Artis Ventures and has more than 20 years of technology and investment experience. He focuses on venture capital investments in rapidly-growing Internet and software companies. Chris has been actively involved in Artis Ventures' investments in Bracket Computing, Nimble Storage, Cohesity, Quid and others. He sits on several boards, including Bracket Computing which is VMware for the public cloud and an educational not-for profit charity called the Lemo Foundation. He has relationships with many Fortune 500 CTOs and has helped many prospective and current venture portfolio companies with customer introductions.  Prior to joining Artis Ventures, Chris founded Haroun Capital Management, which had several venture investments, including an investment in Facebook.  Chris also worked in equities at Goldman Sachs, the hedge fund industry at Citadel and Accenture where he was a senior technology consultant and set up Accenture's Internet R&D Center in 1995, was a senior consultant on the merger of NationsBank and Bank of America and he was part of a team that set up an offshore bank for the Canadian Imperial Bank of Commerce in Barbados.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Peter Tatischev',
 	title: 'Investor',
@@ -185,7 +186,7 @@ export default [{
 	title: 'Managing Partner',
 	image: 'img/investors/marco-marinucci.jpg',
 	cardContent: 'Mind the Seed Fund',
-	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' + 
+	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' +
 	'Marcos 20+ years professional experience spans from artificial intelligence research to startups in VoIP, Ecommerce, Elearning and Ticketing.',
 	current: true
 }, {
@@ -323,15 +324,3 @@ export default [{
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
 }];
-
-
-
-
-
-
-
-
-
-
-
-
