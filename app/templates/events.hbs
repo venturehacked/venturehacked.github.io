@@ -7,10 +7,9 @@
 	<div class="row">
 		<div class="col s12 text-center">
 			<h3 class="green-text text-darken-3">Speed Investing &amp; Lessons Learned</h3>
-			<h5 class="green-text">Join our <a href="http://www.meetup.com/venturehacked/">Silicon Valley</a> or Triangle mailing list on meetup.</h5>
+			<h5 class="green-text">Join our <a href="http://www.meetup.com/venturehacked/">Silicon Valley</a> or <a href="http://meetup.com/triangleventurehacked">Triangle</a> mailing list on meetup.</h5>
 		</div>
 		<div class="col s12 text-center">
-
 			<div class="video-container">
 				<iframe src="https://player.vimeo.com/video/128109370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 				<p><a href="https://vimeo.com/128109370">View on Vimeo</a></p>
@@ -32,15 +31,15 @@
 		<div class="col s12 green-text text-darken-4">
 			<h3>Upcoming Events</h3>
 			{{#each model.refined as |event|}}
-				{{#md-card title=event.date titleClass="green-text" image=event.image}}
-					{{#md-card-content}}
-						{{link-to "Registration & Details" "event" event}}
-						<div>investors: {{#each event.eventInvestors as |investor|}}
-								{{investor.cardTitle}}
-							{{/each}}</div>
-					{{/md-card-content}}
-				{{/md-card}}
+				{{#link-to 'event' event}}
+					{{#md-card title=event.date titleClass="green-text" image=event.image}}
+						{{#md-card-content}}
+							{{link-to "Registration & Details" "event" event}}
+						{{/md-card-content}}
+					{{/md-card}}
+				{{/link-to}}
 			{{/each}}
+
 		</div>
 	</div>
 
