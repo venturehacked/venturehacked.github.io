@@ -1,73 +1,91 @@
 export default [{
+	cardTitle: 'Tiffine Wang',
+	title: 'Investor',
+	image: 'img/investors/tiffine-wang.jpg',
+	cardContent: 'Singtel Innov8',
+	revealContent: "Tiffine Wang is part of Singtel's venture team, Innov8, working on strategic partnerships & investments primary with startups and companies in Silicon Valley and North America. She bridges startups with Singtel's 500M+ customers globally. In addition, she is a mentor for European Innovation Academy and serve as a Board Member at SVImpact. She has spent several years working in startups and running various startup programs including Alchemist Accelerator and AngelHack. Tiffine also serves as an Industry Fellow for UCBerkeley - Center for Entrepreneurship & Technology.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
+}, {
+	cardTitle: 'Domenic Merenda',
+	title: 'Angel Investor',
+	image: 'img/investors/domenic-merenda.jpg',
+	cardContent: 'Sand Hill Angels',
+	revealContent: "A seasoned Silicon Valley software executive with a passion for disrupting markets, Dom has had a number of valley startups and successful exits. At BeOpen.com (later PythonLabs and then Google) Domenic was an early and influential member of the business development and technology teams, and helped shape the direction of the Python programming language, which was the basis for Google's search technology. Currently, Domenic is an investor with Sand Hill Angels, one of the top angel investment groups in the world.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
+}, {
 	cardTitle: 'Chris Haroun',
 	title: 'Partner',
 	image: 'img/investors/chris-haroun.jpg',
 	cardContent: 'Artis Ventures',
 	revealContent: "Chris Haroun is a Partner at Artis Ventures and has more than 20 years of technology and investment experience. He focuses on venture capital investments in rapidly-growing Internet and software companies. Chris has been actively involved in Artis Ventures' investments in Bracket Computing, Nimble Storage, Cohesity, Quid and others. He sits on several boards, including Bracket Computing which is VMware for the public cloud and an educational not-for profit charity called the Lemo Foundation. He has relationships with many Fortune 500 CTOs and has helped many prospective and current venture portfolio companies with customer introductions.  Prior to joining Artis Ventures, Chris founded Haroun Capital Management, which had several venture investments, including an investment in Facebook.  Chris also worked in equities at Goldman Sachs, the hedge fund industry at Citadel and Accenture where he was a senior technology consultant and set up Accenture's Internet R&D Center in 1995, was a senior consultant on the merger of NationsBank and Bank of America and he was part of a team that set up an offshore bank for the Canadian Imperial Bank of Commerce in Barbados.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Peter Tatischev',
 	title: 'Investor',
 	image: 'img/investors/peter-tatischev.jpg',
 	cardContent: 'One Traction',
 	revealContent: "Founder of Ecamb - co-founder as a service and SCOOP. Focusing on webdev and business development for startups. Cambridge Judge Business School grad.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Henri Swan',
 	title: 'Founder',
 	image: 'img/investors/henri-swan.jpeg',
 	cardContent: 'One Traction',
 	revealContent: "David is founder of One Traction, an accelerator in the Silicon Valley. David founded several startups from bootstrapping to successful exit, in enterprise, consumers, mobile and Big Data space and has held roles such as VP Products/Engineering, CTO and CEO, creating and executing product road-map from MVP to public beta, system architect, developed and integrated overall web and mobile technologies, designed patents, acquired and converted thousands of earlier adopters into paid customers, along developing strategic partnership with + 100 Fortune 500 companies.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'David Wood',
 	title: 'Partner',
 	image: 'img/investors/david-wood.jpg',
 	cardContent: 'Perkins Coie',
 	revealContent: "David Wood is a partner in the Palo Alto office and a member of the firm's Emerging Companies & Venture Capital practice. David's practice includes capital formation, mergers and acquisitions and business transactions, including joint ventures and technology transfer transactions. David has represented companies in transactions across a wide array of industries, including, among others, software, computer hardware, digital media, cleantech and Internet services.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'John Occhipinti',
 	title: 'Investor',
 	image: 'img/investors/john-o.jpg',
 	cardContent: 'Relay Ventures',
 	revealContent: "John is a Partner at Relay Ventures, an early stage venture fund exclusively focused on mobile software.  John has over 20 years of experience in enterprise software technology, marketing, and sales. Previously he was Managing Director of Woodside Fund where he focused on ventures in cloud computing, online advertising technology and software.  John presently sits on the boards of Appcelerator, PubNub, Rally, Mojio, and FLUC. John has an MBA from the University of California, Berkeley, Walter A. Haas School of Business, and a BA from the University of California Berkeley.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'S. Alexander Jacobson',
 	title: 'Investor',
 	image: 'img/investors/alexander-jacobson.jpg',
 	cardContent: '137 Ventures',
 	revealContent: "Alex has over twenty years of experience as an entrepreneur and investor. In addition to being a co-founder and managing partner of 137 Ventures, he is the chairman of PriorBio, a start-up focused on cell therapies. Previously, he was an entrepreneur-in-residence at Founders Fund, where he played a principal role in Microsoft’s acquisition of Powerset and led the diligence processes for investments in SpaceX and Prior Knowledge [acquired by Salesforce]. From the 2003 to 2007, he served as the chief architect for HappStack, today’s leading open-source Haskell application server. He also is an angel investor with early investments in Tagged, hi5, Transparensee Systems and 1729, a massive open online course provider. Earlier in his career, Alex founded Shop.com, a shopping and comparison website, which became an Idealab company that he eventually sold to Altura Ventures. In 1994, he started Virtual Office, one of the first companies to register commercially valuable domain names. A year later, Alex founded Interband, an advertising management and measurement company, which sold to Winstar Communications. He also worked as a researcher at the National Eye Institute and as a software developer for the Department of Cognitive Neuroscience at New York Presbyterian Hospital.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Tom Kalinske',
 	title: 'Investor',
 	image: 'img/investors/tom-kalinske.jpg',
 	cardContent: '',
 	revealContent: "Tom Kalinske is the Chairman of Global Education Learning and former CEO of LeapFrog, Knowledge Universe, Sega, Matchbox, and Mattel. He has worked with brands such as Barbie, Hot Wheels, See N' Say, Masters of the Universe, Matchbox, Sega Genesis, Sonic the Hedgehog, LeapFrog, and more. Tom is also on the board of Cambium Learning (NASDAQ: ABCD) a company that has curriculum for children with special learning needs and which also helps turn-around troubled schools and is currently interested in using on-line technology, combined with great education pedagogy, creating fun experiences so children are engaged and thus learn enjoyably and faster.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Tony Huang',
 	title: 'Investor',
 	image: 'img/investors/tony-huang.jpg',
 	cardContent: 'WI Harper',
 	revealContent: "Tony is a 20-year veteran of Silicon Valley and Asia’s venture capital industry with extensive experience inventure lending, direct investment, venture fund investment, and corporate development, with emphasis on US and Asia cross-border transactions. Tony currently serves as a Venture Partner with WI Harper Group. The firm has cumulative asset under management of $800 million and has invested in over 300 companies to date. WI Harper is currently investing out of its eighth fund, focusing on early and expansion stage companies in the TMT, cleantech, and healthcare sectors.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Winter Mead',
 	title: 'Investor',
 	image: 'img/investors/winter-mead.png',
 	cardContent: 'Sapphire Ventures',
 	revealContent: "Winter focuses on Sapphire Ventures’ fund investments in the United States and internationally. Before joining Sapphire Ventures in 2014, he worked at Hall Capital Partners, an SEC-registered investment advisor. As a member of the firm’s private equity group, Winter covered buyout, growth, distressed, credit, venture capital and other private equity strategies. Prior to Hall, Winter founded Mead and Mead, an international food distribution and logistics business. He also spent a number of years working for several early-stage technology companies in the San Francisco Bay Area, including Coincident TV, an Emmy-nominated digital media start-up.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Sanjit Dang',
 	title: 'Investor',
 	image: 'img/investors/sanjit-dang.jpg',
 	cardContent: 'Intel Capital',
 	revealContent: "Sanjit is an Investment Director at Intel Capital. He drives investments in Client Computing across Consumer and Enterprise sectors. He has also driven several investments in Big Data, IoT and Cloud Computing. Sanjit has over a decade of Exec leadership experience in Product Design, Business Development and Strategy across several domains: Big Data, Natural Language Processing, 3D Camera/Apps, Supply-Chain Analytics and Flash Memory. He has managed Billion dollar accounts and executed >30 partnership deals in $100M-$2Bill range. Always ahead of the curve, Sanjit worked on Big Data Analytics before industry created the term 'Big Data'. Similarly, he launched 2 online courses during grad school in 1999 and published iconic papers on learnings, way before the MOOC revolution started.  He’s currently an investor in DocuSign (eSignature), Reflektion (eCommerce), MongoDB (NoSQL Database), Enlighted (IoT), Mirantis (Cloud Computing), GoodData (SaaS BI) and Arcadia Data (Data Analytics 2.0), to name a few. He has had 2 Exits within 1 year of investment - Basis Science (Wearables, acq Intel) and Maginatics (Cloud Storage, acq EMC).",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Ekta Dang',
 	title: 'Investor',
@@ -81,7 +99,8 @@ export default [{
 	image: 'img/investors/jeremy-edberg-2.jpg',
 	cardContent: '',
 	revealContent: "Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Jennifer Carolan',
 	title: 'Investor',
@@ -116,14 +135,16 @@ export default [{
 	image: 'img/investors/manny-fernandez.jpg',
 	cardContent: 'DreamFunded',
 	revealContent: "Manny Fernandez is an angel investor and serial entrepreneur. Manny is San Francisco’s 2014 Angel Investor of the Year. He is the founder SF Angels Group and co-founder/ CEO of DreamFunded.com, an equity crowdfunding platform with over 4,000 global accredited investors. Follow this thought leader on Twitter @MannyFernandez.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Murray Newlands',
 	title: 'Investor',
 	image: 'img/investors/murray-newlands.jpg',
 	cardContent: 'Network of Things Fund',
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
-	current: false
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
@@ -151,21 +172,23 @@ export default [{
 	image: 'img/investors/john-rampton.png',
 	cardContent: '',
 	revealContent: "Best known as an Entrepreneur and Connector. John was recently named #3 on Top 50 Online Influencers in the World by Entrepreneur Magazine as well as a blogging expert by Forbes. Awarded Top 10 Most Influential PPC Experts in the World for the past 3 years. He currently advises several companies in the bay area.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'Sara Thomas',
 	title: 'Investor',
 	image: 'img/investors/sara-thomas.jpg',
 	cardContent: 'Maven Ventures',
 	revealContent: "Maven Ventures, an incubator and micro VC fund focused exclusively on consumer internet and mobile startups with hyper-growth potential. Sara has been supporting startup founders for seven years and works hands-on with the 20+ companies in the Maven portfolio in addition to sourcing and making new investments. Prior to Maven, Sara worked at The Idea Village, an entrepreneurship engine in New Orleans, and ran her own business launching accelerator programs around the country.",
-	current: false
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 },{
 	cardTitle: 'Salil Pradhan',
 	title: 'Venture Partner',
 	image: 'img/investors/salil-pradhan.jpg',
 	cardContent: 'Draper Nexus Ventures',
 	revealContent: "Salil is a Venture Partner and early stage investor with Draper Nexus Ventures. An advisor to corporate LPs on product strategy, partnerships with startups, and M&A, his current focus in on seed/early stage startups in verticals including retail, healthcare and agriculture with an emphasis on IoT (Internet of things).",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Will Bunker',
 	title: 'Partner',
@@ -185,9 +208,10 @@ export default [{
 	title: 'Managing Partner',
 	image: 'img/investors/marco-marinucci.jpg',
 	cardContent: 'Mind the Seed Fund',
-	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' + 
+	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' +
 	'Marcos 20+ years professional experience spans from artificial intelligence research to startups in VoIP, Ecommerce, Elearning and Ticketing.',
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Peter Brack',
 	title: 'Entrepreneur in Residence',
@@ -215,28 +239,31 @@ export default [{
 	image: 'img/investors/dave-lambert.jpg',
 	cardContent: 'Right Side Capital',
 	revealContent: 'Right Side Capital invests small amounts into a very large number of capital efficient, pre-seed stage technology startups. The firm has made just under 300 investments in the past 3 years. Prior to founding Right Side Capital, Dave spent 17 years as the CEO and founder of two technology startups, Acorn Computer and WorkMetro.',
-	current: false
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Jules Walker',
 	title: 'Director',
 	image: 'img/investors/jules-walker.jpg',
 	cardContent: 'KPMG Venture Capital Practice',
 	revealContent: 'Jules Walker leads the business development efforts for KPMG’s Emerging Technology practice in the Bay area and beyond, focusing on creating and expanding relationships with hot start-ups and pre-IPO companies. He has spent his 20+ year professional career in financial services working for companies such as Bank of America, Robert Half and Textron Financial.',
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Tyler Peterson',
 	title: 'Vice President',
 	image: 'img/investors/tyler-peterson.png',
 	cardContent: 'Triangle Peak Partners',
 	revealContent: 'Tyler Peterson joined Triangle Peak Partners, LP in 2014 as Vice President. Prior to Triangle Peak, he spent seven years at Google where he held various product strategy and finance positions. Most recently, he focused on new product development for YouTube monetization. Additionally, he has led strategy and finance groups in the Google+ and Google Maps businesses. He is also a Mentor for Acceleprise, a Washington DC based accelerator focused on enterprise technology.',
-	current: false
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Pierre Berlan',
 	title: 'Investor',
 	image: 'img/investors/pierre-berlan.jpg',
 	cardContent: 'Fenox Venture Capital',
 	revealContent: 'Pierre leads Fenox’s US team operations and is the first point of contact for worldwide deal sourcing activities. Fenox Venture Capital is a Silicon Valley venture capital firm with a global footprint. With 8 funds raised and 50 investments made in four years, Fenox has grown at a breakneck pace. Pierre is fluent in French and holds a double degree from the University of California, Santa Barbara in Economics and Political Science.',
-	current: true
+	current: false
 }, {
 	cardTitle: 'Miki Yasuda',
 	title: 'Partner, Strategic Investment',
@@ -244,14 +271,16 @@ export default [{
 	cardContent: 'DeNa',
 	revealContent: 'Miki is in charge of startup investment in US market at DeNA. Miki focuses on investments in consumer tech including mobile game tech, ecommerce, market place and on-line community. After having been at the forefront of the Internet industry in Japan last one and half decades, he relocated himself to San Francisco 2.5 years ago.'+
 	'Prior to DeNA, Miki has held multiple leadership positions including a board of director at Digital Garage, CEO at Open Network Lab, CTO/COO at Kakaku.com and practice manager at Netscape.',
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Eric Nagel',
 	title: 'Angel Investor',
 	image: 'img/investors/eric-nagel.jpg',
 	cardContent: '',
 	revealContent: 'Eric has over 37 years of experience in engineering, marketing and sales in the semiconductor industry. For the last 10 years, prior to his recent retirement, he was a consultant as a technology analyst to some of the biggest names on Wall Street . Eric has invested in, as well as worked at multiple startups in the semiconductor, solar, tech IP, wine and food industries.',
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Lin Tam',
 	title: 'Co-Founder',
@@ -286,28 +315,31 @@ export default [{
 	image: 'img/investors/jim-jensen.png',
 	cardContent: 'Perkins Coie',
 	revealContent: "James Jensen, a partner in the firm's Emerging Companies & Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Daphne Higgs',
 	title: 'Partner',
 	image: 'img/investors/daphne-higgs.jpg',
 	cardContent: 'Perkins Coie',
 	revealContent: "Daphne is a partner in Perkins Coie's Technology Transactions & Privacy group in Silicon Valley, and she plays an integral role within the firm's Emerging Companies & Venture Capital practice. She counsels companies on complex technology transactions, with a particular focus on digital media, entertainment, open source, privacy, advertising and the transfer of technologies from universities. Also, Daphne provides strategic intellectual property advice with respect to M&A and venture capital transactions. Daphne has a background in corporate law (financings, M&A and IPOs and general corporate governance) and mathematics, and she brings a valuable business and quantitative perspective to her transactional practice.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 },  {
 	cardTitle: 'George Arabian',
 	title: 'Investor',
 	image: 'img/investors/george-arabian.jpg',
 	cardContent: 'Steelhead VC',
 	revealContent: "We do seed-stage investments and work with founders, joint venture partners, thought leaders and executive teams who are making a positive difference in their communities & the future of our world. Our portfolio includes 25 visionary companies whose ideas will impact their marketplace and communities. We are activist investors who catalyze growth through access to our networks, added value through our expertise, & a focus on revenue acceleration.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Adam Boyden',
 	title: 'Investor',
 	image: 'img/investors/adam-boyden.png',
 	cardContent: 'RPM Ventures',
 	revealContent: "Adam Boyden is a five-time entrepreneur who has provided leadership for venture capital backed companies that have disrupted multi-billion dollar industries and generated more than $2 billion in exit value.",
-	current: true
+	current: false
 }, {
 	cardTitle: 'John Lim',
 	title: 'Analyst',
@@ -323,15 +355,3 @@ export default [{
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
 }];
-
-
-
-
-
-
-
-
-
-
-
-
