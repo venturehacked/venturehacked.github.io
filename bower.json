@@ -16,7 +16,7 @@
     "font-awesome": "~4.5.0"
   },
   "resolutions": {
-    "jquery": "1.11.1",
+    "jquery": "1.11.3",
     "qunit-notifications": "~0.1.0"
   }
 }
