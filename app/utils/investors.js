@@ -29,7 +29,23 @@ export default [{
 	cardContent: 'Artis Ventures',
 	revealContent: "Chris Haroun is a Partner at Artis Ventures and has more than 20 years of technology and investment experience. He focuses on venture capital investments in rapidly-growing Internet and software companies. Chris has been actively involved in Artis Ventures' investments in Bracket Computing, Nimble Storage, Cohesity, Quid and others. He sits on several boards, including Bracket Computing which is VMware for the public cloud and an educational not-for profit charity called the Lemo Foundation. He has relationships with many Fortune 500 CTOs and has helped many prospective and current venture portfolio companies with customer introductions.  Prior to joining Artis Ventures, Chris founded Haroun Capital Management, which had several venture investments, including an investment in Facebook.  Chris also worked in equities at Goldman Sachs, the hedge fund industry at Citadel and Accenture where he was a senior technology consultant and set up Accenture's Internet R&D Center in 1995, was a senior consultant on the merger of NationsBank and Bank of America and he was part of a team that set up an offshore bank for the Canadian Imperial Bank of Commerce in Barbados.",
 	current: false
-}, {
+},{
+	cardTitle: 'Bill Brown',
+	title: 'Investor & Co-Founder',
+	image: 'img/investors/bill-brown.jpg',
+	cardContent: '8 Rivers Capital',
+	revealContent: "A distinguished lawyer with an extensive career in financial services, Brown has held leadership positions at Goldman Sachs & Co., AIG International, and Morgan Stanley. He a Professor at Duke Law, where his teaching focuses on entrepreneurship, business law, business planning, capital markets and corporate finance. He was instrumental in helping put together Duke’s LLM program in Entrepreneurship and the Law. Bill has authored a number of pieces and is a frequent commentator for a number of organizations, including the BBC, NPR, Bloomberg, The New York Times, NBCTV-17, Forbes.com, MarketWatch, China.com and The Huffington Post.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Jason Parker',
+	title: 'Angel Investor',
+	image: 'img/investors/jason-parker.jpg',
+	cardContent: '',
+	revealContent: "Jason informs, inspires, and invests in growth-minded startup, nonprofit, and civic leaders--and their organizations. Born in Durham, NC, Jason is a partner in the city's first distillery, Brothers Vilgalys Spirits Company, serves as the board president for Triangle Ultimate, and provides communications support and consulting for nonprofits and startups. In his spare time, you'll find him playing Ultimate Frisbee, at the dog park with his dog Atlas, or helping organize community-focused events (like Startup Weekend).",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Peter Tatischev',
 	title: 'Investor',
 	image: 'img/investors/peter-tatischev.jpg',
@@ -362,4 +378,46 @@ export default [{
 	cardContent: '',
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
 }];
