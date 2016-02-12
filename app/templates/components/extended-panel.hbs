@@ -1,0 +1,23 @@
+{{!-- extended panel --}}
+<div class="row">
+  <div class="col s12 green-text text-darken-4">
+    <h3>Extended Panel Speakers</h3>
+    <p>Startups not participating in speed investing will get the opportunity for this extended panel in a "fireside chat" format with experienced founders and other influencers in the venture and startup space.</p>
+  </div>
+
+  {{#each panel.panelists as |panelist|}}
+    <div class="col s12 m6 l4">
+      {{#md-card title=panelist.name image=panelist.image}}
+      {{#md-card-content}}
+      <p>{{panelist.title}}</p>
+      {{/md-card-content}}
+      {{#md-card-reveal}}
+      <p>
+        {{panelist.bio}}
+      </p>
+      {{/md-card-reveal}}
+      {{/md-card}}
+    </div>
+  {{/each}}
+</div>
+{{!-- end extended panel --}}

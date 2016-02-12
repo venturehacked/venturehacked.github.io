@@ -40,7 +40,7 @@ $logo_size: 80px;
   width: $logo_size;
   border-radius: $logo_size/2;
   margin: 10px;
-}	
+}
 
 $sponsor_logo: 400px;
 .sponsor-logo img {
@@ -70,7 +70,7 @@ $sponsor_logo: 400px;
     .card-title {
       line-height: 34px;
     }
-    .card-content { 
+    .card-content {
       margin-bottom: 35px;
       p {
         position: absolute;
@@ -137,7 +137,7 @@ main {
       }
     }
   }
-@media #{$large-and-up} {  
+@media #{$large-and-up} {
   .event-content-card-height .card-panel{
     height: 340px;
   }
@@ -234,19 +234,6 @@ main {
   background: white;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.margin-top-30 {
+  margin-top: 30px;
+}

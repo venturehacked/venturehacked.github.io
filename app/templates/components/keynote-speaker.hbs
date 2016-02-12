@@ -1,0 +1,13 @@
+<div class="row">
+  <div class="col s12 green-text text-darken-4">
+        <h3>Keynote Speaker</h3>
+    {{#md-card title="Keynote Speaker" image=speaker.image activator=true}}
+    {{#md-card-content}}
+    <p>{{speaker.title}}</p>
+    {{/md-card-content}}
+    {{#md-card-reveal}}
+      {{speaker.bio}}
+    {{/md-card-reveal}}
+    {{/md-card}}
+  </div>
+</div>

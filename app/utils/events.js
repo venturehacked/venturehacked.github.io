@@ -12,8 +12,8 @@ export default [{
   image:"img/event-image-rdu.jpg",
   id: "2016-05-11-rdu",
   title: "Speed Investing & Lessons Learned",
-  location: "Raleigh/Durham",
-  address: "",
+  location: "Raleigh",
+  address: "HQ Raleigh",
   eventContent: "",
   eventbriteLink: "//eventbrite.com/tickets-external?eid=20657927417&ref=etckt"
 },{

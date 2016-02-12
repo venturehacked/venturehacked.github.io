@@ -1,7 +1,8 @@
 <div class="container">
   <div class="row">
     <div class="col s12">
-      <h5>{{link-to "Events" "events"}}</h5>
+      <h5>{{link-to "
+        < Events" "events"}}</h5>
     </div>
   </div>
   <div class="row ">
@@ -14,6 +15,18 @@
     <div class="col s12 green-text text-darken-2 ">
       <h6>{{model.address}}</h6>
     </div>
+
+    <!-- eventbrite -->
+      <div class="row ">
+        <div class="col s12 margin-top-30 ">
+          <div style="width:100%; text-align:left; ">
+            <iframe src=" {{model.eventbriteLink}} " frameborder="0 " height="350 " width="100% " vspace="0 " hspace="0 " marginheight="5 " marginwidth="5 " scrolling="auto " allowtransparency="true ">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    <!-- end eventbrite -->
+
     <div class="col s12 ">
       {{#md-card image=model.image}}
         {{#md-card-content}}
@@ -62,42 +75,40 @@
     </div>
   </div>
 
-<!-- custom event content -->
-  <div class="row ">
-    <div class="col s12 ">
-      Featured investors &amp; mentors are listed on the
-      {{#link-to "investors"}}investors page{{/link-to}}.
-    </div>
-    <div class="col s12 ">
-      {{model.eventContent}}
-    </div>
-  </div>
-<!-- end custom event content -->
 
-<!-- eventbrite -->
-  <div class="row ">
-    <div class="col s12 ">
-      <div style="width:100%; text-align:left; ">
-        <iframe src=" {{model.eventbriteLink}} " frameborder="0 " height="400 " width="100% " vspace="0 " hspace="0 " marginheight="5 " marginwidth="5 " scrolling="auto " allowtransparency="true ">
-        </iframe>
-      </div>
-    </div>
-  </div>
-<!-- end eventbrite -->
+  {{!-- keynote --}}
+  {{#if model.eventKeynote}}
+    {{keynote-speaker speaker=model.eventKeynote}}
+  {{/if}}
+  {{!-- keynote --}}
 
-  <!-- investors -->
+<!-- Panel Moderator -->
+  {{#if model.eventModerator}}
+    {{panel-moderator moderator=model.eventModerator}}
+  {{/if}}
+  <!-- end Panel Moderator -->
+
+<!-- investors -->
   <div class="row ">
     <div class="col s12 green-text text-darken-4 ">
       <h3>Investors &amp; Mentors</h3>
+      {{#each model.eventInvestors as |investor|}}
+        {{investor-profile-card investor=investor}}
+      {{else}}
+        <div>
+          <p>
+            Investors to be posted shortly. Please check our {{#link-to 'investors'}}investors page{{/link-to}} for previously feautured investors.
+          </p>
+        </div>
+      {{/each}}
     </div>
-    {{#each model.eventInvestors as |investor|}}
-      {{investor-profile-card investor=investor}}
-    {{else}}
-      <div>
-        Investors to be posted shortly. Please check our {{#link-to 'investors'}}investors page{{/link-to}} for previously feautured investors.
-      </div>
-    {{/each}}
   </div>
-  <!-- end investors -->
+<!-- end investors -->
+
+<!-- extended panel -->
+{{#if model.eventExtendedPanel}}
+  {{extended-panel panel=model.eventExtendedPanel}}
+{{/if}}
+<!-- end extended panel -->
 
 </div>
