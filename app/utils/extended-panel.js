@@ -23,4 +23,4 @@ export default [{
     }
   ],
   events: ['2016-02-24-silicon-valley']
-}]
+}];
