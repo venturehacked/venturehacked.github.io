@@ -1,6 +1,6 @@
 export default [{
-  image: "img/articles/tom-kalinske-bio.png",
-  title: "Tom Kalinske, Investor &amp; Former CEO of Sega, Mattel, Matchbox, Leapfrog, Knowledge Universe",
-  bio: "Tom Kalinske is the Chairman of Global Education Learning and former CEO of LeapFrog, Knowledge Universe, Sega, Matchbox, and Mattel. He has worked with brands such as Barbie, Hot Wheels, See N' Say, Masters of the Universe, Matchbox, Sega Genesis, Sonic the Hedgehog, LeapFrog, and more. Tom is also on the board of Cambium Learning (NASDAQ: ABCD) a company that has curriculum for children with special learning needs and which also helps turn-around troubled schools and is currently interested in using on-line technology, combined with great education pedagogy, creating fun experiences so children are engaged and thus learn enjoyably and faster.",
+  image: "img/marlon-keynote.jpg",
+  title: "Marlon Nichols, Co-Founder & General Partner at Cross Culture Ventures (CCV)",
+  bio: "Marlon Nichols is a co-founder and  general partner at Cross Culture Ventures (CCV), an early stage venture capital firm with a focus on cultural investing (global trends and shifts in consumer behavior).  Before founding CCV, Marlon was an investment director at Intel Capital where he completed his Kauffman Fellowship.  Prior to his time in venture capital, Marlon led successful careers in software and strategy consulting in the technology, private equity, media and entertainment sectors.  Some of Marlon’s investments include Afrostream, Gimlet, LendStreet, LISNR, Mark One (Vessyl), Mayvenn, Mirantis, MongoDB, mSurvey, Sidestep, and Thrive Market.  Marlon earned a Bachelor of Science in MIS from Northeastern University and a MBA from the Johnson Graduate School of Business at Cornell University.",
   events: ['2016-02-24-silicon-valley']
 }]

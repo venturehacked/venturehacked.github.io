@@ -6,10 +6,15 @@
   </div>
 
   {{#each panel.panelists as |panelist|}}
-    <div class="col s12 m6 l4">
-      {{#md-card title=panelist.name image=panelist.image}}
+    <div class="col s12 m6 l4 green-text text-darken-4">
+      {{#md-card title=panelist.name image=panelist.image activator=true }}
       {{#md-card-content}}
-      <p>{{panelist.title}}</p>
+      <div>
+        {{panelist.title}}
+      </div>
+      <div>
+        {{panelist.company}}
+      </div>
       {{/md-card-content}}
       {{#md-card-reveal}}
       <p>

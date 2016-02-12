@@ -15,6 +15,14 @@ export default [{
 	current: true,
 	events: ['2016-02-24-silicon-valley']
 }, {
+	cardTitle: 'Marlon Nichols',
+	title: 'General Partner',
+	image: 'img/investors/marlon-nichols.jpeg',
+	cardContent: 'Cross Culture Ventures',
+	revealContent: "Marlon Nichols is a co-founder and  general partner at Cross Culture Ventures (CCV), an early stage venture capital firm with a focus on cultural investing (global trends and shifts in consumer behavior).  Before founding CCV, Marlon was an investment director at Intel Capital where he completed his Kauffman Fellowship.  Prior to his time in venture capital, Marlon led successful careers in software and strategy consulting in the technology, private equity, media and entertainment sectors.  Some of Marlon’s investments include Afrostream, Gimlet, LendStreet, LISNR, Mark One (Vessyl), Mayvenn, Mirantis, MongoDB, mSurvey, Sidestep, and Thrive Market.  Marlon earned a Bachelor of Science in MIS from Northeastern University and a MBA from the Johnson Graduate School of Business at Cornell University.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
+}, {
 	cardTitle: 'Chris Haroun',
 	title: 'Partner',
 	image: 'img/investors/chris-haroun.jpg',
@@ -93,6 +101,14 @@ export default [{
 	cardContent: 'Intel Capital',
 	revealContent: "Ekta Dang works at Intel Capital on Enterprise/Consumer SW investments. She is actively looking for startups in the IOT/Cybersecurity/Big Data space. Ekta has 10 years of Senior Leadership experience at Intel with broad range of expertise including Corp Strategy, Business Development, IOT Product Management, ISV Management, IP Deal-making, Marketing, and Supply-Chain and has led several Partnerships/Alliances. She has executed >30 deals ranging from $5M to $1Billion. Ekta also has a strong technical background and a PhD in Physics.",
 	current: false
+}, {
+	cardTitle: 'Jim Jensen',
+	title: 'Partner',
+	image: 'img/investors/jim-jensen.png',
+	cardContent: 'Perkins Coie',
+	revealContent: "James Jensen, a partner in the firm's Emerging Companies & Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Jeremy Edberg',
 	title: 'Angel Investor',
@@ -309,14 +325,6 @@ export default [{
 	cardContent: '',
 	revealContent: "20 years experience in Silicon Valley high-tech from from start-ups to large companies. Focus on driving revenue & competitive advantages in biz dev opportunities – domestic and international – for mobile applications, energy and technology. Steve is an advisor to several start-ups, instructor at Founders Space, and is a frequent guest speaker on Go-To-Market strategies at local startup events.",
 	current: false
-},{
-	cardTitle: 'Jim Jensen',
-	title: 'Partner',
-	image: 'img/investors/jim-jensen.png',
-	cardContent: 'Perkins Coie',
-	revealContent: "James Jensen, a partner in the firm's Emerging Companies & Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs.",
-	current: true,
-	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Daphne Higgs',
 	title: 'Partner',
