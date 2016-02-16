@@ -1,4 +1,4 @@
-export default [{
+let events = [{
   date: "Feb 24, 7-930pm",
   image:"img/event-image-sv.jpg",
   id: "2016-02-24-silicon-valley",
@@ -26,3 +26,5 @@ export default [{
   eventContent: "",
   eventbriteLink: "//eventbrite.com/tickets-external?eid=20657764931&ref=etckt"
 }];
+
+export default events;

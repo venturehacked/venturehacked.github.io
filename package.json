@@ -39,6 +39,7 @@
     "ember-export-application-global": "1.0.5",
     "ember-key-responder": "0.4.2",
     "ember-modal-dialog": "0.8.3",
-    "ember-radio-button": "1.0.7"
+    "ember-radio-button": "1.0.7",
+    "ember-cli-model-name": "0.0.1"
   }
 }

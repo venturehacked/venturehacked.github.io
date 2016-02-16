@@ -8,21 +8,21 @@
 	</div>
 	<div class="row">
 		<div class="col s12">
-				<h3 class="green-text text-darken-4">{{content.cardTitle}}</h3>
-				<h5 class="green-text">{{content.cardContent}}</h5>
+				<h3 class="green-text text-darken-4">{{article.cardTitle}}</h3>
+				<h5 class="green-text">{{article.cardContent}}</h5>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col s12 text-center">
-			<img class="responsive-img" src="{{content.image}}" alt="image">
+			<img class="responsive-img" src="{{article.image}}" alt="image">
 		</div>
 		<div class="col s12 font-large margin-top">
-			<b>By {{content.author}}</b>
+			<b>By {{article.author}}</b>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col s12 article-content margin-article">
-				{{partial content.bodyPartial}}
+				{{partial article.bodyPartial}}
 		</div>
 	</div>
 
