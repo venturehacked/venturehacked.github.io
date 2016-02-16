@@ -11,11 +11,11 @@ function numberPad(number, width, padChar) {
 
 	// Ternary operator!
 	return number.length >= width ?
-			number 
+			number
 			: new Array(width - number.length + 1).join(padChar) + number;
 }
 
-export default [{
+let articles = [{
 		cardTitle: 'How Corporate Venture Arms Provide Value To Startups',
 		image:"img/articles/value.jpg",
 		cardContent: "Highlights of Intel's value-add from companies at Global Summit",
@@ -249,3 +249,5 @@ export default [{
 		// }
 		return article;
 	});
+
+	export default articles;

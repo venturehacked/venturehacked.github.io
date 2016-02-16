@@ -1,4 +1,4 @@
-export default [{
+let investors = [{
 	cardTitle: 'Tiffine Wang',
 	title: 'Investor',
 	image: 'img/investors/tiffine-wang.jpg',
@@ -437,3 +437,5 @@ export default [{
 	revealContent: "",
 	events: ['2016-05-11-rdu']
 }];
+
+export default investors;
