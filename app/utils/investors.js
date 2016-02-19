@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Puneet Gupta',
+	title: 'Venture Partner',
+	image: 'img/investors/puneet-gupta.jpg',
+	cardContent: 'Fenox Venture Capital',
+	revealContent: "Puneet is a Venture Partner at Fenox Venture Capital. Based out of San Jose, he contributes to deal sourcing activities through leading accelerators and incubators across the US/Asia. He is the primary technical advisor to Fenox’s due diligence team. His primary areas of interest are seed and series A round startups in the field of IoT (Platform and Devices), Consumer/Industrial Hardware, AI, Robotics and Semiconductors. Concurrent to his role at Fenox, Puneet is a Hardware Engineer by profession. With more than 15 years of chip design and debug, he is passionate about developing systems with cutting edge software and hardware. Puneet holds a M.S. in EE from Virginia Tech and has published several technical papers along with four US patents.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
+},{
 	cardTitle: 'Tiffine Wang',
 	title: 'Investor',
 	image: 'img/investors/tiffine-wang.jpg',
@@ -39,7 +47,7 @@ export default [{
 	events: ['2016-02-24-silicon-valley']
 },{
 	cardTitle: 'Ajay Kamat',
-	title: 'Entrepreneur in Residence',
+	title: 'Investor',
 	image: 'img/investors/ajay-kamat.png',
 	cardContent: 'Pejman Mar Ventures',
 	revealContent: "",
@@ -124,8 +132,7 @@ export default [{
 	image: 'img/investors/sanjit-dang.jpg',
 	cardContent: 'Intel Capital',
 	revealContent: "Sanjit is an Investment Director at Intel Capital. He drives investments in Client Computing across Consumer and Enterprise sectors. He has also driven several investments in Big Data, IoT and Cloud Computing. Sanjit has over a decade of Exec leadership experience in Product Design, Business Development and Strategy across several domains: Big Data, Natural Language Processing, 3D Camera/Apps, Supply-Chain Analytics and Flash Memory. He has managed Billion dollar accounts and executed >30 partnership deals in $100M-$2Bill range. Always ahead of the curve, Sanjit worked on Big Data Analytics before industry created the term 'Big Data'. Similarly, he launched 2 online courses during grad school in 1999 and published iconic papers on learnings, way before the MOOC revolution started.  He’s currently an investor in DocuSign (eSignature), Reflektion (eCommerce), MongoDB (NoSQL Database), Enlighted (IoT), Mirantis (Cloud Computing), GoodData (SaaS BI) and Arcadia Data (Data Analytics 2.0), to name a few. He has had 2 Exits within 1 year of investment - Basis Science (Wearables, acq Intel) and Maginatics (Cloud Storage, acq EMC).",
-	current: true,
-	events: ['2016-02-24-silicon-valley']
+	current: false
 }, {
 	cardTitle: 'Ekta Dang',
 	title: 'Investor',

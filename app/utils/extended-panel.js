@@ -1,18 +1,18 @@
 export default [{
   panelists: [
     {
-      name: "Brett Hellman",
-      image: "img/panelists/brett-hellman.jpg",
-      title: "Startup Founder & CEO of Hall",
-      company: "Hall (Acquired by Atlassian)",
-      bio: "Brett is a product leader, entrepreneur and engineer with 15 years of experience who loves creating beautifully crafted products in large addressable markets. Most recently, Brett was the founder and CEO of Hall, which was acquired by Atlassian in 2015. Brett began Hall in order to make workplace communication easier and fun. Hall was an award-winning collaboration platform of choice for 50k companies. Brett has a lifelong passion for technology and the creative process. Brett joined his first startup when he was 14 and hasn’t stopped building products since then. Prior to Hall, Brett led multiple teams at Intuit, Yahoo! and various startups. Specialties: Product development, data-driven product growth and human-centered design."
+      name: "John Mein",
+      image: "img/panelists/john-mein.jpg",
+      title: "VP of Sales and Fundraising",
+      company: "Petzila",
+      bio: "John has been based in Silicon Valley for 25+ years.  John’s background in design, field applications, recruiting, and sales makes him a valuable member of the Petzila team. John started his career as a design engineer at Ball Aerospace in Boulder, CO designing power systems and test equipment for satellites.  He then moved into field applications with Texas Instruments and Integrated Device Technology as well as a number of startup ventures in the chip and optical world. For the last 18 years he has served as VP of Sales at a variety of chip and communication companies located in Silicon Valley, Israel, and Canada. Most recently, John has been busy recruiting and teaching Miller Heiman sales methodologies before joining Petzila in early 2015. John earned his BSEE from Kansas State University, an MSEE from Stanford University, and did Ph.D. EE work at Colorado State University and the University of Colorado."
     },
     {
       name: "Barry Burr",
-      image: "img/investors/placeholder.jpg",
+      image: "img/panelists/barry-burr.png",
       title: "Startup Founder",
       company: "Barry Beams",
-      bio: ""
+      bio: "Barry is a bicyclist & ex-computer systems geek, whose electronics and light making hobby led to an LED optics patent, funding, and is now bringing disruptive innovation to the bicycle, motor vehicle, police, other tactical, emergency, and outdoor recreational lighting market. His company, Barry Beams, llc produces LED lighting and light kits to install or design into your own vehicles, hand held, or remotely attached applications.  Our patented optical technology provides superior beam control, projection, depth of field, and contrast, and requires only 1/2 to 2/3 the power consumption, of other LED lighting solutions. The innovative design allows a much lower cost to produce than similar competing lighting solutions. The optical efficiency is literally out of this world, with NASA selecting Barry Beams optics to develop the Lunar Resource Prospector Rover with, to re-light the Dark Side of the Moon."
     },
     {
       name: "Jim Jensen",
