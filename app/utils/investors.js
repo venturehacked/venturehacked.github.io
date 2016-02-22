@@ -1,4 +1,20 @@
 export default [{
+	cardTitle: 'Dhruv Patel',
+	title: 'Investor Relations',
+	image: 'img/investors/dhruv-patel.jpg',
+	cardContent: 'CED',
+	revealContent: "Director of Investor Relations @ CED, the largest entrepreneur organization supporting tech and life science companies. Responsible for new investor relations and strategic partnerships. My current role also involves connecting most promising startups to investors (leading angel groups, venture funds, strategics). Prior to CED, I was a part of launch team of Piedmont Triad Entrepreneurs Network and as a Licensing Associate at UNCG’s Office of Innovation Commercialization evaluating commercial feasibility of technologies. I currently serve on the Board of Advisors of Rex Health Ventures, $10 million strategic investment fund from Rex Healthcare that invests in healthcare. I have also served on the Leadership Council of Z. Smith Reynolds Foundation, one of the largest grant making foundations supporting public education, community-based economic development, environmental sustainability and racial & gender equality in NC.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Frank R. Caufield',
+	title: 'Managing Partner',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: 'Darwin Ventures',
+	revealContent: "Frank Caufield is Managing Partner at Darwin Ventures. Frank founded Darwin Ventures in 2004. Through his unique experience, diverse network, and family history, Frank has gained access to the highest quality Venture Capital firms in Silicon Valley and identified and invested in the most compelling rising stars in the VC industry. Frank has over 25 years of experience in high technology finance, business development, marketing and sales. As an entrepreneur Frank founded several companies, most recently MarkLogic, a NoSQL Database company. Frank also worked at the Xerox Venture Lab, the Venture Capital arm of Xerox PARC. While at Xerox, he engineered the spinout of Outride Corporation. Outride was sold to Google in 2001 and was only the second company ever purchased by Google. Frank is an active angel investor with 24 angel investments in Silicon Valley based startups. As an investor and advisor Frank has been involved with many high profile companies such as Ooyala, 42Floors, Tremor, Octopart, Tile, and Ustream, to name a few.",
+	current: true,
+	events: ['2016-02-24-silicon-valley']
+},{
 	cardTitle: 'Puneet Gupta',
 	title: 'Venture Partner',
 	image: 'img/investors/puneet-gupta.jpg',
