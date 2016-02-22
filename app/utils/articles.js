@@ -11,11 +11,17 @@ function numberPad(number, width, padChar) {
 
 	// Ternary operator!
 	return number.length >= width ?
-			number 
+			number
 			: new Array(width - number.length + 1).join(padChar) + number;
 }
 
 export default [{
+		cardTitle: '32 Years of Startup Support - The CED Legacy',
+		image:"img/articles/community-hands.jpg",
+		cardContent: "An Interview with Dhruv Patel, Council for Entrepreneurial Development",
+		bodyPartial: 'articles/dhruv-patel',
+		author: 'Tracy Lee'
+	},{
 		cardTitle: 'How Corporate Venture Arms Provide Value To Startups',
 		image:"img/articles/value.jpg",
 		cardContent: "Highlights of Intel's value-add from companies at Global Summit",
