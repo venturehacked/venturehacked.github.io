@@ -66,7 +66,7 @@ export default [{
 	title: 'Investor',
 	image: 'img/investors/ajay-kamat.png',
 	cardContent: 'Pejman Mar Ventures',
-	revealContent: "",
+	revealContent: "Ajay Kamat is a partner at PejmanMar Ventures. Prior to this role he started, raised capital, and sold the mobile startup Wedding Party. He focuses on consumer products and is passionate about building great product teams.",
 	current: true,
 	events: ['2016-02-24-silicon-valley']
 }, {
