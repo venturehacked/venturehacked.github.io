@@ -6,6 +6,8 @@ function range(start, end) {
 	return arr;
 }
 
+// When adding images to this file make sure you add them to the fingerprint exclude in ember-cli-build.js
+
 export default [{
 	cardTitle: 'Venture Hacked Event Photos 02-24',
 	image:"img/articles/02-24.jpg",
