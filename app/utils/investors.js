@@ -24,7 +24,7 @@ export default [{
 	events: ['2016-02-24-silicon-valley']
 },{
 	cardTitle: 'Tiffine Wang',
-	title: 'Investor',
+	title: 'Innovation & Partnerships',
 	image: 'img/investors/tiffine-wang.jpg',
 	cardContent: 'Singtel Innov8',
 	revealContent: "Tiffine Wang is part of Singtel's venture team, Innov8, working on strategic partnerships & investments primary with startups and companies in Silicon Valley and North America. She bridges startups with Singtel's 500M+ customers globally. In addition, she is a mentor for European Innovation Academy and serve as a Board Member at SVImpact. She has spent several years working in startups and running various startup programs including Alchemist Accelerator and AngelHack. Tiffine also serves as an Industry Fellow for UCBerkeley - Center for Entrepreneurship & Technology.",

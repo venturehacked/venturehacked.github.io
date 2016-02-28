@@ -5,17 +5,15 @@ function range(start, end) {
 	}
 	return arr;
 }
-function numberPad(number, width, padChar) {
-	padChar = padChar || '0'; // Set the character to fill in
-	number = number + ''; // Convert to string
-
-	// Ternary operator!
-	return number.length >= width ?
-			number
-			: new Array(width - number.length + 1).join(padChar) + number;
-}
 
 export default [{
+	cardTitle: 'Venture Hacked Event Photos 02-24',
+	image:"img/articles/02-24.jpg",
+	cardContent: "Curious about what a Venture Hacked Event looks like?",
+	bodyPartial: 'articles/event-photos-20160224',
+	author: 'Venture Hacked',
+	images: range(1,36).map(i => `img/album-02-24/venture-hacked-${i}.jpg`)
+},{
 		cardTitle: '32 Years of Startup Support - The CED Legacy',
 		image:"img/articles/community-hands.jpg",
 		cardContent: "An Interview with Dhruv Patel, Council for Entrepreneurial Development",
@@ -39,7 +37,7 @@ export default [{
 		cardContent: "Curious about what a Venture Hacked Event looks like?",
 		bodyPartial: 'articles/event-photos-20151021',
 		author: 'Venture Hacked',
-		images: range(1,118).map(i => `img/album-10-21/venturehacked-${numberPad(i,3)}.jpg`)
+		images: range(1,87).map(i => `img/album-10-21/venture-hacked-${i}.jpg`)
 	}, {
 		cardTitle: 'Meet Ramneek Gupta of Citi Ventures',
 		image:"img/articles/grow-money.jpg",
