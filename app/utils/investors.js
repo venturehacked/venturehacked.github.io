@@ -1,4 +1,11 @@
 export default [{
+	cardTitle: 'Allen Nance',
+	title: 'Founding Partner',
+	image: 'img/investors/allen-nance.jpg',
+	cardContent: 'TechSquare Labs',
+	revealContent: "Allen is an entrepreneur, investor, and director. From a rented house in 2000 he founded a company that became one of the world’s largest email marketing firms leading it to three Inc. 500 awards representing the fastest growing private companies in the United States sending over 50 billion emails on 5 continents in 35 languages for nearly 1,000 customers. Today he is a founding partner in TechSquare Labs and focuses on helping organizations innovative and build something from nothing. He serves on boards ranging from venture backed startups to large enterprises including Scrubs and Beyond, Springbot, and Rescour. He is a graduate of Georgia Institute of Technology and a member of Young President’s Organization (YPO). He is an active speaker, and blogs at www.allennance.com and tweets @AllenNance.",
+	current: true
+},{
 	cardTitle: 'Dhruv Patel',
 	title: 'Investor Relations',
 	image: 'img/investors/dhruv-patel.jpg',
