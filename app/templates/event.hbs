@@ -15,18 +15,9 @@
     <div class="col s12 green-text text-darken-2">
       <h6>{{model.address}}</h6>
     </div>
+  </div>
 
-    <!-- eventbrite -->
-      <div class="row ">
-        <div class="col s12 margin-top-30 ">
-          <div style="width:100%; text-align:left; ">
-            <iframe src=" {{model.eventbriteLink}} " frameborder="0 " height="350 " width="100% " vspace="0 " hspace="0 " marginheight="5 " marginwidth="5 " scrolling="auto " allowtransparency="true ">
-            </iframe>
-          </div>
-        </div>
-      </div>
-    <!-- end eventbrite -->
-
+<div class="row">
     <div class="col s12 ">
       {{#md-card image=model.image}}
         {{#md-card-content}}
@@ -59,10 +50,10 @@
               <h5>Format</h5>
               <p>
                 <ul>
-                  <li>645-715 Registration &amp; Welcome</li>
-                  <li>715-730 Startup Panel</li>
-                  <li>730-800 Investor Panel</li>
-                  <li>800-900 Speed Investing &amp; Mentoring</li>
+                  <li>645 - Registration &amp; Welcome</li>
+                  <li>715 - Keynote</li>
+                  <li>730 - Investor Panel</li>
+                  <li>800-900 Speed Investing &amp; Mentoring OR Fireside Panel</li>
                   <li>900-930 Networking</li>
                 </ul>
               </p>
@@ -75,6 +66,11 @@
     </div>
   </div>
 
+  <div class="row">
+    <div class="col s12 center-align margin-top-45 margin-bottom-45">
+      	{{md-btn text="Seating Limited. Register Today." butttonType="large" class="red darken-1 white-text font-size-15em" action=(action 'eventbriteLink' model)}}
+    </div>
+  </div>
 
   {{!-- keynote --}}
   {{#if model.eventKeynote}}
@@ -84,7 +80,7 @@
 
 <!-- Panel Moderator -->
   {{#if model.eventModerator}}
-    {{panel-moderator moderator=model.eventModerator}}
+    {{panel-moderator moderatorTitle=model.moderatorTitle moderator=model.eventModerator}}
   {{/if}}
   <!-- end Panel Moderator -->
 
@@ -110,5 +106,22 @@
   {{extended-panel panel=model.eventExtendedPanel}}
 {{/if}}
 <!-- end extended panel -->
+
+<!-- eventbrite -->
+  <div class="row ">
+    <div class="col s12 margin-top-30 ">
+      <div style="width:100%; text-align:left; ">
+        <iframe src=" {{model.eventbriteLink}} " frameborder="0 " height="350 " width="100% " vspace="0 " hspace="0 " marginheight="5 " marginwidth="5 " scrolling="auto " allowtransparency="true ">
+        </iframe>
+      </div>
+    </div>
+  </div>
+<!-- end eventbrite -->
+
+<div class="row">
+  <div class="col s12 center-align margin-top-45 margin-bottom-45">
+    	{{md-btn text="Seating Limited. Register Today." butttonType="large" class="red darken-1 white-text font-size-15em" action=(action 'eventbriteLink' event)}}
+  </div>
+</div>
 
 </div>
