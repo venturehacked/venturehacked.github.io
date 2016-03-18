@@ -14,9 +14,25 @@ export default [{
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
+	cardTitle: 'Liz Tracy',
+	title: 'Director',
+	image: 'img/investors/liz-tracy.jpg',
+	cardContent: 'HQ Raleigh',
+	revealContent: "Director at HQ Raleigh, a 15,000 sq. foot shared work space for purpose driven entrepreneurs looking to work in a dynamic environment, looking to expand and looking to invest in their local community. The Innovators Program is a three-month residency at key locations around the world, including Silicon Valley and Bangalore, India. Small entrepreneurial teams and new corporate product teams receive training and coaching in leading-edge collaboration, design thinking and lean startup approaches. The Citrix-Red Hat Startup Accelerator is located in downtown Raleigh and was launched in partnership with HQ Raleigh.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Bill Brown',
+	title: 'Investor & Co-Founder',
+	image: 'img/investors/bill-brown.jpg',
+	cardContent: '8 Rivers Capital',
+	revealContent: "A distinguished lawyer with an extensive career in financial services, Brown has held leadership positions at Goldman Sachs & Co., AIG International, and Morgan Stanley. He a Professor at Duke Law, where his teaching focuses on entrepreneurship, business law, business planning, capital markets and corporate finance. He was instrumental in helping put together Duke’s LLM program in Entrepreneurship and the Law. Bill has authored a number of pieces and is a frequent commentator for a number of organizations, including the BBC, NPR, Bloomberg, The New York Times, NBCTV-17, Forbes.com, MarketWatch, China.com and The Huffington Post.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Frank R. Caufield',
 	title: 'Managing Partner',
-	image: 'img/investors/placeholder.jpg',
+	image: 'img/investors/frank-caufield.jpg',
 	cardContent: 'Darwin Ventures',
 	revealContent: "Frank Caufield is Managing Partner at Darwin Ventures. Frank founded Darwin Ventures in 2004. Through his unique experience, diverse network, and family history, Frank has gained access to the highest quality Venture Capital firms in Silicon Valley and identified and invested in the most compelling rising stars in the VC industry. Frank has over 25 years of experience in high technology finance, business development, marketing and sales. As an entrepreneur Frank founded several companies, most recently MarkLogic, a NoSQL Database company. Frank also worked at the Xerox Venture Lab, the Venture Capital arm of Xerox PARC. While at Xerox, he engineered the spinout of Outride Corporation. Outride was sold to Google in 2001 and was only the second company ever purchased by Google. Frank is an active angel investor with 24 angel investments in Silicon Valley based startups. As an investor and advisor Frank has been involved with many high profile companies such as Ooyala, 42Floors, Tremor, Octopart, Tile, and Ustream, to name a few.",
 	current: true,
@@ -77,19 +93,19 @@ export default [{
 	current: true,
 	events: ['2016-02-24-silicon-valley']
 }, {
-	cardTitle: 'Bill Brown',
-	title: 'Investor & Co-Founder',
-	image: 'img/investors/bill-brown.jpg',
-	cardContent: '8 Rivers Capital',
-	revealContent: "A distinguished lawyer with an extensive career in financial services, Brown has held leadership positions at Goldman Sachs & Co., AIG International, and Morgan Stanley. He a Professor at Duke Law, where his teaching focuses on entrepreneurship, business law, business planning, capital markets and corporate finance. He was instrumental in helping put together Duke’s LLM program in Entrepreneurship and the Law. Bill has authored a number of pieces and is a frequent commentator for a number of organizations, including the BBC, NPR, Bloomberg, The New York Times, NBCTV-17, Forbes.com, MarketWatch, China.com and The Huffington Post.",
-	current: true,
-	events: ['2016-05-11-rdu']
-},{
 	cardTitle: 'Jason Parker',
 	title: 'Angel Investor',
 	image: 'img/investors/jason-parker.jpg',
 	cardContent: '',
 	revealContent: "Jason informs, inspires, and invests in growth-minded startup, nonprofit, and civic leaders--and their organizations. Born in Durham, NC, Jason is a partner in the city's first distillery, Brothers Vilgalys Spirits Company, serves as the board president for Triangle Ultimate, and provides communications support and consulting for nonprofits and startups. In his spare time, you'll find him playing Ultimate Frisbee, at the dog park with his dog Atlas, or helping organize community-focused events (like Startup Weekend).",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Braden Rawls',
+	title: 'Mentor',
+	image: 'img/investors/braden-rawls.jpg',
+	cardContent: '',
+	revealContent: "Braden is the CEO and co-founder of Vital Plan, a rapidly-growing health & wellness company. Braden and Vital Plan are on a mission to help individuals restore their health through natural therapies and guided online programs. Braden received her Bachelor of Arts from UNC- Chapel Hill with a focus on public relations and entrepreneurship.",
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
@@ -424,6 +440,13 @@ export default [{
 	cardContent: '',
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu']
 },{
 	cardTitle: 'Details Forthcoming',
 	title: 'Investor',

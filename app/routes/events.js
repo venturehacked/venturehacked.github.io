@@ -4,7 +4,12 @@ import investors from 'venture-hacked-site/utils/investors';
 import refined from 'venture-hacked-site/utils/refinedEvents';
 
 export default Ember.Route.extend({
-	model() {
-		return { events, investors, refined };
+	model () {
+		return {
+			events,
+			refined,
+			current: investors.filterBy('current', true),
+			past: investors.filterBy('current', false)
+		};
 	}
 });
