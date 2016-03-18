@@ -6,4 +6,4 @@ export default Ember.Controller.extend({
       window.open(event.eventbritePage, '_blank');
     }
 	}
-})
+});
