@@ -13,6 +13,7 @@ Router.map(function() {
   this.route('events');
   this.route('event', { path:'event/:id' });
   this.route('investors');
+  this.route('media');
 });
 
 export default Router;
