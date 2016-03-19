@@ -18,8 +18,7 @@
 			{{#each model.refined as |event|}}
 				{{#md-card title=event.date titleClass="green-text darken-4" image=event.image}}
 					{{#md-card-content}}
-						{{md-btn text="Register Today" butttonType="large" class="red darken-1 white-text font-size-15em" action=(action 'eventbriteLink' event)}}
-						{{md-btn text="Schedule & Info" butttonType="large" class="red darken-1 white-text font-size-15em" action=(action 'viewEvent' event)}}
+									{{md-btn text="Schedule & Info" butttonType="large" class="red darken-1 white-text font-size-15em" action=(action 'viewEvent' event)}}
 					{{/md-card-content}}
 				{{/md-card}}
 			{{/each}}
