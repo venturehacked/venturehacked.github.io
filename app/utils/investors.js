@@ -1,10 +1,27 @@
 export default [{
+	cardTitle: 'Aymerik Renard',
+	title: 'Director',
+	image: 'img/investors/aymerik-renard.jpeg',
+	cardContent: 'Sandisk Ventures',
+	revealContent: "Aymerik Renard is a business development and venture capital veteran with 20 years of partnership, investment, and sales experience related to information technology hardware, software, and services. Aymerik is currently heading SanDisk's enterprise investing initiative. SanDisk Ventures targets investments across the spectrum of flash storage—from companies with solutions that enhance enterprise storage applications to companies that develop consumer products. Prior to that, Aymerik was VP Accelerator at PCH International, an engineering and manufacturing services firm where he launched PCH's start-up facing program, and co-founded the Highway1 incubator for hardware start-ups. Aymerik spent most of his career at France Telecom-Orange, where he was most recently Managing Director, Venture Capital, investing in North America and Europe across multiple funds with an aggregate of over $700 million under management. Portfolio companies of Aymerik's have gone public on the NASDAQ, NYSE, and Neuer Markt exchanges, and have been acquired by Yahoo, Microsoft, Cisco, Sun Microsystems, and IBM, among other public companies.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
+	cardTitle: 'Amish Parashar',
+	title: 'Venture Partner',
+	image: 'img/investors/amish-parashar.png',
+	cardContent: 'Yamaha Motor Ventures',
+	revealContent: "Amish Parashar is a founding team member of Yamaha Motor Ventures & Laboratory Silicon Valley where he is a Venture Partner & Director of Strategic Business Development. Prior to joining YMVSV’s founding team, Amish served in a variety of operating and entrepreneurial roles.  He has served as an Entrepreneur-in-Residence and company founder. Most recently he was Director of Innovation of a hundred-person private research & development lab which created dozens of novel hardware technologies for start-ups and multinational corporations working in regulated industries. Amish is a frequent lecturer on complex technology innovation and has held teaching appointments at Stanford’s d.school, Dartmouth’s Thayer School of Engineering, Singularity University, and UC San Diego’s Rady School of Management.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Allen Nance',
 	title: 'Founding Partner',
 	image: 'img/investors/allen-nance.jpg',
 	cardContent: 'TechSquare Labs',
 	revealContent: "Allen is an entrepreneur, investor, and director. From a rented house in 2000 he founded a company that became one of the world’s largest email marketing firms leading it to three Inc. 500 awards representing the fastest growing private companies in the United States sending over 50 billion emails on 5 continents in 35 languages for nearly 1,000 customers. Today he is a founding partner in TechSquare Labs and focuses on helping organizations innovative and build something from nothing. He serves on boards ranging from venture backed startups to large enterprises including Scrubs and Beyond, Springbot, and Rescour. He is a graduate of Georgia Institute of Technology and a member of Young President’s Organization (YPO). He is an active speaker, and blogs at www.allennance.com and tweets @AllenNance.",
-	current: true
+	current: true,
+	events: ['2016-05-26-sv']
 },{
 	cardTitle: 'Dhruv Patel',
 	title: 'Investor Relations',
@@ -60,7 +77,7 @@ export default [{
 	cardContent: 'Sand Hill Angels',
 	revealContent: "A seasoned Silicon Valley software executive with a passion for disrupting markets, Dom has had a number of valley startups and successful exits. At BeOpen.com (later PythonLabs and then Google) Domenic was an early and influential member of the business development and technology teams, and helped shape the direction of the Python programming language, which was the basis for Google's search technology. Currently, Domenic is an investor with Sand Hill Angels, one of the top angel investment groups in the world.",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-05-26-sv']
 }, {
 	cardTitle: 'Marlon Nichols',
 	title: 'General Partner',
@@ -194,7 +211,7 @@ export default [{
 	cardContent: '',
 	revealContent: "Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-05-26-sv']
 }, {
 	cardTitle: 'Jennifer Carolan',
 	title: 'Investor',
@@ -238,7 +255,7 @@ export default [{
 	cardContent: 'Network of Things Fund',
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-05-26-sv']
 }, {
 	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
