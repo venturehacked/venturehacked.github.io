@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'David Gardner',
+	title: 'General Partner',
+	image: 'img/investors/david-gardner.jpg',
+	cardContent: 'Cofounders Capital',
+	revealContent: "David Gardner is a serial entrepreneur, writer, adviser and very early stage investor with nearly thirty years of experience in creating and building software technology companies. Before founding Cofounders Capital he was the Triangle’s most active and involved angel investor with over $7M personally deployed in early stage ventures. As an adviser, David spent all of his time working as a full-time unpaid coach and mentor to startup companies usually in the software space. As an entrepreneur, David has been the founder or cofounder of multiple successful companies in the Triangle including PeopleClick which was purchased for $100M and Report2Web which sold for $12M in less than eleven months from inception. He has demonstrated a record for consistency across multiple industries and markets with six successful exits in a row. As a senior executive, David served as a Vice President for Compuware, a billion dollar Fortune 1000 corporation, after it acquired ProviderLink, a healthcare communications exchange he founded. As a writer and thought leader, David is author of a popular book on entrepreneurship called, The StartUp Hats. He has published many articles and forward thinking white papers on technical, marketing and managerial topics. David founded and launched the first hosted software-as-a- service enterprise application in NC long before the SaaS model was recognized as a viable architecture or best practice.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Chip Andrews',
 	title: 'Angel Investor',
 	image: 'img/investors/chip-andrews.jpeg',
