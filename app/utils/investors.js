@@ -1,4 +1,20 @@
 export default [{
+	cardTitle: 'Chip Andrews',
+	title: 'Angel Investor',
+	image: 'img/investors/chip-andrews.jpeg',
+	cardContent: 'NC State Acceleration Fund',
+	revealContent: "Chip Andrews is an Angel Investor as the Managing Member of Andrews Ventures, LLC, and the founding donor to the new NC State Acceleration Fund.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Bobby Martin',
+	title: 'Angel Investor',
+	image: 'img/investors/bobby-martin.jpg',
+	cardContent: '',
+	revealContent: "Bobby Martin is the founder of The Hockey Stick Principles, a research project to figure out how good ideas become successful firms. He is also Chairman and co-founder of Vertical IQ, a leading provider of sales research insight for banks. Martin also co-founded and served as president of First Research, a leader in sales intelligence. In 2007, First Research was sold to D&B Corporation. Today Martin is an active angel investor and serves as an active board member with innovative start-ups Local Eye Site, Boardroom Insiders, LifeSite Logics, and etailinsights. He speaks frequently about entrepreneurship at universities such as Georgetown MBA program; University of Colorado at Boulder; Appalachian State; University of North Carolina at Chapel Hill; Council for Entrepreneurial Development; and at corporate events. In 2006, he was a recipient of the Triangle Business Journal’s “40 Under 40” Award in Raleigh. Martin earned an economics and banking degree from Appalachian State University, in Boone, North Carolina.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Aymerik Renard',
 	title: 'Director',
 	image: 'img/investors/aymerik-renard.jpeg',
