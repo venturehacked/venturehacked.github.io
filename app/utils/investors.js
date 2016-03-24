@@ -7,11 +7,27 @@ export default [{
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
+	cardTitle: 'Jan Davis',
+	title: 'Investor',
+	image: 'img/investors/jan-davis.jpg',
+	cardContent: 'Triangle Angel Partners',
+	revealContent: "Jan Davis is a retired CEO and active board member for companies in drowning prevention, software, analytics, database and digital marketing and information.  These enterprises sell products and services to a broad range of industries, including retail, real estate, financial services and insurance as well as on-line to consumers.  She presently serves on the boards of directors of ShowingTime.com, SEAL Innovation and GSP Marketing Technologies and on the boards of advisors of multiple companies, including Megalytics, Market Vue Partners, Spring Metrics and Three Ships Digital.  She is the immediate past President of Triangle Angel Partners, an Entrepreneur in Residence for the UNC Minor in Entrepreneurship and the Blackstone Entrepreneurs Network, and on the Investment Committee for the non-profit Launch Place Seed Fund. Davis served as CEO of ShopperTrak RCT Corporation, the global leader in pedestrian traffic counting, from 2004 to 2008.  Before joining ShopperTrak, she was an executive vice president and business unit president at TransUnion LLC, the international credit reporting giant.  Previously, Davis was a marketing consultant in Boston, MA and in Warsaw, Poland, working with a US database marketing agency, multi-nationals and a Polish enterprise.  She co-founded SmartNames, a venture-backed database marketing information, analysis and services company.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Chip Andrews',
 	title: 'Angel Investor',
 	image: 'img/investors/chip-andrews.jpeg',
 	cardContent: 'NC State Acceleration Fund',
 	revealContent: "Chip Andrews is an Angel Investor as the Managing Member of Andrews Ventures, LLC, and the founding donor to the new NC State Acceleration Fund.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: "Tadhg O'Toole",
+	title: 'Investor',
+	image: 'img/investors/tadhg-otoole.jpg',
+	cardContent: 'Tribal.vc',
+	revealContent: "",
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
@@ -481,41 +497,6 @@ export default [{
 	cardContent: '',
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
 },{
 	cardTitle: 'Details Forthcoming',
 	title: 'Investor',
