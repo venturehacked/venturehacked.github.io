@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Janie Yu',
+	title: 'Partner',
+	image: 'img/investors/janie-yu.png',
+	cardContent: 'Fung Capital',
+	revealContent: "Janie focuses on sourcing deals and conducting due diligence on prospective investments. Prior to joining Fung Capital, she was with Burt’s Bees, leading go-to-market strategies for global expansion. Before starting her business career, she was a journalist for BBC and PRI’s “The World”, conducting in-depth research and reporting on China. Janie obtained her M.A. degree from Harvard University, where she received the prestigious Fung Fellowship, sponsored by the Victor and William Fung Foundation.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'David Gardner',
 	title: 'General Partner',
 	image: 'img/investors/david-gardner.jpg',
@@ -511,4 +519,39 @@ export default [{
 	cardContent: '',
 	revealContent: "",
 	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu', '2016-05-26-sv']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu', '2016-05-26-sv']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu', '2016-05-26-sv']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu', '2016-05-26-sv']
+},{
+	cardTitle: 'Details Forthcoming',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	events: ['2016-05-11-rdu', '2016-05-26-sv']
 }];
