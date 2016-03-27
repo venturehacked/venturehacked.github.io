@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'John Cambier',
+	title: 'General Partner',
+	image: 'img/investors/john-cambier.jpg',
+	cardContent: 'Idea Fund',
+	revealContent: "John Cambier is a founding general partner at IDEA Fund Partners. Over the past 12 years, John has used a deep understanding of technology commercialization and company formation, along with his experience managing intellectual property, licensing and contracts, to help grow technology companies throughout the Southeast. At IDEA Fund Partners, John holds responsibilities for finance and investor relations functions, in addition to serving as a key member of the investment team and advisor to portfolio companies. John also serves as an advisor to the NC IDEA grants program, playing a key role in the company selection and mentoring process. John’s investments include Unitive Electronics (acquired by Amkor), Ziptronix, ISIC Corporation, Hexatech, Brightdoor Systems, Social Solutions, Sarda Technologies, Axial Exchange, 71lbs, Royalty Exchange and CloudTags. He currently serves as a director on the board of 71lbs, Brightdoor Systems, Sarda Technologies, Royalty Exchange and CloudTags. John is also an observer on the board of Hexatech. Working in the technology sector since 1994, John has held various operational roles and was involved in the spin-off of four companies from MCNC, including the formation and ultimate sale of Cronos Integrated Microsystems to JDS Uniphase for $665 million in 2000.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Janie Yu',
 	title: 'Partner',
 	image: 'img/investors/janie-yu.png',
