@@ -156,7 +156,7 @@ export default [{
 	cardContent: 'Draper Nexus',
 	revealContent: "",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-05-26-sv']
 },{
 	cardTitle: 'Ajay Kamat',
 	title: 'Investor',
@@ -554,12 +554,12 @@ export default [{
 	image: 'img/investors/placeholder.jpg',
 	cardContent: '',
 	revealContent: "",
-	events: ['2016-05-11-rdu', '2016-05-26-sv']
+	events: ['2016-05-11-rdu']
 },{
 	cardTitle: 'Details Forthcoming',
 	title: 'Investor',
 	image: 'img/investors/placeholder.jpg',
 	cardContent: '',
 	revealContent: "",
-	events: ['2016-05-11-rdu', '2016-05-26-sv']
+	events: ['2016-05-11-rdu']
 }];
