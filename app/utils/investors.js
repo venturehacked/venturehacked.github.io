@@ -1,4 +1,28 @@
 export default [{
+	cardTitle: 'Vignesh Ravikumar',
+	title: 'Associate',
+	image: 'img/investors/vignesh-ravikumar.jpg',
+	cardContent: 'Sierra Ventures',
+	revealContent: "Vignesh joined Sierra in 2013 after the completion of an internship at AGC Partners, a Boston-based investment bank. Prior to that, he graduated from UC San Diego in August 2012. During his time there, Vignesh was involved in a number of organizations including the Undergraduate Investment Society and the UCSD Student Foundation Endowment Fund. He also participated in academic competitions such as the CFA Research Challenge. Outside of UCSD, Vignesh completed internships at Wipro Technologies, a large, publicly traded IT firm and at Kotak Mahindra, one of the largest private banks in India. Vignesh holds a B.S. in Management Science (cum laude) and a Minor in Math.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
+	cardTitle: 'Derrick Minor',
+	title: 'Community Builder',
+	image: 'img/investors/derrick-minor.jpg',
+	cardContent: 'City of Raleigh',
+	revealContent: "My mission is to elevate Raleigh and the Triangle as one of the top 5 destinations to live, work, learn, and play by helping entrepreneurs, startups, and growth companies to start, stay, and prosper in our local ecosystem. The end result of which will be an amazing quality of life for our entire community. As a professional, I intend to achieve this by fostering growth within the local ecosystem to enable entrepreneurs and businesses to create disruptive and world changing technologies & products, and to help grow top tier companies that employee a highly skilled workforce & invest back into the local economy. As a citizen, I am determined to enhance our quality of life by encouraging communication, collaboration and open innovation between business, government, universities, and the community by leveraging technology and human capital.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Ray Schuder',
+	title: 'Managing Director',
+	image: 'img/investors/ray-schuder.jpg',
+	cardContent: 'Hewlett Packard Ventures',
+	revealContent: "Ray Schuder is a Managing Director at Hewlett Packard Ventures. Ray led Hewlett Packard's investment in Adallom (acquired by Microsoft) where he was a Board Observer. He also led Hewlett Packard's investments in Hexadite, Tamr and Chef and is a Board Observer with each company. Prior to joining HP, Ray co-founded and served as Head of AMD Ventures, where he led 13 investments including ViVu (acquired by Polycom), Aviary (acquired by Adobe), Mixamo (acquired by Adobe), Bluestacks, Matterport, Raptr and Tango. Previously, Ray was a Principal at El Dorado Ventures (EDV), where he sourced and led EDV’s investment in Scout Labs (acquired by Lithium Technologies). Ray has also held positions at Pequot Ventures, where he focused on investments in hardware and communications; and Silicon Valley BancVentures, where he managed the hardware practice. Ray has also served as a Product Manager at NVIDIA and Loudcloud, and began his career at Hewlett Packard and HP Labs as a product development and research engineer. In addition to these roles, Ray has performed M&A advisory work for Broadview International, and has served as a technical consultant to Agilent Technologies and several venture-backed companies. Ray graduated with highest honors from the University of California, Santa Barbara with a BS in Mechanical Engineering. Ray earned two Masters Degrees from the Stanford University Graduate School of Engineering (Mechanical Engineering and Manufacturing Systems Engineering) and an MBA from the Stanford University Graduate School of Business. At Stanford, Ray received an AIM Entrance Fellowship and earned the Stanford University Centennial Teaching Assistant Award. In 2014 Ray was named to Global Corporate Venturing’s Powerlist 100. He is a named inventor on eight U.S. patents .",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'John Cambier',
 	title: 'General Partner',
 	image: 'img/investors/john-cambier.jpg',
@@ -527,27 +551,6 @@ export default [{
 	cardContent: '',
 	revealContent: "",
 	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu', '2016-05-26-sv']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu', '2016-05-26-sv']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu', '2016-05-26-sv']
 },{
 	cardTitle: 'Details Forthcoming',
 	title: 'Investor',
