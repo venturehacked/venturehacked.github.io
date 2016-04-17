@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Whitney Rowe',
+	title: 'Investor',
+	image: 'img/investors/whitney-rowe.JPG',
+	cardContent: 'Triangle Angel Partners',
+	revealContent: "Whitney is an early stage investor, mentor and Kauffman Fellow. Currently she serves on the Executive Committee for Triangle Angel Partners and works closely with a number of Triangle startups.  She began her career in Venture Capital with Hatteras Funds, investing along side top tier firms on the West Coast, and also in a couple of prominent Triangle area startups including Clinipace and KnowledgeTree.  Prior to Hatteras Whitney worked in video game development as an International Product Manager for Ubisoft in Paris, France.  She holds a BA in History from George Washington University in DC and an MBA from UNC Kenan-Flagler (Go Heels!).",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Vignesh Ravikumar',
 	title: 'Associate',
 	image: 'img/investors/vignesh-ravikumar.jpg',
@@ -11,7 +19,7 @@ export default [{
 	title: 'Community Builder',
 	image: 'img/investors/derrick-minor.jpg',
 	cardContent: 'City of Raleigh',
-	revealContent: "My mission is to elevate Raleigh and the Triangle as one of the top 5 destinations to live, work, learn, and play by helping entrepreneurs, startups, and growth companies to start, stay, and prosper in our local ecosystem. The end result of which will be an amazing quality of life for our entire community. As a professional, I intend to achieve this by fostering growth within the local ecosystem to enable entrepreneurs and businesses to create disruptive and world changing technologies & products, and to help grow top tier companies that employee a highly skilled workforce & invest back into the local economy. As a citizen, I am determined to enhance our quality of life by encouraging communication, collaboration and open innovation between business, government, universities, and the community by leveraging technology and human capital.",
+	revealContent: "Derrick Minor is the Innovation and Entrepreneurship Manager for the City of Raleigh. Derrick’s core focus is to connect startups and early-stage growth companies to the resources and relationships they need to start, grow, and thrive within Raleigh. Derrick has built a dense network of contacts over the last decade and he strategically leverages that network to benefit the startup community. In addition, Derrick works to identify gaps within the local ecosystem and seeks bring key partners to the community to help fill those gaps.",
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
@@ -537,32 +545,4 @@ export default [{
 	cardContent: '',
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
-},{
-	cardTitle: 'Details Forthcoming',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	events: ['2016-05-11-rdu']
 }];
