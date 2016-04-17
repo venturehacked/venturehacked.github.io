@@ -7,6 +7,14 @@ export default [{
 	current: true,
 	events: ['2016-05-11-rdu']
 },{
+	cardTitle: 'Drew Applefield',
+	title: 'Investor',
+	image: 'img/investors/drew-applefield.jpg',
+	cardContent: 'NC Biotech Center',
+	revealContent: "Dr. Applefield directs the Center’s Company Inception Loan (CIL) program, which provides up to $75,000 in seed capital for early-stage life science companies. He also reviews investment opportunities for the Center’s Small Business Research Loan (SRL) and Strategic Growth Loan (SGL) programs, and supports a portfolio of prior investment recipients to help guide their development. Drew has also managed the Industrial Internship Program (IIP) since its inception in 2012, through which the Center has created 32 internship opportunities at life science companies across North Carolina.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Vignesh Ravikumar',
 	title: 'Associate',
 	image: 'img/investors/vignesh-ravikumar.jpg',
