@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Vish Mishra',
+	title: 'Venture Director',
+	image: 'img/investors/vish-mishra.jpg',
+	cardContent: 'Clearstone',
+	revealContent: "Vish joined Clearstone in March 2002 with over 30 years of leadership and management experience in the high tech industry including software, Internet, networking and telecommunications. He is a founder and served as a board member of Telera, a cutting edge voice web infrastructure company which was sold to Alcatel for $140 million in 2002. Vish was also co-founder of Excelan (1983), which was funded with $7.3 million in venture capital, went public in 1987, sold for $225 million in 1989 and went on to contribute $1 billion to Novell’s revenue in subsequent years. Vish prides himself in being a mentor capitalist who sits or has sat on boards of many venture-backed companies such as Abeama, Cofix, Onjibe, PostMedia Group, Quantros, Ramp Networks (sold to Nokia), SloMedia, Verano, and Xalted IP Networks. His prior experience includes founding VP of Operations of Excelan and VP Novell and EVP of iPlanet (a unit of Sun Microsystems and AOL), and CEO of four start-ups: Info-Objects, Mindworks, IntelliMatch and Ace Software.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Whitney Rowe',
 	title: 'Investor',
 	image: 'img/investors/whitney-rowe.JPG',
