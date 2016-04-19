@@ -10,6 +10,12 @@ function range(start, end) {
 
 export default [{
 	cardTitle: 'The Future of Technology and Success of the Startup Industry',
+	image:"img/articles/startup-whiteboard.jpg",
+	cardContent: "Interview with David Jones, Partner at Bull City Venture Partners",
+	bodyPartial: 'articles/david-jones',
+	author: 'Tracy Lee'
+},{
+	cardTitle: 'The Future of Technology & The Startup Industry',
 	image:"img/articles/mobile-tech.jpg",
 	cardContent: "An Interview with Sanjit Dang, Invesment Director at Intel Capital",
 	bodyPartial: 'articles/sanjit-dang',
