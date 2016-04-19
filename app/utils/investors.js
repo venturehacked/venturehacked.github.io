@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Brad Wrege',
+	title: 'Lead Analyst',
+	image: 'img/investors/brad-wrege.jpg',
+	cardContent: 'TrueBridge Capital Partners',
+	revealContent: "Brad is an analyst and member of the TrueBridge investment team, focusing primarily on deal and industry analysis. Brad began his private equity career as an associate at Atlas Diligence, where he was responsible for conducting research and due diligence on private capital fund opportunities. As an undergraduate, Brad interned with Constantine Advisors in London as a summer research analyst. Brad earned his BA in Economics from the University of North Carolina at Chapel Hill, where he also completed a minor in Spanish for the Business Professions. He also holds a certificate from the UNC Business Essentials Program, an intensive program offered by the UNC Kenan-Flagler Business School.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Vish Mishra',
 	title: 'Venture Director',
 	image: 'img/investors/vish-mishra.jpg',
