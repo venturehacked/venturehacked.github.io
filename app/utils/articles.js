@@ -9,7 +9,7 @@ function range(start, end) {
 // When adding images to this file make sure you add them to the fingerprint exclude in ember-cli-build.js
 
 export default [{
-	cardTitle: 'The Future of Technology and Success of the Startup Industry',
+	cardTitle: 'Investing in the Triangle - The Silicon Valley of the East',
 	image:"img/articles/startup-whiteboard.jpg",
 	cardContent: "Interview with David Jones, Partner at Bull City Venture Partners",
 	bodyPartial: 'articles/david-jones',
