@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Bill Warner',
+	title: 'Fund Executive',
+	image: 'img/investors/bill-warner.jpg',
+	cardContent: 'IMAF - RTP',
+	revealContent: "Bill Warner is co-founder and Director of EntreDot, a business mentoring non-profit organization that assists entrepreneurs who are starting their companies and is Fund Executive of IMAF-RTP, an angel seed fund investing in start-up companies. He is founder and Managing Partner of Paladin and Associates, a firm that helps executives create successful businesses by providing a broad array of executive services. Bill has more than thirty-eight years of experience in the computer industry, with over 20 years as a CEO and general manager responsible for computer software and hardware businesses. He most recently served as President and CEO of LiveWire Logic, a customer relationship management company in the service and support market. Previously, he was Executive Vice President of Products and Services at Dialogic, an Intel Company, and a $400M computer telephony company headquartered in New Jersey. Prior to that, he held senior executive positions at Banyan Systems, SystemSoft and IBM.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Brad Wrege',
 	title: 'Lead Analyst',
 	image: 'img/investors/brad-wrege.jpg',
@@ -11,7 +19,7 @@ export default [{
 	title: 'Venture Director',
 	image: 'img/investors/vish-mishra.jpg',
 	cardContent: 'Clearstone',
-	revealContent: "Vish joined Clearstone in March 2002 with over 30 years of leadership and management experience in the high tech industry including software, Internet, networking and telecommunications. He is a founder and served as a board member of Telera, a cutting edge voice web infrastructure company which was sold to Alcatel for $140 million in 2002. Vish was also co-founder of Excelan (1983), which was funded with $7.3 million in venture capital, went public in 1987, sold for $225 million in 1989 and went on to contribute $1 billion to Novell’s revenue in subsequent years. Vish prides himself in being a mentor capitalist who sits or has sat on boards of many venture-backed companies such as Abeama, Cofix, Onjibe, PostMedia Group, Quantros, Ramp Networks (sold to Nokia), SloMedia, Verano, and Xalted IP Networks. His prior experience includes founding VP of Operations of Excelan and VP Novell and EVP of iPlanet (a unit of Sun Microsystems and AOL), and CEO of four start-ups: Info-Objects, Mindworks, IntelliMatch and Ace Software.",
+	revealContent: "Member of General Partner at Clearstone (www.clearstone.com) since March 2002. With $660M in committed capital in Santa Monica, Palo Alto and Mumbai( Bombay) offices. Vish brings over 30 years of progressive business experience in technology industry, as entrepreneur and CEO.A veteran of Silicon Valley for over 30 years with a strong network and solid relations with entrepreneurs, executives and venture capitalists. Co-founder of Excelan ( Novell) post IPO, 1983-91. Cofounder/ Director of Telera, a cloud sw co funded by Accel and Sequoia, merged into Actatel in 2001, 1998-2001. Co-founder/director of Quantros, a healthcare software co , 2000-2010, acquired by Francisco Partners. Investor/director of CloudVolumes, acquired by VMware in August 2014. Mentor The Hive &The Fabric. Chairman, Goombal, Inc. Board of Advisors at The Vijay Amritraj Foundation, www.vijayamritrajfoundation.org, Active at TiE( www.tie.org) from inception and now the former president of TiE Silicon Valley.Also served as a director at India Community Center(www.indiacc.org) and advisor to Silicon Valley Center for Entrepreneurship at San Jose State. Founding board member of San Francisco-Bangalore Sister City Initiative. Bay Area co-chair for Akshaya Patra, a mid-day school meal program in India serving 1.4 million meals daily. Frequent speaker at industry events on entrepreneurship , leadership and global investing. Featured in many, articles, books and newspapers.",
 	current: true,
 	events: ['2016-05-26-sv']
 },{
