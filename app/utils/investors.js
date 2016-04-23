@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Jeff Strief',
+	title: 'Investor',
+	image: 'img/investors/jeff-strief.jpg',
+	cardContent: 'RTP Capital',
+	revealContent: "Jeff Strief, President, is an early stage investor and startup adviser with over 25 years of experience leading media companies. He has held leadership roles with Ziff Davis, CMP Media and Vivendi Universal. He was on the senior management team that sold CMP to United News & Media for almost $1 billion. His passion today is mentoring entrepreneurs and investing in local startups. He has made five investments in four NC startups since joining RTP Capital in 2014. Jeff received a BA in Marketing from Cal State Fullerton.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Jim Roberts',
 	title: 'Angel Investor',
 	image: 'img/investors/jim-roberts.jpg',
