@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Jim Roberts',
+	title: 'Angel Investor',
+	image: 'img/investors/jim-roberts.jpg',
+	cardContent: 'WALE Angel Investor Network',
+	revealContent: "Named one of the “40 Most Influential People Under 40” by the Charlotte Business Journal at age of 30, Jim has experience with business development, life sciences, information technology and governmental agencies.  He started an entrepreneur council in Charlotte called FirstRound during the technology boom in 2000. He was then recruited to the Asheville NC region to start the Blue Ridge Entrepreneurial Council (BREC) and Blue Ridge Angel Investor Network (BRAIN) where he hosted the annual Carolina Connect Entrepreneur and Venture Capital Conference. He also served as the Director of Business Development at the Center of Innovation for NanoBiotechnology (COIN), a program of the North Carolina Biotechnology Center); and as a Business Development Manager for the International Trade Division of the North Carolina Department of Commerce. Roberts was the Founding Executive Director of the UNC Wilmington Center of Innovation and Entrepreneurship where the accelerator won top 100 Accelerators in US by Small Business Administration WRAL of Raleigh honored Jim in 2015 with Editor's Choice Award for Public Service. Roberts graduated from the University of Florida with a Bachelor of Science degree in Advertising. He is now the Executive Director of the Network for Entrepreneurs in Wilmington (NEW) and the Manager of the Wilmington Angels for Local Entrepreneurs (WALE). Jim was just featured by the SouthernAlpha web site , owned by Nashville TN Post, as Biggest Startup Advocate in North Carolina",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Bill Warner',
 	title: 'Fund Executive',
 	image: 'img/investors/bill-warner.jpg',
@@ -243,8 +251,7 @@ export default [{
 	image: 'img/investors/braden-rawls.jpg',
 	cardContent: '',
 	revealContent: "Braden is the CEO and co-founder of Vital Plan, a rapidly-growing health & wellness company. Braden and Vital Plan are on a mission to help individuals restore their health through natural therapies and guided online programs. Braden received her Bachelor of Arts from UNC- Chapel Hill with a focus on public relations and entrepreneurship.",
-	current: true,
-	events: ['2016-05-11-rdu']
+	current: true
 },{
 	cardTitle: 'Peter Tatischev',
 	title: 'Investor',
