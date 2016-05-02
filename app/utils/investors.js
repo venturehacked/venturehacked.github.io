@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Dave Neal',
+	title: 'Managing Director',
+	image: 'img/investors/dave-neal.jpg',
+	cardContent: 'The Startup Factory',
+	revealContent: "Five time CFO/Counsel in start-ups. Co-Founder CI Technologies (sold to Seagate). Member of turnaround team Bloodhound Technologies (later sold to Verisk Analytics). CEO/Chairman of three start-ups including broadcast automation firm Crispin Corporation. Co-Founder of Infina Connect Healthcare. Have been on more than fifteen advisory boards and several boards of directors. Comment on the intersection of law, finance and technology. One of two Managing Directors of The Startup Factory.",
+	current: true,
+	events: ['2016-05-11-rdu']
+},{
 	cardTitle: 'Jeff Strief',
 	title: 'Investor',
 	image: 'img/investors/jeff-strief.jpg',
