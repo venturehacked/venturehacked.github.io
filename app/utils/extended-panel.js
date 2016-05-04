@@ -23,4 +23,29 @@ export default [{
     }
   ],
   events: ['2016-02-24-silicon-valley']
+},{
+panelists: [
+  {
+    name: "Braden Rawls",
+    image: "img/investors/braden-rawls.jpg",
+    title: "CEO",
+    company: "Vital Plan",
+    bio: "Braden is the CEO and co-founder of Vital Plan, a rapidly-growing health & wellness company. Braden and Vital Plan are on a mission to help individuals restore their health through natural therapies and guided online programs. Braden received her Bachelor of Arts from UNC- Chapel Hill with a focus on public relations and entrepreneurship."
+  },
+  {
+    name: "Jim Zidar",
+    image: "img/panelists/jim-zidar.jpg",
+    title: "Co-Founder & CEO",
+    company: "Stealz",
+    bio: "Jim is the co-founder and CEO of Stealz, a technology that's revolutionizing how businesses navigate both social media engagement and customer feedback collection. Stealz works with over 1,000 businesses, big names include: McDonald's, Taco Bell, Applebee's, Chick-Fil-A, Bojangles, KFC, Anytime Fitness, IMAX, Denny's, Dairy Queen and many others. Jim was a former part-time CFO & Auditor and received a Bachelor of Science Degree from North Carolina State University in 2010 in Accounting with a concentration in Finance and Entrepreneurship."
+  },
+  {
+    name: "David Shaner",
+    image: "img/investors/placeholder.jpg",
+    title: "Founder & CEO",
+    company: "Offline Media",
+    bio: "Coming soon"
+  }
+],
+events: ['2016-05-11-rdu']
 }];
