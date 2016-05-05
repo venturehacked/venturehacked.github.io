@@ -26,11 +26,11 @@ export default [{
 },{
 panelists: [
   {
-    name: "Braden Rawls",
-    image: "img/investors/braden-rawls.jpg",
+    name: "Tyler Confrey-Maloney",
+    image: "img/panelists/tyler-confrey-maloney.jpg",
     title: "CEO",
-    company: "Vital Plan",
-    bio: "Braden is the CEO and co-founder of Vital Plan, a rapidly-growing health & wellness company. Braden and Vital Plan are on a mission to help individuals restore their health through natural therapies and guided online programs. Braden received her Bachelor of Arts from UNC- Chapel Hill with a focus on public relations and entrepreneurship."
+    company: "Undercover Colors",
+    bio: "Soon come."
   },
   {
     name: "Jim Zidar",
@@ -41,11 +41,10 @@ panelists: [
   },
   {
     name: "David Shaner",
-    image: "img/investors/placeholder.jpg",
+    image: "img/panelists/david-shaner.jpg",
     title: "Founder & CEO",
     company: "Offline Media",
-    bio: "Coming soon"
-  }
-],
+    bio: "David Shaner is the Founder and CEO of Offline Media. His areas of expertise are: Leadership: building and refining company strategy and creating a culture of hard work, accountability and success. Mobile: the fundamental metrics/nuances of mobile applications, how those metrics impact viability and financials, and now to create a strategy that moves them up and to the right. Product management: seeing the intersection between consumer behavior and economic opportunity. Translating that vision into frameworks that drive product requirements and innovation. Local media & advertising: core trends that drive local media and consumer attention. For more see Top 5 Trends in Local Advertising below. Operations: identifying patterns, efficiencies and inefficiencies. Putting in place systems that scale."
+  }],
 events: ['2016-05-11-rdu']
 }];
