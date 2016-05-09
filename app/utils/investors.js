@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Tao Wang',
+	title: 'Investor',
+	image: 'img/investors/tao-wang.jpg',
+	cardContent: 'SAIC Capital',
+	revealContent: "Tao Wang works at SAIC Capital, which is the venture arm of SAIC Motor Group. SAIC is the largest car manufacturer in China  and is a global 100 company (#60).  SAIC Capital is based in Menlo Park, CA and  invests in startup companies with disrupted technologies in VR/AR, robotics, big data analytics, and other areas that may be applied to connected cars and autonomous driving.  We added values by helping invested companies expand their market into China through SAIC Motor’s large supplier network and affiliates. Tao also has a strong technical background and a PhD in EE.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Dave Neal',
 	title: 'Managing Director',
 	image: 'img/investors/dave-neal.jpg',
