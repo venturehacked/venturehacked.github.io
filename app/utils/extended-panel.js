@@ -30,7 +30,7 @@ panelists: [
     image: "img/panelists/tyler-confrey-maloney.jpg",
     title: "CEO",
     company: "Undercover Colors",
-    bio: "Soon come."
+    bio: "Tyler Confrey-Maloney is the CEO and Co-founder of Undercover Colors.  Developed as part of his senior design project at North Carolina State University, the startup is working to develop a nail technology that allows users to detect date rape drugs in spiked drinks. Since its inception, Undercover Colors has raised over $1.5 million, been featured on Good Morning America, filed several patents, and built a world-class team of mentors and advisors."
   },
   {
     name: "Jim Zidar",
