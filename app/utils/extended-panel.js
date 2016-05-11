@@ -40,11 +40,11 @@ panelists: [
     bio: "Jim is the co-founder and CEO of Stealz, a technology that's revolutionizing how businesses navigate both social media engagement and customer feedback collection. Stealz works with over 1,000 businesses, big names include: McDonald's, Taco Bell, Applebee's, Chick-Fil-A, Bojangles, KFC, Anytime Fitness, IMAX, Denny's, Dairy Queen and many others. Jim was a former part-time CFO & Auditor and received a Bachelor of Science Degree from North Carolina State University in 2010 in Accounting with a concentration in Finance and Entrepreneurship."
   },
   {
-    name: "David Shaner",
-    image: "img/panelists/david-shaner.jpg",
-    title: "Founder & CEO",
-    company: "Offline Media",
-    bio: "David Shaner is the Founder and CEO of Offline Media. His areas of expertise are: Leadership: building and refining company strategy and creating a culture of hard work, accountability and success. Mobile: the fundamental metrics/nuances of mobile applications, how those metrics impact viability and financials, and now to create a strategy that moves them up and to the right. Product management: seeing the intersection between consumer behavior and economic opportunity. Translating that vision into frameworks that drive product requirements and innovation. Local media & advertising: core trends that drive local media and consumer attention. For more see Top 5 Trends in Local Advertising below. Operations: identifying patterns, efficiencies and inefficiencies. Putting in place systems that scale."
+    name: "Ryan O'Donnell",
+    image: "img/panelists/ryan-odonnell.jpg",
+    title: "CEO & Co-Founder",
+    company: "EmployUs",
+    bio: "Ryan O'Donnell is the CEO & Co-Founder of EmployUs, a venture-backed technology company helping employers hire more referrals by rewarding people for network they’ve built. Deemed the “Uber of Recruiting,” EmployUs connects employers and job seekers through trusted referrals. Ryan founded EmployUs in Raleigh, North Carolina to help people work where they belong. Called a “Serial Social Entrepreneur,” Ryan has been involved in several ventures as a founder, early employee, or impact investor. In high school, Ryan led the World’s Largest Food Drive, which raised 559,885 pounds of food in 18 hours. Soon after, Ryan founded Pennies 4 Progress, which scaled nationally allowing thousands of merchants and their customers to fundraise for over 60,000 top-rated non-profits and schools. Ryan graduated from NC State University’s Poole College of Management while being honored as a Kirchner Food Fellow, Caldwell Fellow, and 2012 recipient of the President Bill Clinton Hunger Leadership Award."
   }],
 events: ['2016-05-11-rdu']
 }];
