@@ -6,7 +6,7 @@ var	isProduction = EmberApp.env() === 'production';
 module.exports = function() {
   var options = isProduction ? {
     fingerprint: {
-      exclude: ['img/album*']
+      exclude: ['img/']
     }
   } : {};
 
