@@ -1,4 +1,20 @@
 export default [{
+	cardTitle: 'Rodney Mayers',
+	title: 'Mentor & Advisor',
+	image: 'img/investors/rodney-mayers.png',
+	cardContent: 'Culture Shift Labs',
+	revealContent: "Rodney is currently an Advisor to start-ups in NY and the Bay Area.  He was CEO of Proximic, a data services company specializing in digital inventory analysis for real time advertising environments. Proximic was acquired by comScore in May 2015. He also held positions at Proximic as CRO and SVP of Business Development, helping bring Proximic’s data services to market. Prior to Proximic, Rodney was the COO of Adify, Inc, the platform of choice for building vertical advertising networks. Before Adify, he held a number of senior executive positions at Cox Enterprises in Atlanta. Rodney has an MBA from The Kellogg School of Management and holds a BA in Economics from Syracuse University. He currently resides in the Bay Area.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
+	cardTitle: 'David Frank',
+	title: 'Mentor & Advisor',
+	image: 'img/investors/david-frank.jpg',
+	cardContent: 'PEQVC',
+	revealContent: "Provides advisory services on strategy and execution for venture capital firms, family offices, emerging technology companies in digital media, data analytics, consumer internet, social media, mobile, SaaS software, IT. Supporting the growth of companies that can impact people and the world in a positive way. My focus is in line with a quote from the late David Goldberg who I greatly admired. Focus on the people who matter most, focus on ideas that change the world for the better, and be generous in helping people trying to bring those ideas to life.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Tao Wang',
 	title: 'Investor',
 	image: 'img/investors/tao-wang.jpg',
@@ -22,6 +38,22 @@ export default [{
 	revealContent: "Jeff Strief, President, is an early stage investor and startup adviser with over 25 years of experience leading media companies. He has held leadership roles with Ziff Davis, CMP Media and Vivendi Universal. He was on the senior management team that sold CMP to United News & Media for almost $1 billion. His passion today is mentoring entrepreneurs and investing in local startups. He has made five investments in four NC startups since joining RTP Capital in 2014. Jeff received a BA in Marketing from Cal State Fullerton.",
 	current: true,
 	events: ['2016-05-11-rdu']
+},{
+	cardTitle: 'Anshu Sharma',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: 'Storm Ventures',
+	revealContent: "",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
+	cardTitle: 'Lee Chang',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: 'WI Harper',
+	revealContent: "",
+	current: true,
+	events: ['2016-05-26-sv']
 },{
 	cardTitle: 'Jim Roberts',
 	title: 'Manager',
@@ -361,8 +393,7 @@ export default [{
 	image: 'img/investors/jeremy-edberg-2.jpg',
 	cardContent: '',
 	revealContent: "Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.",
-	current: true,
-	events: ['2016-05-26-sv']
+	current: true
 }, {
 	cardTitle: 'Jennifer Carolan',
 	title: 'Investor',
