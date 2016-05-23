@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Lee Chang',
+	title: 'Investor',
+	image: 'img/investors/lee-chang.jpg',
+	cardContent: 'WI Harper',
+	revealContent: "Lee Chang is an early stage tech investor seeking to find and make investments in tech startups in the US and greater China. He is currently a Senior Associate at WI Harper Group, which oversees eight funds and manages over $850M in invested capital through dedicated professionals located in Beijing, Taipei, and San Francisco. Portfolio companies include Quixey, DivX, Focus Media, Vizio, 21Vianet, iKang, SiRF, and Commerce One, among others. Previously Lee was an investment specialist in the Executive Office Strategic Investment Department at Foxconn Technology Group (aka Hon Hai Precision), focusing on Foxconn’s global strategic investment strategy, deal sourcing and execution, and portfolio management.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Rodney Mayers',
 	title: 'Mentor & Advisor',
 	image: 'img/investors/rodney-mayers.png',
@@ -43,14 +51,6 @@ export default [{
 	title: 'Investor',
 	image: 'img/investors/placeholder.jpg',
 	cardContent: 'Storm Ventures',
-	revealContent: "",
-	current: true,
-	events: ['2016-05-26-sv']
-},{
-	cardTitle: 'Lee Chang',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: 'WI Harper',
 	revealContent: "",
 	current: true,
 	events: ['2016-05-26-sv']
