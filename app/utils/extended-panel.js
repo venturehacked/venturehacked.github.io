@@ -1,6 +1,24 @@
 export default [{
   panelists: [
     {
+      name: "Maci Peterson",
+      image: "img/panelists/maci-peterson.jpg",
+      title: "Co-Founder & CEO",
+      company: "On Second Thought",
+      bio: "Maci Peterson is the CEO and co-founder of On Second Thought, a messaging app that lets you take back text messages before they get to the other person. She has been recognized on Inc Magazine's 2016 30 Under 30 List, and on Washington Business Journal’s 2015 40 Under 40. In addition, Essence Magazine named her Tech's Newest Innovator. On Second Thought won first place at South By Southwest (SXSW) Interactive’s annual pitch competition #StartupOasis in 2014. It was named The Texting Savior by AT&T, and won first place in the inaugural Women Who Tech Start-up Challenge, in partnership with Craig Newmark of Craigslist and tech power couple Fred and Joanne Wilson. In addition, Inc Magazine recognized On Second Thought as one of the four startups to watch from Google Demo Day in December 2015. Before launching On Second Thought, Peterson was a global brand manager at Marriott International."
+    },
+    {
+      name: "Jim Jensen",
+      image: "img/investors/jim-jensen.png",
+      title: "Partner",
+      company: "Perkins Coie",
+      bio: "James Jensen, a partner in the firm's Emerging Companies & Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs"
+    }
+  ],
+  events: ['2016-05-26-sv']
+},{
+  panelists: [
+    {
       name: "John Mein",
       image: "img/panelists/john-mein.jpg",
       title: "VP of Sales and Fundraising",
