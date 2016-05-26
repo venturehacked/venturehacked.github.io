@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Rajan Raghavan',
+	title: 'Investor',
+	image: 'img/investors/rajan-raghavan.jpg',
+	cardContent: 'Angel Investor',
+	revealContent: "Rajan Raghavan is an experienced serial entrepreneur. He has most recently started his 6th company, The Fabric, which co-creates networking companies with other entrepreneurs. Rajan Raghavan is an experienced serial entrepreneur. He has most recently started his 6th company, The Fabric, which co-creates networking companies with other entrepreneurs. In the past he was also the founder of Mediaway, Virtual Chips, RealChip Communication, Xambala, and Ankeena (sold to Juniper). In addition, he has been involved with 3 other startups: Avasem (later ICS), Cirrus Logic, C&T and has served as adviser to multiple startups in the software, semiconductor, and systems space. He is best known perhaps for his early role with Phoenix Technologies. Rajan holds am MS in Electrical Engineering from Clarkson University, MBA from Syracuse University, and Bachelors degree from the National Institute of Technology Tiruchirappalli.",
+	current: true,
+	events: ['2016-05-26-sv']
+},{
 	cardTitle: 'Lee Chang',
 	title: 'Investor',
 	image: 'img/investors/lee-chang.jpg',

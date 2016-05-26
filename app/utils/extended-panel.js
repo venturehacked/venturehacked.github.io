@@ -8,6 +8,13 @@ export default [{
       bio: "Maci Peterson is the CEO and co-founder of On Second Thought, a messaging app that lets you take back text messages before they get to the other person. She has been recognized on Inc Magazine's 2016 30 Under 30 List, and on Washington Business Journal’s 2015 40 Under 40. In addition, Essence Magazine named her Tech's Newest Innovator. On Second Thought won first place at South By Southwest (SXSW) Interactive’s annual pitch competition #StartupOasis in 2014. It was named The Texting Savior by AT&T, and won first place in the inaugural Women Who Tech Start-up Challenge, in partnership with Craig Newmark of Craigslist and tech power couple Fred and Joanne Wilson. In addition, Inc Magazine recognized On Second Thought as one of the four startups to watch from Google Demo Day in December 2015. Before launching On Second Thought, Peterson was a global brand manager at Marriott International."
     },
     {
+      name: "Ram Fish",
+      image: "img/panelists/ram-fish.jpg",
+      title: "Founder",
+      company: "19Labs",
+      bio: "Ram Fish is a serial entrepreneur, prior to founding 19Labs in September 2015, he led Samsung’s digital health strategy and initiatives, focusing on building Simband, the world’s leading platform for the wearable health sensors. His corporate experience includes roles at Apple, Openwave, Nokia and Samsung. His entrepreneurial experience includes founding and leading both BlueLibris (acquired by NumeraHealth) including the development of AT&T EverThere seniors health monitoring device/service as well as founding Fonav (acquired by Trolltech.) Over a span of 20 years he has combined product development, engineering and strategy. His unique ability is being able to bridge business, technology and consumer experience domains and as such holds a track record of cross-functional leadership, delivering new strategic initiatives and building compelling consumer experiences. He holds a BS and MS in computer engineering from Case Western Reserve University and an MBA from Yale University. He also hold multiple patents and more importantly, a “second career” with a three child family."
+    },
+    {
       name: "Jim Jensen",
       image: "img/investors/jim-jensen.png",
       title: "Partner",
