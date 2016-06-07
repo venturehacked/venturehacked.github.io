@@ -14,7 +14,7 @@ export default [{
 	cardContent: "Curious about what a Venture Hacked Event looks like?",
 	bodyPartial: 'articles/event-photos-20160526',
 	author: 'Venture Hacked',
-	images: range(1,39).map(i => `img/album-05-26/venture-hacked-${i}.jpg`)
+	images: range(1,39).map(i => `img/album-05-26/venture-hacked-${i}.JPG`)
 },{
 	cardTitle: 'Venture Hacked Event Photos 05-11',
 	image:"img/articles/05-11.jpg",
