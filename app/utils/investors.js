@@ -8,10 +8,10 @@ export default [{
 	events: ['2016-08-09-rdu']
 },{
 	cardTitle: 'Tim McLoughlin',
-	title: 'Investor',
+	title: 'Junior Partner',
 	image: 'img/investors/tim-mcloughlin.jpg',
 	cardContent: 'Cofounders Capital',
-	revealContent: "",
+	revealContent: "Cofounders Capital is an early-stage seed fund focused on software ventures in the Triangle. Created in 2015, Cofounders partnered with the Town of Cary to provide free lab space to entrepreneurs who receive expert help modeling and vetting their startup ideas. We help with prototyping, vetting, and lining up beta customers.",
 	current: true,
 	events: ['2016-08-09-rdu']
 },{
@@ -101,7 +101,7 @@ export default [{
 	cardContent: 'IMAF - RTP',
 	revealContent: "Bill Warner is co-founder and Director of EntreDot, a business mentoring non-profit organization that assists entrepreneurs who are starting their companies and is Fund Executive of IMAF-RTP, an angel seed fund investing in start-up companies. He is founder and Managing Partner of Paladin and Associates, a firm that helps executives create successful businesses by providing a broad array of executive services. Bill has more than thirty-eight years of experience in the computer industry, with over 20 years as a CEO and general manager responsible for computer software and hardware businesses. He most recently served as President and CEO of LiveWire Logic, a customer relationship management company in the service and support market. Previously, he was Executive Vice President of Products and Services at Dialogic, an Intel Company, and a $400M computer telephony company headquartered in New Jersey. Prior to that, he held senior executive positions at Banyan Systems, SystemSoft and IBM.",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Brad Wrege',
 	title: 'Lead Analyst',
@@ -703,7 +703,7 @@ export default [{
 	cardContent: '',
 	revealContent: "",
 	current: false,
-	events: ['2016-08-18-sv', '2016-08-09-rdu']
+	events: ['2016-08-18-sv']
 },{
 	cardTitle: 'To Be Announced',
 	title: 'Investor',
