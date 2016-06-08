@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Christina Hsiang',
+	title: 'Founding Director',
+	image: 'img/investors/christina-hsiang.jpg',
+	cardContent: 'Startups Greater Asia',
+	revealContent: "Christina is the Founding Director of Startups Greater Asia (www.startupsgreaterasia.com), an organization connecting the startup and venture community in Silicon Valley with that of Greater Asia. Christina is also a Mandarin- and Russian-speaking Corporate Attorney at Carr & Ferrell LLP (http://www.carrferrell.com/christina-hsiang), a full-service law firm deeply committed to providing strategic and responsive corporate, venture capital, patent, and intellectual property law services. Having had hands-on experience working at an early-stage startup developing robotic car technology, Christina now advises entrepreneurs on effectively resolving a broad array of startup legal and operations issues.  Christina passionately identifies opportunities to help the growing network of cross-border investors and entrepreneurs collaborate and cross-pollinate and has been a speaker on/writes about the topics of startup legal strategies and growth issues, cross-border venture investment landscape, cross-border startup challenges and success stories, building hardware startups, and the future of connected mobility.",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
 	cardTitle: 'Rajan Raghavan',
 	title: 'Investor',
 	image: 'img/investors/rajan-raghavan.jpg',
@@ -13,7 +21,7 @@ export default [{
 	cardContent: 'WI Harper',
 	revealContent: "Lee Chang is an early stage tech investor seeking to find and make investments in tech startups in the US and greater China. He is currently a Senior Associate at WI Harper Group, which oversees eight funds and manages over $850M in invested capital through dedicated professionals located in Beijing, Taipei, and San Francisco. Portfolio companies include Quixey, DivX, Focus Media, Vizio, 21Vianet, iKang, SiRF, and Commerce One, among others. Previously Lee was an investment specialist in the Executive Office Strategic Investment Department at Foxconn Technology Group (aka Hon Hai Precision), focusing on Foxconn’s global strategic investment strategy, deal sourcing and execution, and portfolio management.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 },{
 	cardTitle: 'Rodney Mayers',
 	title: 'Mentor & Advisor',
@@ -269,7 +277,7 @@ export default [{
 	cardContent: 'Sand Hill Angels',
 	revealContent: "A seasoned Silicon Valley software executive with a passion for disrupting markets, Dom has had a number of valley startups and successful exits. At BeOpen.com (later PythonLabs and then Google) Domenic was an early and influential member of the business development and technology teams, and helped shape the direction of the Python programming language, which was the basis for Google's search technology. Currently, Domenic is an investor with Sand Hill Angels, one of the top angel investment groups in the world.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 }, {
 	cardTitle: 'Marlon Nichols',
 	title: 'General Partner',
@@ -401,7 +409,8 @@ export default [{
 	image: 'img/investors/jeremy-edberg-2.jpg',
 	cardContent: '',
 	revealContent: "Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.",
-	current: true
+	current: true,
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Jennifer Carolan',
 	title: 'Investor',
@@ -647,4 +656,68 @@ export default [{
 	cardContent: '',
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
+},{
+	cardTitle: 'To Be Announced',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: false,
+	events: ['2016-08-18-sv', '2016-08-09-rdu']
 }];
