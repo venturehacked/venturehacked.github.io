@@ -189,7 +189,7 @@ export default [{
 	cardContent: 'Triangle Angel Partners',
 	revealContent: "Jan Davis is a retired CEO and active board member for companies in drowning prevention, software, analytics, database and digital marketing and information.  These enterprises sell products and services to a broad range of industries, including retail, real estate, financial services and insurance as well as on-line to consumers.  She presently serves on the boards of directors of ShowingTime.com, SEAL Innovation and GSP Marketing Technologies and on the boards of advisors of multiple companies, including Megalytics, Market Vue Partners, Spring Metrics and Three Ships Digital.  She is the immediate past President of Triangle Angel Partners, an Entrepreneur in Residence for the UNC Minor in Entrepreneurship and the Blackstone Entrepreneurs Network, and on the Investment Committee for the non-profit Launch Place Seed Fund. Davis served as CEO of ShopperTrak RCT Corporation, the global leader in pedestrian traffic counting, from 2004 to 2008.  Before joining ShopperTrak, she was an executive vice president and business unit president at TransUnion LLC, the international credit reporting giant.  Previously, Davis was a marketing consultant in Boston, MA and in Warsaw, Poland, working with a US database marketing agency, multi-nationals and a Polish enterprise.  She co-founded SmartNames, a venture-backed database marketing information, analysis and services company.",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Chip Andrews',
 	title: 'Angel Investor',
@@ -711,7 +711,7 @@ export default [{
 	cardContent: '',
 	revealContent: "",
 	current: false,
-	events: ['2016-08-18-sv', '2016-08-09-rdu']
+	events: ['2016-08-18-sv']
 },{
 	cardTitle: 'To Be Announced',
 	title: 'Investor',
