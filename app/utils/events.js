@@ -1,7 +1,7 @@
 export default [
     {
       date: "August 9, 7-930pm",
-      image:"img/event-image-rdu.jpg",
+      image:"img/event-image-rdu-08.jpg",
       id: "2016-08-09-rdu",
       title: "Speed Investing & Lessons Learned",
       location: "Raleigh",
@@ -12,7 +12,7 @@ export default [
     },
     {
     date: "August 18, 7-930pm",
-    image:"img/event-image-sv-2.jpg",
+    image:"img/event-image-sv.jpg",
     id: "2016-08-18-sv",
     title: "Speed Investing & Lessons Learned",
     location: "Palo Alto",
