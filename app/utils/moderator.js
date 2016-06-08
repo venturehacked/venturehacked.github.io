@@ -12,5 +12,5 @@ export default [{
   image: "img/moderators/domenic-merenda-286x500.png",
   moderatorTitle: "Domenic Merenda, Angel Investor, Sand Hill Angels",
   bio: "A seasoned Silicon Valley software executive with a passion for disrupting markets, Dom has had a number of valley startups and successful exits. At BeOpen.com (later PythonLabs and then Google) Domenic was an early and influential member of the business development and technology teams, and helped shape the direction of the Python programming language, which was the basis for Google's search technology. Currently, Domenic is an investor with Sand Hill Angels, one of the top angel investment groups in the world.",
-  events: ['2016-05-26-sv']
+  events: ['2016-05-26-sv', '2016-08-18-sv']
 }];
