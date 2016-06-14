@@ -253,7 +253,7 @@ export default [{
 	cardContent: 'HQ Raleigh',
 	revealContent: "Director at HQ Raleigh, a 15,000 sq. foot shared work space for purpose driven entrepreneurs looking to work in a dynamic environment, looking to expand and looking to invest in their local community. The Innovators Program is a three-month residency at key locations around the world, including Silicon Valley and Bangalore, India. Small entrepreneurial teams and new corporate product teams receive training and coaching in leading-edge collaboration, design thinking and lean startup approaches. The Citrix-Red Hat Startup Accelerator is located in downtown Raleigh and was launched in partnership with HQ Raleigh.",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Bill Brown',
 	title: 'Investor & Co-Founder',
@@ -695,7 +695,7 @@ export default [{
 	cardContent: '',
 	revealContent: "",
 	current: false,
-	events: ['2016-08-18-sv', '2016-08-09-rdu']
+	events: ['2016-08-18-sv']
 },{
 	cardTitle: 'To Be Announced',
 	title: 'Investor',
