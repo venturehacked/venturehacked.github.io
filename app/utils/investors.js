@@ -125,7 +125,7 @@ export default [{
 	cardContent: 'Triangle Angel Partners',
 	revealContent: "Whitney is an early stage investor, mentor and Kauffman Fellow. Currently she serves on the Executive Committee for Triangle Angel Partners and works closely with a number of Triangle startups.  She began her career in Venture Capital with Hatteras Funds, investing along side top tier firms on the West Coast, and also in a couple of prominent Triangle area startups including Clinipace and KnowledgeTree.  Prior to Hatteras Whitney worked in video game development as an International Product Manager for Ubisoft in Paris, France.  She holds a BA in History from George Washington University in DC and an MBA from UNC Kenan-Flagler (Go Heels!).",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Drew Applefield',
 	title: 'Investor',
@@ -149,7 +149,7 @@ export default [{
 	cardContent: 'City of Raleigh',
 	revealContent: "Derrick Minor is the Innovation and Entrepreneurship Manager for the City of Raleigh. Derrick’s core focus is to connect startups and early-stage growth companies to the resources and relationships they need to start, grow, and thrive within Raleigh. Derrick has built a dense network of contacts over the last decade and he strategically leverages that network to benefit the startup community. In addition, Derrick works to identify gaps within the local ecosystem and seeks bring key partners to the community to help fill those gaps.",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Ray Schuder',
 	title: 'Managing Director',
@@ -332,7 +332,7 @@ export default [{
 	cardContent: '',
 	revealContent: "Jason informs, inspires, and invests in growth-minded startup, nonprofit, and civic leaders--and their organizations. Born in Durham, NC, Jason is a partner in the city's first distillery, Brothers Vilgalys Spirits Company, serves as the board president for Triangle Ultimate, and provides communications support and consulting for nonprofits and startups. In his spare time, you'll find him playing Ultimate Frisbee, at the dog park with his dog Atlas, or helping organize community-focused events (like Startup Weekend).",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Braden Rawls',
 	title: 'Mentor',
