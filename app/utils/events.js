@@ -1,10 +1,10 @@
 export default [
     {
-      date: "August 9, 7-930pm",
+      date: "August 10, 7-930pm",
       image:"img/event-image-rdu-08.jpg",
       id: "2016-08-09-rdu",
       title: "Speed Investing & Lessons Learned",
-      location: "Raleigh",
+      location: "HQ Raleigh",
       address: "Raleigh, NC",
       eventContent: "",
       eventbriteLink: "//eventbrite.com/tickets-external?eid=25881786119&ref=etckt",
