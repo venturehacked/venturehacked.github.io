@@ -1,4 +1,20 @@
 export default [{
+	cardTitle: 'Varun Sadana',
+	title: 'Deputy Director',
+	image: 'img/investors/varun-sadana.jpg',
+	cardContent: 'The Launch Place',
+	revealContent: "Varun Sadana has a Master in Business Administration from the University of North Carolina – Greensboro’s Bryan School of Business. Varun also is a 2004 graduate of the University of Delhi, New Delhi, India, from where he received a Bachelor of Commerce degree. In addition, he has a Post-Graduation Diploma in Export Marketing Management from Kurukshetra University, Kurukshetra, India. Prior to joining The Launch Place team, Varun worked as a Business Consultant at Benefit Group, LLC – insurance brokerage firm in Greensboro, N.C., and developed high quality market research and analysis projects. In India, he also worked for Milan Agency, regional distributors of lubricants and engine oils and Milan Diesel Service, spare part retailer and service provider of diesel pumps, crank grinding, fuel injection pumps, water bodies and engine testing. Varun’s strengths are in management science, advanced business statistics, corporate strategy and finance functions, global financial markets and security analysis. As The Launch Place’s Deputy Director, he manages several management consulting projects and works with business consultants and interns from area colleges and universities. He also leads the due-diligence process for the seed and pre-seed investment opportunities.Varun has Lean Six Sigma Green Belt certificate from Virginia Tech and Project Management course certification from UNCG. He is currently pursuing executive management course from UNC's Kenan-Flagler Business School.",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Dan Mindus',
+	title: 'Managing Partner',
+	image: 'img/investors/dan-mindus.jpg',
+	cardContent: 'NextGen Venture Partners',
+	revealContent: "Dan has spearheaded more than 30 investments in high-growth companies through NextGen and his prior experience as Investment Director at CIT GAP Funds and Vice President at New Vantage Group. He has been included twice on Washingtonian magazine's list of 100 DC Tech Titans. Dan holds degrees from Yale and Harvard Business School.",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
 	cardTitle: 'Elaine Bolle',
 	title: 'Investor',
 	image: 'img/investors/elaine-bolle.jpg',
@@ -133,7 +149,7 @@ export default [{
 	cardContent: 'NC Biotech Center',
 	revealContent: "Dr. Applefield directs the Center’s Company Inception Loan (CIL) program, which provides up to $75,000 in seed capital for early-stage life science companies. He also reviews investment opportunities for the Center’s Small Business Research Loan (SRL) and Strategic Growth Loan (SGL) programs, and supports a portfolio of prior investment recipients to help guide their development. Drew has also managed the Industrial Internship Program (IIP) since its inception in 2012, through which the Center has created 32 internship opportunities at life science companies across North Carolina.",
 	current: true,
-	events: ['2016-05-11-rdu']
+	events: ['2016-05-11-rdu', '2016-08-09-rdu']
 },{
 	cardTitle: 'Vignesh Ravikumar',
 	title: 'Associate',
