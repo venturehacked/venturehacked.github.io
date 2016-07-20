@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Anthony Pompliano',
+	title: 'Investor',
+	image: 'img/investors/anthony-pompliano.jpg',
+	cardContent: '',
+	revealContent: "Anthony Pompliano, better known as Pomp, is an accomplished entrepreneur, investor, and technology executive. He most recently led numerous Product and Growth teams at Facebook and Snapchat. Previously, Pompliano founded two technology startups that were acquired in 2012 and 2013. Finally, Pomp started his career in the US Army leading Infantry and Combat Engineering teams.",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
 	cardTitle: 'Jim Britton',
 	title: 'Mentor',
 	image: 'img/investors/jim-britton.jpg',
@@ -181,7 +189,7 @@ export default [{
 	cardContent: 'Sierra Ventures',
 	revealContent: "Vignesh joined Sierra in 2013 after the completion of an internship at AGC Partners, a Boston-based investment bank. Prior to that, he graduated from UC San Diego in August 2012. During his time there, Vignesh was involved in a number of organizations including the Undergraduate Investment Society and the UCSD Student Foundation Endowment Fund. He also participated in academic competitions such as the CFA Research Challenge. Outside of UCSD, Vignesh completed internships at Wipro Technologies, a large, publicly traded IT firm and at Kotak Mahindra, one of the largest private banks in India. Vignesh holds a B.S. in Management Science (cum laude) and a Minor in Math.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 },{
 	cardTitle: 'Derrick Minor',
 	title: 'Community Builder',
@@ -510,7 +518,7 @@ export default [{
 	cardContent: 'Network of Things Fund',
 	revealContent: "Murray Newlands FRSA is an entrepreneur, business advisor and speaker. He is founder of Due an online invoicing company helping 75k+ business based in San Francisco. Newlands is also an adviser to the Draper Nexus Network of Things Fund that invests in IOT companies. He gives practice advice from the 1000’s of pitches he has heard for entrepreneurs and startups to grow their companies, get investment and succeed. Newlands received a Bachelor of Laws and he is qualified as a Lawyer. He gained his Green Card by being recognized by the US government as an “alien of extraordinary ability.” Newlands is the author of “Online Marketing: A User’s Manual” published by John Wiley & Sons. He is a contributor to Forbes and Entrepreneur.com.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 }, {
 	cardTitle: 'Shuly Galili',
 	title: 'Co-Founder & Investor',
@@ -690,7 +698,7 @@ export default [{
 	cardContent: 'Steelhead VC',
 	revealContent: "We do seed-stage investments and work with founders, joint venture partners, thought leaders and executive teams who are making a positive difference in their communities & the future of our world. Our portfolio includes 25 visionary companies whose ideas will impact their marketplace and communities. We are activist investors who catalyze growth through access to our networks, added value through our expertise, & a focus on revenue acceleration.",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Adam Boyden',
 	title: 'Investor',
@@ -713,67 +721,91 @@ export default [{
 	revealContent: "Kristen Bergman is Sr. Account Manager for Traction Interactive managing a team of 22 at Apple, and she is a Founding Member and former Vice President-Community Development of StartUp Cup. She has traveled extensively throughout the world developing entrepreneurial ecosystems by recruiting and training entrepreneurs and mentors, working with incubators and accelerators, developing experiential curriculum, and advising and educating angel investors / venture capitalists. Kristen specializes in pitch coaching and business model development.",
 	current: false
 },{
-	cardTitle: 'To Be Announced',
+	cardTitle: 'Ramtin Naimi',
 	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: false,
-	events: ['2016-08-18-sv', '2016-08-09-rdu']
-},{
-	cardTitle: 'To Be Announced',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: false,
-	events: ['2016-08-18-sv', '2016-08-09-rdu']
-},{
-	cardTitle: 'To Be Announced',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: false,
+	image: 'img/investors/ramtin-naimi.jpg',
+	cardContent: 'Core VC',
+	revealContent: "Coming soon",
+	current: true,
 	events: ['2016-08-18-sv']
 },{
-	cardTitle: 'To Be Announced',
+	cardTitle: 'Peter Xu',
 	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: false,
+	image: 'img/investors/peter-xu.jpg',
+	cardContent: 'Crossvine Capital',
+	revealContent: "Coming soon",
+	current: true,
 	events: ['2016-08-18-sv']
 },{
-	cardTitle: 'To Be Announced',
+	cardTitle: 'Chris Shella',
 	title: 'Investor',
+	image: 'img/investors/chris-shella.jpg',
+	cardContent: 'Black Wall Street Investments',
+	revealContent: "Coming soon",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Jay Bigelow',
+	title: 'Investor',
+	image: 'img/investors/jay-bigelow.jpg',
+	cardContent: 'CED',
+	revealContent: "Director, Entrepreneurship",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Brian Model',
+	title: 'Investor',
+	image: 'img/investors/brian-model.jpg',
+	cardContent: 'Stonehenge Growth Equity Partners',
+	revealContent: "Coming soon",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Jon Spinney',
+	title: 'Investor',
+	image: 'img/investors/jon-spinney.jpg',
+	cardContent: 'Malartu Funds',
+	revealContent: "Coming soon",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Mark Easley',
+	title: 'Angel Investor',
+	image: 'img/investors/mark-easley.jpg',
+	cardContent: 'Goldhat Advisors',
+	revealContent: "Mark Easley is a startup advisor and angel investor in the Research Triangle Park area of North Carolina. Previously Mark had a 20+ year technology career in engineering, marketing, sales, and executive management in the semiconductor industry in Silicon Valley. Mark has been on the executive board of a Raleigh/Durham area angel investor group and is a member of the Council for Entrepreneurial Development. Mark provides mentoring direction to startups and potential entrepreneurs in the areas of investment crowdfunding, lean startup methods, marketing strategies, investor presentations, and management skills.",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Steve Monti',
+	title: 'Managing Director',
+	image: 'img/investors/steve-monti.jpg',
+	cardContent: 'Solidarity Capital',
+	revealContent: "Steve is an active angel impact investor and Founder/Managing Director of Solidarity Capital Group, an impact investment firm and fund that finances economically sustainable social justice enterprises, and is itself a Certified B Corp. He is also an Investors’ Circle member and co-founder and head of the Investors’ Circle NC local network; and a board member or advisor for various early stage companies and community initiatives. His prior background includes a 20 year IBM management career including key roles launching, leading, or accelerating four internal startup ventures. He has global experience in two dozen countries, and is an alumnus of the Venture Capital Institute and of Stanford University and Duke University. Steve is married with two daughters and one son, and lives and works in the Research Triangle region of NC.",
+	current: true,
+	events: ['2016-08-09-rdu']
+},{
+	cardTitle: 'Coming Soon',
+	title: '',
 	image: 'img/investors/placeholder.jpg',
 	cardContent: '',
 	revealContent: "",
-	current: false,
+	current: true,
 	events: ['2016-08-18-sv']
 },{
-	cardTitle: 'To Be Announced',
-	title: 'Investor',
+	cardTitle: 'Coming Soon',
+	title: '',
 	image: 'img/investors/placeholder.jpg',
 	cardContent: '',
 	revealContent: "",
-	current: false,
+	current: true,
 	events: ['2016-08-18-sv']
 },{
-	cardTitle: 'To Be Announced',
-	title: 'Investor',
+	cardTitle: 'Coming Soon',
+	title: '',
 	image: 'img/investors/placeholder.jpg',
 	cardContent: '',
 	revealContent: "",
-	current: false,
-	events: ['2016-08-18-sv']
-},{
-	cardTitle: 'To Be Announced',
-	title: 'Investor',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: false,
+	current: true,
 	events: ['2016-08-18-sv']
 }];
