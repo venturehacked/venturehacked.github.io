@@ -11,7 +11,7 @@ export default [{
 	title: 'Mentor',
 	image: 'img/investors/jim-britton.jpg',
 	cardContent: 'UNC Kenan-Flagler',
-	revealContent: "",
+	revealContent: "Jim Britton is the Associate Director - Capital Markets Lab and UNC Capital Markets Program at the UNC Kenan-Flagler Business School – Chapel Hill, NC.  He manages and teaches MBA and undergraduate students how to leverage high-end financial applications (Bloomberg, FactSet, Morningstar Direct, etc) for not only financial\investing analysis but other areas such as marketing, new business development and personal networking opportunites. He previously served as the Associate Director for the UNC Executive MBA Programs (including interim Director for both the Evening and OneMBA Programs). In addition, Jim works as an independent business consultant.  In that capacity, his clients included Health e-Lunch Kids, Greenfire International and Development, Modality, Good Technology, Certware, Soledge, etc.  He is currently the CTO for OldWell Solutions to deliver high-end technical solution in the dental industry. He enjoys working with a diverse group of people from a wide variety of backgrounds (both domestically and globally).  Connecting his network to help find solutions is an important part of his personal and professional life.  He is entrepreneurial by nature and thrives on developing new ideas internally and externally with potential new business opportunities relying on big data and trend analysis. Jim holds a BS in Business Administration, a MS in Information Science and MBA – all from the University of North Carolina at Chapel Hill.",
 	current: true,
 	events: ['2016-08-09-rdu']
 },{
