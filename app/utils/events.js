@@ -11,11 +11,11 @@ export default [
       eventbritePage: "https://www.eventbrite.com/e/triangle-venture-hacked-speed-investing-mentoring-startups-entrepreneurs-tickets-25881786119"
     },
     {
-    date: "August 18, 7-930pm",
+    date: "August 30, 7-930pm",
     image:"img/event-image-sv.jpg",
     id: "2016-08-18-sv",
     title: "Speed Investing & Lessons Learned",
-    location: "Palo Alto",
+    location: "Perkins Coie",
     address: "Palo Alto, CA",
     eventContent: "",
     eventbriteLink: "//eventbrite.com/tickets-external?eid=25880449120&ref=etckt",
