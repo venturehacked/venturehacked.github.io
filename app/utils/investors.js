@@ -599,7 +599,8 @@ export default [{
 	image: 'img/investors/asif-giga.jpg',
 	cardContent: 'Singtel Innov8',
 	revealContent: "Asif is currently supporting the fund's North American investment activities. Prior to joining Singtel Innov8, Asif started his own startup while at Wharton receiving funding from the Wharton Innovation Fund. Before Wharton he spent time at Data Collective Venture Capital which focuses on early stage deals around Big Data & Analytics. Asif spent time with Accenture in their Management Consulting practice building his operating experience with clients such as eBay, Microsoft and Cisco. He also spent time in Ernst & Young's Advisory Service practice. Asif received a BS in Business Administration from the University of Southern California, MMS from Duke University and his MBA from the Wharton School, University of Pennsylvania where he was a recipient of The Meckler Family Fellowship.",
-	current: false
+	current: true,
+	events: ['2016-08-18-sv']
 }, {
 	cardTitle: 'Rob Majteles',
 	title: 'Founder',
