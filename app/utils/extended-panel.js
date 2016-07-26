@@ -1,6 +1,31 @@
 export default [{
   panelists: [
     {
+      name: "Justin Miller",
+      image: "img/panelists/justin-miller.jpg",
+      title: "Co-Founder & CEO",
+      company: "WedPics",
+      bio: "Justin is a Scorpio. He loves Mexican food, dogs with underbites, and long walks on the beach. When he’s not enjoying these things he's found behind the screen at WedPics, a photo sharing app for your wedding - where he and his team have exploded into the $100B wedding scene since their launch nearly 4 years ago - becoming the fastest scaling app, to date, in this market. WedPics hosts over 5 million users and acquires  over 1,000 new brides every day, hosting over 7,000 weddings every weekend, with users uploading about 1 million photos and videos every week. WedPics is also loved in 185 countries - all from here in downtown Raleigh! To date, WedPics has raised nearly $11Million in funding from VCs and angels across the country, including Barbara Corcoran from Shark Tank! Before taking the entrepreneurial plunge, Justin spent 7 years as an art director at IBM. "
+    },
+    {
+      name: "Coming Soon",
+      image: "img/investors/placeholder.jpg",
+      title: "Founder",
+      company: "Startup",
+      bio: ""
+    },
+    {
+      name: "Coming Soon",
+      image: "img/investors/placeholder.jpg",
+      title: "Founder",
+      company: "Startup",
+      bio: ""
+    }
+  ],
+  events: ['2016-08-09-rdu']
+},{
+  panelists: [
+    {
       name: "Maci Peterson",
       image: "img/panelists/maci-peterson.jpg",
       title: "Co-Founder & CEO",
