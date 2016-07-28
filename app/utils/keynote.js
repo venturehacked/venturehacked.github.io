@@ -13,4 +13,9 @@ export default [{
   title: "Anthony Pompliano, Investor and Entrepreneur",
   bio: "Anthony Pompliano, better known as Pomp, is an accomplished entrepreneur, investor, and technology executive. He most recently led numerous Product and Growth teams at Facebook and Snapchat. Previously, Pompliano founded two technology startups that were acquired in 2012 and 2013. Finally, Pomp started his career in the US Army leading Infantry and Combat Engineering teams.",
   events: ['2016-08-09-rdu'],
+},{
+  image: "img/eric-keynote.jpg",
+  title: "Eric Ly, Co-Founder LinkedIn, CEO Presdo",
+  bio: "",
+  events: ['2016-08-18-sv'],
 }];
