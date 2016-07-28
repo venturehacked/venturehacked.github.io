@@ -1,4 +1,44 @@
 export default [{
+	cardTitle: 'Neda Blocho',
+	title: 'Partner',
+	image: 'img/investors/neda-blocho.jpg',
+	cardContent: 'Pejman Mar Ventures',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
+	cardTitle: 'Mark Grats',
+	title: 'Investor',
+	image: 'img/investors/placeholder.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
+	cardTitle: 'Ryan Hamilton',
+	title: 'Investor',
+	image: 'img/investors/ryan-hamilton.jpg',
+	cardContent: 'Fenox Venture Capital',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
+	cardTitle: 'Henry Ines',
+	title: 'Partner',
+	image: 'img/investors/henry-ines.jpg',
+	cardContent: 'DFJ Dragon Fund',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
+	cardTitle: 'Eric Ly',
+	title: '',
+	image: 'img/investors/eric-ly.jpg',
+	cardContent: '',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
 	cardTitle: 'Anthony Pompliano',
 	title: 'Investor',
 	image: 'img/investors/anthony-pompliano.jpg',
@@ -109,7 +149,7 @@ export default [{
 	cardContent: 'SAIC Capital',
 	revealContent: "Tao Wang works at SAIC Capital, which is the venture arm of SAIC Motor Group. SAIC is the largest car manufacturer in China  and is a global 100 company (#60).  SAIC Capital is based in Menlo Park, CA and  invests in startup companies with disrupted technologies in VR/AR, robotics, big data analytics, and other areas that may be applied to connected cars and autonomous driving.  We added values by helping invested companies expand their market into China through SAIC Motor’s large supplier network and affiliates. Tao also has a strong technical background and a PhD in EE.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 },{
 	cardTitle: 'Dave Neal',
 	title: 'Managing Director',
@@ -364,7 +404,7 @@ export default [{
 	cardContent: 'Draper Nexus',
 	revealContent: "",
 	current: true,
-	events: ['2016-02-24-silicon-valley', '2016-05-26-sv']
+	events: ['2016-02-24-silicon-valley', '2016-05-26-sv', '2016-08-18-sv']
 },{
 	cardTitle: 'Ajay Kamat',
 	title: 'Investor',
@@ -510,7 +550,7 @@ export default [{
 	cardContent: 'DreamFunded',
 	revealContent: "Manny Fernandez is an angel investor and serial entrepreneur. Manny is San Francisco’s 2014 Angel Investor of the Year. He is the founder SF Angels Group and co-founder/ CEO of DreamFunded.com, an equity crowdfunding platform with over 4,000 global accredited investors. Follow this thought leader on Twitter @MannyFernandez.",
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Murray Newlands',
 	title: 'Investor',
@@ -585,7 +625,7 @@ export default [{
 	revealContent: 'Marco Marinucci is an angel investor, startup aficionado and managing partner of Mind the Seed, an early stage venture capital firm. In Silicon Valley since 2002, Marco has been responsible for Googles content acquisition activities in several countries from 2005 to 2012. Hes the founder and CEO of the Mind the Bridge (MTB) a San Francisco based foundation, fostering Entrepreneurship education.' +
 	'Marcos 20+ years professional experience spans from artificial intelligence research to startups in VoIP, Ecommerce, Elearning and Ticketing.',
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Peter Brack',
 	title: 'Entrepreneur in Residence',
@@ -623,7 +663,7 @@ export default [{
 	cardContent: 'KPMG Venture Capital Practice',
 	revealContent: 'Jules Walker leads the business development efforts for KPMG’s Emerging Technology practice in the Bay area and beyond, focusing on creating and expanding relationships with hot start-ups and pre-IPO companies. He has spent his 20+ year professional career in financial services working for companies such as Bank of America, Robert Half and Textron Financial.',
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Tyler Peterson',
 	title: 'Vice President',
@@ -647,7 +687,7 @@ export default [{
 	revealContent: 'Miki is in charge of startup investment in US market at DeNA. Miki focuses on investments in consumer tech including mobile game tech, ecommerce, market place and on-line community. After having been at the forefront of the Internet industry in Japan last one and half decades, he relocated himself to San Francisco 2.5 years ago.'+
 	'Prior to DeNA, Miki has held multiple leadership positions including a board of director at Digital Garage, CEO at Open Network Lab, CTO/COO at Kakaku.com and practice manager at Netscape.',
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Eric Nagel',
 	title: 'Angel Investor',
