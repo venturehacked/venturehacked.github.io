@@ -771,10 +771,10 @@ export default [{
 	events: ['2016-08-18-sv']
 },{
 	cardTitle: 'Peter Xu',
-	title: 'Investor',
+	title: 'Venture Partner',
 	image: 'img/investors/peter-xu.jpg',
-	cardContent: 'Crossvine Capital',
-	revealContent: "Coming soon",
+	cardContent: 'Shenzhen Tech Center',
+	revealContent: "Peter Xu is a venture partner of the Shenzhen Tech Center. The Tech Center includes the main accelerator in Shenzhen and many venture capital fund’s headquarters. He is also an advisor in one of Stanford’s affiliated startup organizations. He has previous experience in the investment sector of the Bank of China in Hong Kong and also in Xin Tian Fund, founded by one of the first senior managers sent by George Soros Fund in 2010 to open a Hong Kong office.",
 	current: true,
 	events: ['2016-08-18-sv']
 },{
