@@ -8,17 +8,16 @@
 		</div>
 	</div>
 	<div class="row">
-		<div class="col s12 m6 l3">
-			{{#md-card class="z-depth-2" title=volunteers.cardTitle image=volunteers.image activator=true}}
-				{{#md-card-content}}
-				<div>
-					{{volunteers.title}}
+			{{#each model as |volunteer|}}
+				<div class="col s12 m6 l3">
+				{{#md-card class="z-depth-2" title=volunteer.cardTitle image=volunteer.image}}
+					{{#md-card-content}}
+					<div>
+						{{volunteer.team}}
+					</div>
+					{{/md-card-content}}
+				{{/md-card}}
 				</div>
-				<div>
-					{{volunteers.cardContent}}
-				</div>
-				{{/md-card-content}}
-			{{/md-card}}
-		</div>
+			{{/each}}
 	</div>
 </div>
