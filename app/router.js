@@ -14,6 +14,7 @@ Router.map(function() {
   this.route('event', { path:'event/:id' });
   this.route('investors');
   this.route('media');
+  this.route('volunteers');
 });
 
 export default Router;

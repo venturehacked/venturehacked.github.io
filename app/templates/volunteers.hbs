@@ -1,0 +1,23 @@
+<div class="container">
+	<div class="row">
+		<div class="col s12">
+			<h2 class="green-text text-darken-4">Volunteers</h2>
+		</div>
+		<div class="col s12 green-text font-size-15em">
+			We couldn't have great events without our awesome startup community volunteers. When you see these friendly faces, don't forget to say thank you!
+		</div>
+	</div>
+	<div class="row">
+			{{#each model as |volunteer|}}
+				<div class="col s12 m6 l3">
+				{{#md-card class="z-depth-2" title=volunteer.cardTitle image=volunteer.image}}
+					{{#md-card-content}}
+					<div>
+						{{volunteer.team}}
+					</div>
+					{{/md-card-content}}
+				{{/md-card}}
+				</div>
+			{{/each}}
+	</div>
+</div>
