@@ -11,7 +11,7 @@ export default [{
 	title: 'Partner',
 	image: 'img/investors/neda-blocho.jpg',
 	cardContent: 'Pejman Mar Ventures',
-	revealContent: "",
+	revealContent: "Neda was the latest Partner to join Pear Ventures, where she strives to work with incredible founders coming out of academic programs and to help them disrupt their intended industries. Neda’s passion for education led her to the Stanford entrepreneurship ecosystem, where she helped develop programs and resources for student and alumni entrepreneurs. Neda helped to build and run the Stanford Venture Studio program while working at the Center for Entrepreneurial Studies (CES) at the Graduate School of Business. Neda also led cross-campus collaboration through special initiatives and helping to led the Stanford Entrepreneurial Network (SEN) in partnership with the Stanford Technology Ventures Program (STVP). Neda went on to evolve and expand the StartX accelerator program, where her focus was helping founders maximize their potential through education and strategic relationships. Neda also serves on the Board of Directors for the Business Association of Stanford Entrepreneurial Students (BASES). Neda has her MBA from Notre Dame De Namur University, with a concentration in Finance.",
 	current: true,
 	events: ['2016-08-18-sv']
 },{
