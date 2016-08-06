@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Ryan Baird',
+	title: 'Investor',
+	image: 'img/investors/ryan-baird.jpg',
+	cardContent: 'GWC Innovator Fund',
+	revealContent: "",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
 	cardTitle: 'Neda Blocho',
 	title: 'Partner',
 	image: 'img/investors/neda-blocho.jpg',
