@@ -1,4 +1,12 @@
 export default [{
+	cardTitle: 'Bernard Slede',
+	title: 'Managing Partner',
+	image: 'img/investors/bernard-slede.jpg',
+	cardContent: 'Breakthrough Venture Partners',
+	revealContent: "Bernard Slede is the Managing Partner of Breakthrough Venture Partners (www.breakthroughvp.com) and a Global Venture Partner at BootstrapLabs (link to www.bootstrapslabs.com). A multifaceted entrepreneur, intrapreneur and executive, he was on the founding team of HP Corporate Ventures and launched HP Startup Central. He also finished #1 Champion in California in the Startup America scoreboard. He has architected and delivered business deals worth hundreds of millions of dollars globally. Bernard also advises large corporations and startups on monetizing innovation and setting up effective business development programs. 5 startups he was an Adviser to exited in 2015: iText Software (acquired by Hancom), GNS3 (acquired by SolarWinds), CogniVue (acquired by NXP), XTV (IPO) and Tribe Studios (acquihired by Palringo).",
+	current: true,
+	events: ['2016-08-18-sv']
+},{
 	cardTitle: 'Ryan Baird',
 	title: 'Investor',
 	image: 'img/investors/ryan-baird.jpg',
