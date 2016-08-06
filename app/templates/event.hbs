@@ -84,6 +84,8 @@
   {{/if}}
   <!-- end Panel Moderator -->
 
+
+
 <!-- investors -->
   <div class="row ">
     <div class="col s12 green-text text-darken-4 ">
@@ -100,6 +102,12 @@
     </div>
   </div>
 <!-- end investors -->
+
+<!-- Extended Panel Moderator -->
+{{#if model.eventModerator2}}
+  {{extended-panel-moderator moderator2Title=model.moderator2Title moderator2=model.eventModerator2}}
+{{/if}}
+<!-- end Extended Panel Moderator -->
 
 <!-- extended panel -->
 {{#if model.eventExtendedPanel}}
