@@ -1,15 +1,15 @@
 export default [
-    {
-      date: "August 10, 7-930pm",
-      image:"img/event-image-rdu-08.jpg",
-      id: "2016-08-09-rdu",
-      title: "Speed Investing & Lessons Learned",
-      location: "HQ Raleigh",
-      address: "Raleigh, NC",
-      eventContent: "",
-      eventbriteLink: "//eventbrite.com/tickets-external?eid=25881786119&ref=etckt",
-      eventbritePage: "https://www.eventbrite.com/e/triangle-venture-hacked-speed-investing-mentoring-startups-entrepreneurs-tickets-25881786119"
-    },
+    // {
+    //   date: "August 10, 7-930pm",
+    //   image:"img/event-image-rdu-08.jpg",
+    //   id: "2016-08-09-rdu",
+    //   title: "Speed Investing & Lessons Learned",
+    //   location: "HQ Raleigh",
+    //   address: "Raleigh, NC",
+    //   eventContent: "",
+    //   eventbriteLink: "//eventbrite.com/tickets-external?eid=25881786119&ref=etckt",
+    //   eventbritePage: "https://www.eventbrite.com/e/triangle-venture-hacked-speed-investing-mentoring-startups-entrepreneurs-tickets-25881786119"
+    // },
     {
     date: "August 30, 7-930pm",
     image:"img/event-image-sv.jpg",

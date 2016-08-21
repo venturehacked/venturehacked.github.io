@@ -325,7 +325,7 @@ export default [{
 	cardContent: 'Sandisk Ventures',
 	revealContent: "Aymerik Renard is a business development and venture capital veteran with over 20 years of experience spanning information and communications technology hardware, software, and services. Aymerik is currently heading SanDisk's North American investing initiative across the spectrum of flash storage. Prior to that, Aymerik was VP Accelerator at PCH International, an engineering and manufacturing services firm where he launched PCH's start-up facing program, and co-founded the Highway1 incubator for hardware start-ups. Aymerik spent most of his career at France Telecom-Orange, where he was most recently Managing Director, Venture Capital, investing in North America and Europe across multiple funds with an aggregate of over $700 million under management. Portfolio companies of Aymerik's have gone public on the NASDAQ, NYSE, and Neuer Markt exchanges, and have been acquired by Yahoo, Microsoft, Cisco, Sun Microsystems, SAP, IBM, and Cox Automotive, among other public companies.",
 	current: true,
-	events: ['2016-05-26-sv']
+	events: ['2016-05-26-sv', '2016-08-18-sv']
 },{
 	cardTitle: 'Amish Parashar',
 	title: 'Venture Partner',
@@ -530,7 +530,7 @@ export default [{
 	cardContent: '',
 	revealContent: "Jeremy is an angel investor and advisor for various incubators and startups, and is the cofounder of CloudNative.  He was the founding Reliability Engineer for Netflix, the largest video streaming service in the world and he ran ops for reddit, an online community for sharing and discussing interesting things on the internet that did more a billion pageviews a month at the time.",
 	current: true,
-	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
+	events: ['2016-02-24-silicon-valley']
 }, {
 	cardTitle: 'Jennifer Carolan',
 	title: 'Investor',
@@ -791,8 +791,7 @@ export default [{
 	image: 'img/investors/peter-xu.jpg',
 	cardContent: 'Shenzhen Tech Center',
 	revealContent: "Peter Xu is a venture partner of the Shenzhen Tech Center. The Tech Center includes the main accelerator in Shenzhen and many venture capital fund’s headquarters. He is also an advisor in one of Stanford’s affiliated startup organizations. He has previous experience in the investment sector of the Bank of China in Hong Kong and also in Xin Tian Fund, founded by one of the first senior managers sent by George Soros Fund in 2010 to open a Hong Kong office.",
-	current: true,
-	events: ['2016-08-18-sv']
+	current: false
 },{
 	cardTitle: 'Chris Shella',
 	title: 'Investor',
@@ -841,28 +840,4 @@ export default [{
 	revealContent: "Steve is an active angel impact investor and Founder/Managing Director of Solidarity Capital Group, an impact investment firm and fund that finances economically sustainable social justice enterprises, and is itself a Certified B Corp. He is also an Investors’ Circle member and co-founder and head of the Investors’ Circle NC local network; and a board member or advisor for various early stage companies and community initiatives. His prior background includes a 20 year IBM management career including key roles launching, leading, or accelerating four internal startup ventures. He has global experience in two dozen countries, and is an alumnus of the Venture Capital Institute and of Stanford University and Duke University. Steve is married with two daughters and one son, and lives and works in the Research Triangle region of NC.",
 	current: true,
 	events: ['2016-08-09-rdu']
-},{
-	cardTitle: 'Coming Soon',
-	title: '',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: true,
-	events: ['2016-08-18-sv']
-},{
-	cardTitle: 'Coming Soon',
-	title: '',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: true,
-	events: ['2016-08-18-sv']
-},{
-	cardTitle: 'Coming Soon',
-	title: '',
-	image: 'img/investors/placeholder.jpg',
-	cardContent: '',
-	revealContent: "",
-	current: true,
-	events: ['2016-08-18-sv']
 }];
