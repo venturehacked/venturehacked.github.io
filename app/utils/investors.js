@@ -671,7 +671,7 @@ export default [{
 	cardContent: 'Right Side Capital',
 	revealContent: 'Right Side Capital invests small amounts into a very large number of capital efficient, pre-seed stage technology startups. The firm has made just under 300 investments in the past 3 years. Prior to founding Right Side Capital, Dave spent 17 years as the CEO and founder of two technology startups, Acorn Computer and WorkMetro.',
 	current: true,
-	events: ['2016-02-24-silicon-valley']
+	events: ['2016-02-24-silicon-valley', '2016-08-18-sv']
 }, {
 	cardTitle: 'Jules Walker',
 	title: 'Director',
