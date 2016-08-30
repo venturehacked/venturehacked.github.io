@@ -1,6 +1,24 @@
 export default [{
   panelists: [
     {
+      name: "Elaine Lu",
+      image: "img/panelists/elaine-lu.jpg",
+      title: "Co-Founder & COO",
+      company: "Visbit",
+      bio: "Elaine Lu is the Co-Founder and COO of Visbit, Inc. Founded in 2015, by Dr. Changyin Zhou, a tech visionary from Google X Lab, and Elaine, Visbit is a VC-backed startup that develops the next generation of cloud streaming solution for 4K+ resolution 360° degree VR videos.  Elaine holds an MBA degree from Cornell University and is a seasoned business leader with over a decade of experience across multiple industries and roles. Before co-founding Visbit, she held senior roles leading marketing and BD for the mobile gaming business at TangoMe and CYOU (US). She has also advanced her career at Microsoft, Starwood and Masco Group, where she gained rich experiences in establishing new business, developing emerging markets, and general management. She is a thought leader and entrepreneur in the virtual reality space and is passionate about encouraging women to join the VR and AR industry."
+    },
+    {
+      name: "Jim Jensen",
+      image: "img/investors/jim-jensen.png",
+      title: "Partner",
+      company: "Perkins Coie",
+      bio: "James Jensen, a partner in the firm's Emerging Companies & Venture Capital practice and a leader of the firm's China Emerging Company and the Investment Fund Formation practices in Silicon Valley, represents emerging companies, accelerator/incubators and venture capital funds in diverse industries, including clean technology (e.g., biofuels, LEDs, smart meters and solar), digital media, Internet, medical devices, mobile, security and software. He is a technology entrepreneur and has formed and ran multiple e-commerce and other Internet companies, which gives him a unique understanding of legal issues as viewed through the eyes of entrepreneurs"
+    }
+  ],
+  events: ['2016-08-18-sv']
+},{
+  panelists: [
+    {
       name: "Justin Miller",
       image: "img/panelists/justin-miller.jpg",
       title: "Co-Founder & CEO",
